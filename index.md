@@ -1,7 +1,8 @@
-## Dr. Jan Pearce, Founder and Department Chair, Computer and Information Science, Berea College
+## Dr. Jan Pearce
+### Founder and Department Chair, Computer and Information Science, Berea College
 
-### Fall 2019 Classes
-- [Test of Link to CSC236](https://github.com/pearcej/pearcej.github.io/csc236/index.md)
+#### Fall 2019 Classes
+- [Test of Link to CSC236](/csc236/index.md)
 
 
 You can use the [editor on GitHub](https://github.com/pearcej/pearcej.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
