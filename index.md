@@ -1,4 +1,4 @@
-## Dr. Jan Pearce, Computer and Information Science 
+## Computer and Information Science Department
 
 #### Department Founder and Chair, Berea College
 
