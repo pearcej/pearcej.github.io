@@ -9,6 +9,6 @@
 
 - [csc426: Open Source Software Engineering](/csc426/index.md)
 
-Publications
+#### Publications
 - [Recent and Selected](/recent/index.md)
 
