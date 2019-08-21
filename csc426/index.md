@@ -11,7 +11,7 @@
   - Before next class: 
     - Read [GitHub vs Resume: Why Bother With a Resume in the Age of GitHub?](https://blog.kickresume.com/2017/09/11/github-vs-resume/)
     - [Set-up a blog for this course](blog.md)
-    - Make first blog post based on (Prompt 1)(blog1.md) AND copy post into Moodle
+    - Make first blog post based on [Prompt 1](blog1.md) AND copy post into Moodle
     - Install [Git](https://git-scm.com/download/) and get a [GitHub](https://github.com/) account if you don't already have them. We will work with this next time.
 
 
