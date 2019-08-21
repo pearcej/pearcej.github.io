@@ -7,8 +7,9 @@
 ## Day 1: Wednesday, August 21, 2019
   - Welcome
   - Discussion of course: content, texts, tools, syllabus, flow, etc
-  - Before next class: Read [GitHub vs Resume: Why Bother With a Resume in the Age of GitHub?](https://blog.kickresume.com/2017/09/11/github-vs-resume/)
-  - [Set-up a blog for this course](blog.md)
+  - Before next class: 
+    -- Read [GitHub vs Resume: Why Bother With a Resume in the Age of GitHub?](https://blog.kickresume.com/2017/09/11/github-vs-resume/)
+    -- [Set-up a blog for this course](blog.md)
 
 
  
