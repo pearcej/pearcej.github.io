@@ -2,14 +2,14 @@
 
 #### Department Founder & Chair, Berea College
 
+I am just porting my personal pages to this site. Please email me at jan_pearce@berea.edu if you are looking for something specific that is not here.
+
 #### Fall 2019 Courses
 
-- [csc236: Data Structures](/csc236/index.md)
-  - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4py/index.html), use csc236-transition-F19 and create a login using your Berea email and username.
-  - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use csc236-ds-F19 and create a login using your Berea email and username.
+- [csc236: Data Structures](/csc236/index.md
 
 - [csc426: Open Source Software Engineering](/csc426/index.md)
 
-#### Publications
-- [Recent and Selected](/recent/index.md)
+#### [Recent and Selected Publications](/publicatons/index.md)
+
 
