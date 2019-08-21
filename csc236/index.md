@@ -1,6 +1,6 @@
 # csc 236: Data Structures, Berea College
 
-  - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4py/index.html), use csc236-transition-F19 and create a login using your Berea email and username.
+  - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), use csc236-transition-F19 and create a login using your Berea email and username.
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use csc236-ds-F19 and create a login using your Berea email and username.
   
 ---
@@ -9,11 +9,11 @@
   - Welcome
   - Icebreaker
   - Discussion of course: content, texts, syllabus, flow, etc
-  - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4py/index.html), use csc236-transition-F19 and create a login using your Berea email and username.
+  - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), use csc236-transition-F19 and create a login using your Berea email and username.
   - Complete [T01: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/) You should finish this and submit in class, but the due date is actually set to before our next class.
   - Before next time: Follow [A00: Install Visual Studio and Plugins](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit comments to Moodle.
   - Before next time: A01: Read the syllabus [csc236syllabus.pdf](csc236syllabus.pdf) and then submit [A01: Student Info](https://docs.google.com/forms/d/e/1FAIpQLScuvQrux6UV6nGa2h7TE8SXFqf64amCHbe4lU5FfIJgMErhFw/viewform?usp=sf_link) and upload a selfie photo to Moodle (so I can learn your name!)
-  - Before next time: Read Chapter 1 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4py/index.html) in preparation for a reading quiz. Be sure you are logged in to csc236-transition-F19. 
+  - Before next time: Read Chapter 1 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure you are logged in to csc236-transition-F19. 
 
 
 ---
