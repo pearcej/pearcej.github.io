@@ -1,7 +1,7 @@
 ## Blog Prompt 1
 
 In class, we brainstormed skills and characteristics of good open source software developers. 
-For the prompt below, you can choose items from the list we generated together - or you can suggest something else.
+For the prompt below, you can choose [items from the list we generated together](http://cs.berea.edu/courses/csc426/opensource-day1.pdf) (use zoom a lot to see - sorry) - or you can suggest something else.
 
 In your first blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 
