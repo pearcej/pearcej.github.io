@@ -5,9 +5,9 @@ For the prompt below, you can choose items from the list we generated together -
 
 In your first blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 
-Do you have any prior experience with open source? If so, what is it? (It's okay if you don't have any at all!)
-What do you think is the strongest skill or characteristic that you can bring to your team this semester?
-What skill or characteristic would you most like to improve upon? What can you do this semester to help in that endeavor?
+  - Do you have any prior experience with open source? If so, what is it? (It's okay if you don't have any at all!)
+  - What do you think is the strongest skill or characteristic that you can bring to your team this semester?
+  - What skill or characteristic would you most like to improve upon? What can you do this semester to help in that endeavor?
 
 ### In order to receive credit for each blog entry, you must do *both* of the following:
 
