@@ -1,5 +1,4 @@
-# csc426: Open Source Software Engineering
-# Berea College
+## csc426: Open Source Software Engineering
 
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
   
