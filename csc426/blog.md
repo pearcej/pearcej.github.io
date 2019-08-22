@@ -1,6 +1,8 @@
 ## Create a new WordPress Blog
 
-Create a new publicly accessible blog on WordPress. Start by visiting wordpress.com and clicking Get Started.
+Create a new publicly accessible blog on a blogging platform such as WordPress. 
+If you use WordPress, start by visiting wordpress.com and clicking Get Started.
+Note: Do not use a non-blogging platform like Google Docs.
 
 Make sure that your blog is public, or else the TAs and I won't be able to see your posts. 
 It's up to you whether you would like to use your real name or not. 
