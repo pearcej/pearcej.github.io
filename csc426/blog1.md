@@ -14,5 +14,8 @@ In your first blog entry of the semester, address each of the following bullets 
   - Post your entry to your blog.
   - Additionally, copy and paste the text of your entry to Moodle. (This should only take a couple of minutes.)
   
+The best blog entries will be honest, thoughtful, and critically reflective. Here are some [blog examples](blogreflections.md) of the differences
+between reporting, reflection, and critical reflection.
+  
 ### Please note that blog prompts are due by 8 am on their due dates --do not wait until the last minute! 
 This first entry is due by 8 am on Monday, August 26, 2019
