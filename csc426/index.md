@@ -4,6 +4,7 @@
   
 ---
 ## Day 2: Monday, August 26, 2019
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discussion of reading and blog post
     - [A Guided Tour of SugarLabs](https://docs.google.com/document/d/1_44kltGLVCObjc1eB1TQFmInclvwpckscYFWs1OcUqo/edit?usp=sharing)
