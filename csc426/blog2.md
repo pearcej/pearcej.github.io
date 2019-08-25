@@ -6,7 +6,7 @@ Read both of the following:
 
 In your second blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 
-  - How do you envision ways community is fostered in the FOSS movement?
+  - Referencing ideas from your readings, how do you envision ways community is fostered in the FOSS movement?
 
 ### Remember in order to receive credit for each blog entry, you must do *both* of the following:
 
