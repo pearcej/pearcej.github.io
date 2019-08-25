@@ -1,7 +1,7 @@
 ## Blog Prompt 2
 
 Read both of the following:
-  - Chapter 1 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 33-52
+  - Chapter 1 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 1-20 paper or pp 33-52 pdf
   - [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing)
 
 In your second blog entry of the semester, address each of the following bullets (1 or more paragraph each):
