@@ -3,6 +3,13 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
   
 ---
+## Day 2: Monday, August 26, 2019
+  - Discussion of reading and blog post
+  - [A Guided Tour of SugarLabs](https://docs.google.com/document/d/1_44kltGLVCObjc1eB1TQFmInclvwpckscYFWs1OcUqo/edit?usp=sharing)
+  - Before next class: 
+    - Read Chapter 1 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 1-20 paper or pp 33-52 pdf
+    - Read [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing)
+    - Make second blog post based on [Prompt 2](blog2.md) AND copy post into Moodle
 
 ## Day 1: Wednesday, August 21, 2019
   - Welcome
