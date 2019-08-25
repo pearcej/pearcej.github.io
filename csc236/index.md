@@ -8,7 +8,7 @@
 ## Day 3: Monday, August 26, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - Take Quiz Q01 on Chapter 2 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to use the book cpp4py and the course csc236-transition-F19 and a login using your Berea email and username.
-  - Complete and submit [T02: LiveShare Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing) which is an in-class way to begin the first lab [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+  - Complete and submit [T02: LiveShare Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing)
   - Before next time:
     - Read Chapters 3 and 4 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to use the book cpp4py and the course csc236-transition-F19 and a login using your Berea email and username.
     - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) which is due Friday, August 30, 2019.
