@@ -6,7 +6,7 @@ Read both of the following:
 
 In your second blog entry of the semester, address each of the following bullets (1 or more paragraph each):
   - Identify what you see as the key points from the Chapter 1 reading, and then identify one of these to discuss how you see it relating to you personally.
-  - Discuss what is meant by the social economy, severeal ways it is like the monetary ecnomy, its value in FOSS development, and its value to you in your future.
+  - Discuss what is meant by the social economy, several ways it is like the monetary economy, its value in FOSS development, and its value to you in your future.
   - Referencing ideas from your readings, how do you envision ways community is *fostered* in the FOSS movement?
 
 ### Remember in order to receive credit for each blog entry, you must do *both* of the following:
