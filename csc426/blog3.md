@@ -19,4 +19,4 @@ In your third blog entry of the semester, address each of the following bullets 
 The best blog entries will be honest, thoughtful, and critically reflective. Here are some [blog examples](blogreflection.md) of the differences
 between reporting, reflection, and critical reflection.
   
-### This third entry is due by 8 am on Wednesday, August 28, 2019
+### This entry is due before our next class
