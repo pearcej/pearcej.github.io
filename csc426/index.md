@@ -7,7 +7,7 @@
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discussion of reading and blog post
-    - [Engaging with Runestone](https://docs.google.com/document/d/1_44kltGLVCObjc1eB1TQFmInclvwpckscYFWs1OcUqo/edit?usp=sharing)
+    - [Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing)
   - Before next class: 
     - Read Chapter 3 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 71-96
     - Make third blog post based on [Prompt 3](blog3.md) AND copy post into Moodle
