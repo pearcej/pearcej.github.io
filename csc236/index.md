@@ -10,7 +10,7 @@
   - In class:
     - Take Quiz Q04 on Chapters 6 and 7 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to use the book cpp4py and the course csc236-transition-F19 and a login using your Berea email and username.
   - Before next time:
-    - Register for our next Runestone book.then read Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use the book cppds and the course csc236-DS-F19 and a login using your Berea email and username.
+    - Register for our next Runestone book. Read Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username.
     - Continue making progress on [L02: Loopy Art](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) which is due Friday, September 6, 2019.
 
 ## Day 5: Friday, August 30, 2019
