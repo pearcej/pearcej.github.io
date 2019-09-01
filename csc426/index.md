@@ -3,11 +3,21 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
   
 ---
+## Day 4: Monday, September 2, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discussion of reading and blog post
+    - [T2 Building Books and Connections](coming soon)
+  - Before next class: 
+    - Read the Foreward, Preface, and A Brief History of Hackerdom in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp ix-19
+    - Read [https://gist.github.com/digitaljhelms/3761873](https://gist.github.com/digitaljhelms/3761873)
+    - Make fourth blog post based on [Prompt 4](blog4.md) AND copy post into Moodle
+    
 ## Day 3: Wednesday, August 28, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discussion of reading and blog post
-    - [Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing)
+    - [T2 Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing)
   - Before next class: 
     - Read Chapter 3 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 71-96
     - Make third blog post based on [Prompt 3](blog3.md) AND copy post into Moodle
@@ -16,7 +26,7 @@
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discussion of reading and blog post
-    - [A Guided Tour of SugarLabs](https://docs.google.com/document/d/1_44kltGLVCObjc1eB1TQFmInclvwpckscYFWs1OcUqo/edit?usp=sharing)
+    - [T1 A Guided Tour of SugarLabs](https://docs.google.com/document/d/1_44kltGLVCObjc1eB1TQFmInclvwpckscYFWs1OcUqo/edit?usp=sharing)
   - Before next class: 
     - Read Chapter 1 in [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pp 1-20 paper or pp 33-52 pdf
     - Read [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing)
