@@ -9,7 +9,7 @@
     - Discussion of reading and blog post
     - [T2 Building Books and Connections](coming soon)
   - Before next class: 
-    - Read the Foreward, Preface, and A Brief History of Hackerdom in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp ix-19
+    - Read the Foreward, Preface, and A Brief History of Hackerdom in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp ix-17
     - Read [Committing Code: General Rules](https://gist.github.com/digitaljhelms/3761873)
     - Make fourth blog post based on [Prompt 4](blog4.md) AND copy post into Moodle
     
