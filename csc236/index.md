@@ -2,7 +2,7 @@
 # Berea College
 
   - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), use the book cpp4py and the course csc236-transition-F19 and create a login using your Berea email and username.
-  - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-ds-F19 and create a login using your Berea email and username.
+  - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
   
 ---
 ## Day 6: Monday, September 2, 2019
