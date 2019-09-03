@@ -23,5 +23,4 @@ of the differences between reporting, reflection, and critical reflection.
   
 ### This entry is due by 8 am on the day of our next class
 
-#### Modification of 
-     [an assignment by Emily Lovell](https://trello.com/c/1XTmt0Bk/61-discussion-questions-cathedral-the-bazaar-second-essay)
+#### Modification of an [assignment by Emily Lovell](https://trello.com/c/1XTmt0Bk/61-discussion-questions-cathedral-the-bazaar-second-essay)
