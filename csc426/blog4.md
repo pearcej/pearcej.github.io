@@ -1,7 +1,7 @@
 ## Blog Prompt 4
 
 Read the following:
-    - Read the Foreward, Preface, and A Brief History of Hackerdom in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp ix-17
+    - Read the Foreword, Preface, and A Brief History of Hackerdom in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp ix-17
     - Read [Committing Code: General Rules](https://gist.github.com/digitaljhelms/3761873)
 
 In your fourth blog entry of the semester, address each of the following bullets (1 or more paragraph each):
@@ -16,7 +16,6 @@ In your fourth blog entry of the semester, address each of the following bullets
   - Post your entry to your blog.
   - Additionally, copy and paste the text of your entry to Moodle. (This should only take a couple of minutes.)
   
-The best blog entries will be honest, thoughtful, and critically reflective. Here are some [blog examples](blogreflection.md) of the differences
-between reporting, reflection, and critical reflection.
+The best blog entries will be honest, thoughtful, and critically reflective. Here are some [blog examples](blogreflection.md) of the differences between reporting, reflection, and critical reflection.
   
 ### This entry is due by 8 am on the day of our next class
