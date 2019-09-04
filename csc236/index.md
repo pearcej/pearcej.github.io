@@ -8,6 +8,7 @@
 ## Day 7: Wednesday, September 4, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
+    - Quiz on Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html).Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: You can safely skip sections 1.7-1.11 because longer versions of these all appeared in our first other book. I recommend reading 1.12 the most carefully because it introduces OOP and classes. 1.13 is a harder read, so get the main ideas and you will be fine.
     - Begin [T04: Arrays and Randomness](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing)
   - Before next time:
     - Begin [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg/edit?usp=sharing) which is due Monday, September 9, 2019.
