@@ -10,7 +10,7 @@
   - In class:
     - Begin [T04: Arrays and Randomness](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing)
   - Before next time:
-    - Complete and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg/edit?usp=sharing)
+    - Begin [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg/edit?usp=sharing) which is due Monday, September 9, 2019.
     - Complete and submit [L02: Loopy Art](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) which is due Friday, September 6, 2019.
 
 ## Day 6: Monday, September 2, 2019
