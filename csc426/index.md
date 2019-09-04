@@ -11,6 +11,8 @@
   - Before next class:
     - Read the Cathedral and the Bazaar in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp 21-63
     - Make fifth blog post based on [Prompt 5](blog5.md) AND copy post into Moodle
+    - Go [to Box](https://berea.app.box.com/folder/86378311517) and download the Ubuntu clone image.
+    - Install [VirtualBox](https://www.virtualbox.org) if you haven't already.
 
 ## Day 4: Monday, September 2, 2019
   - Before class: Complete all work due before class today (see list from last time)
