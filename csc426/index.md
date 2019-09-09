@@ -3,6 +3,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 6: Monday, September 9, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discussion of reading and blog post
+    - Complete and submit [T4 Runestone Server](https://docs.google.com/document/d/1Mzz-fA3lmM4vrfYIYo0Ou9v_oAdrJJ2hR4WihqtG21g/edit?usp=sharing)
+  - Before next class:
+    - Read [The Impact of the Tech Giants on Open Source](https://www.forbes.com/sites/adrianbridgwater/2019/09/07/the-impact-of-the-tech-giants-on-open-source/#357c25cdd277)
+    - Make sixth blog post based on [Prompt 6](blog6.md) AND copy post into Moodle
+
 ## Day 5: Wednesday, September 4, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
