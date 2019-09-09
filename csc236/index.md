@@ -5,6 +5,14 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 9: Monday, September 9, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Begin [T05: ADTs and the Dog Class](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing))
+  - Before next time:
+    - Continue [L03: Fraction Enhancement](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Be sure to meet Milestone 2 by Wednesday, September 11, 2019.
+    - Complete and Submit [A02: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8/edit?usp=sharing) which is due Wednesday, September 11, 2019.
+
 ## Day 8: Friday, September 6, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
