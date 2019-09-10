@@ -11,6 +11,7 @@
     - Complete and submit [T05: ADTs and the Dog Class](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing)
   - Outside of class:
     - Complete and Submit [L03: Fraction Enhancement](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) completion due on Friday, September 13, 2019.
+    - Announcement: There will be a quiz on Monday, September 16, 2019 on Chapter 2 reading from [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
 
 ## Day 9: Monday, September 9, 2019
   - Before class: Complete all work due before class today (see list from last time)
