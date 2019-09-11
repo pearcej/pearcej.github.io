@@ -10,6 +10,7 @@
     - Begin and possibly complete and submit [T05: Git and Website](https://docs.google.com/document/d/1JtjsJFx5sdZuOcHqv5hnr16aFdytJ3hYqQX2LT_cdhQ/edit?usp=sharing)
   - Before next class:
     - Complete and submit [T05: Git and Website](https://docs.google.com/document/d/1JtjsJFx5sdZuOcHqv5hnr16aFdytJ3hYqQX2LT_cdhQ/edit?usp=sharing)
+
   Read the following:
     - In the Cathedral and the Bazaar read [Appendix A: How to Become a
       Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213
