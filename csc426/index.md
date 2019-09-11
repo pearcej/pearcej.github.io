@@ -3,11 +3,22 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 7: Wednesday, September 11, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discussion of reading and blog post
+    - Complete and submit [T05 Websites](https://docs.google.com/document/d/1JtjsJFx5sdZuOcHqv5hnr16aFdytJ3hYqQX2LT_cdhQ/edit?usp=sharing)
+  - Before next class:
+  Read the following:
+    - In the Cathedral and the Bazaar read [Appendix A: How to Become a
+      Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213277)
+    - Make seventh blog post based on [Prompt 7](blog7.md) AND copy post into Moodle
+
 ## Day 6: Monday, September 9, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discussion of reading and blog post
-    - Complete and submit [T4 Runestone Server](https://docs.google.com/document/d/1Mzz-fA3lmM4vrfYIYo0Ou9v_oAdrJJ2hR4WihqtG21g/edit?usp=sharing)
+    - Begin [T4 RunestoneServer](https://docs.google.com/document/d/1Mzz-fA3lmM4vrfYIYo0Ou9v_oAdrJJ2hR4WihqtG21g/edit?usp=sharing) - don't worry about finishing or submitting.
   - Before next class:
     - Read [The Impact of the Tech Giants on Open Source](https://www.forbes.com/sites/adrianbridgwater/2019/09/07/the-impact-of-the-tech-giants-on-open-source/#357c25cdd277)
     - Make sixth blog post based on [Prompt 6](blog6.md) AND copy post into Moodle

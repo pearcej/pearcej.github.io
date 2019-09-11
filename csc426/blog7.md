@@ -1,8 +1,8 @@
 ## Blog Prompt 7
 
 Read the following:
-In The Cathedral and the Bazaar:
-  - Read the Cathedral and the Bazaar in [Appendix A: How to Become a Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213
+  - In the Cathedral and the Bazaar read [Appendix A: How to Become a
+    Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213
 
 In your seventh blog entry of the semester, address each of the following bullets (1 or more paragraph each):
   - According to Raymond, what is a hacker? How about a cracker? How do these definitions differ from what you thought before reading this essay, if at all?
