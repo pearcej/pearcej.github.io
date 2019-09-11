@@ -11,7 +11,7 @@
   - Before next class:
   Read the following:
     - In the Cathedral and the Bazaar read [Appendix A: How to Become a
-      Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213277)
+      Hacker](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp. 195-213)
     - Make seventh blog post based on [Prompt 7](blog7.md) AND copy post into Moodle
 
 ## Day 6: Monday, September 9, 2019
