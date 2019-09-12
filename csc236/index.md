@@ -5,7 +5,7 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
-## Day 10: Wednesday, September 13, 2019
+## Day 11: Wednesday, September 13, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing)
