@@ -5,13 +5,21 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 10: Wednesday, September 13, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing)
+  - Outside of class:
+    - Begin [L04: Beetle ADT](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) completion due on Friday, September 13, 2019.
+    - Announcement: There will be a reading quiz on Wednesday, September 18, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
+
 ## Day 10: Wednesday, September 11, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T05: ADTs and the Dog Class](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing)
   - Outside of class:
     - Complete and Submit [L03: Fraction Enhancement](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) completion due on Friday, September 13, 2019.
-    - Announcement: There will be a reading quiz on Monday, September 16, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
+    - Announcement: There will be a reading quiz on Wednesday, September 18, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
 
 ## Day 9: Monday, September 9, 2019
   - Before class: Complete all work due before class today (see list from last time)
@@ -20,7 +28,7 @@
   - Outside of class:
     - Continue [L03: Fraction Enhancement](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Be sure to meet Milestone 2 by Wednesday, September 11, 2019.
     - Complete and Submit [A02: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8/edit?usp=sharing) which is due Wednesday, September 11, 2019.
-    - Announcement: There will be a reading quiz on Monday, September 16, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
+    - Announcement: There will be a reading quiz on Wednesday, September 18, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
 
 ## Day 8: Friday, September 6, 2019
   - Before class: Complete all work due before class today (see list from last time)
