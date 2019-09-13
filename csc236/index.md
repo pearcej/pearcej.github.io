@@ -8,6 +8,7 @@
 ## Day 11: Friday, September 13, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
+    - Discuss [Strategies for Success](https://docs.google.com/document/d/1Dlv67ua7t2ARod6lOVhmzkAJs54IUzxT2yqPpOhQAAw/edit?usp=sharing)
     - Begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
   - Outside of class:
     - Complete and submit [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which we started in class and which is due on Monday, September 13, 2019.
