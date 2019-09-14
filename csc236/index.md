@@ -5,6 +5,14 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 12: Monday, September 16, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Reiterate [Strategies for Success](https://docs.google.com/document/d/1Dlv67ua7t2ARod6lOVhmzkAJs54IUzxT2yqPpOhQAAw/edit?usp=sharing)
+  - Outside of class:
+    - Continue to make progress on [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) Milestone 2 due by Wednesday, September 18, 2019.
+    full completion due on Friday, September 20, 2019.
+
 ## Day 11: Friday, September 13, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
@@ -13,7 +21,7 @@
   - Outside of class:
     - Complete and submit [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which we started in class and which is due on Monday, September 13, 2019.
     - Begin [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) Milestone 1 of pulling repo and making commits due by Monday, September 16, 2019.
-    full completion due on Friday, September 13, 2019.
+    full completion due on Friday, September 20, 2019.
     - Announcement: There will be a reading quiz on Wednesday, September 18, 2019 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice before Monday!
 
 ## Day 10: Wednesday, September 11, 2019
