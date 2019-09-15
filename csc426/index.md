@@ -4,7 +4,7 @@
 
 ---
 ## Day 7: Wednesday, September 11, 2019
-  - Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see the list from last time)
   - In class:
     - Discussion of reading and blog post (hi class!)
     - Begin and possibly complete and submit [T05: Git and Website](https://docs.google.com/document/d/1JtjsJFx5sdZuOcHqv5hnr16aFdytJ3hYqQX2LT_cdhQ/edit?usp=sharing)
