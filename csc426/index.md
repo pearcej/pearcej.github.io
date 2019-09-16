@@ -3,6 +3,20 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 8: Monday, September 16, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Discussion of reading and blog post
+    - Website show and tell
+    - Work with Git
+    - [T04 NEW RunestoneServer]()
+  - Before next class:
+    -[What is Linux](https://opensource.com/resources/linux)
+    -[Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
+    -[Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
+    - Make seventh blog post based on [Prompt 8](blog8.md) AND copy post into Moodle
+
+
 ## Day 7: Wednesday, September 11, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
