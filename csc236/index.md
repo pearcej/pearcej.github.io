@@ -9,6 +9,7 @@
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Reiterate [Strategies for Success](https://docs.google.com/document/d/1Dlv67ua7t2ARod6lOVhmzkAJs54IUzxT2yqPpOhQAAw/edit?usp=sharing)
+    - Begin [T06: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
   - Outside of class:
     - Continue to make progress on [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) Milestone 2 due by Wednesday, September 18, 2019.
     full completion due on Friday, September 20, 2019.
