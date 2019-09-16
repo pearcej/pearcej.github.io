@@ -14,7 +14,7 @@
     - [What is Linux](https://opensource.com/resources/linux)
     - [Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
     - [Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
-    - Make seventh blog post based on [Prompt 8](blog8.md) AND copy post into Moodle
+    - Make eighth blog post based on [Prompt 8](blog8.md) AND copy post into Moodle
 
 
 ## Day 7: Wednesday, September 11, 2019
