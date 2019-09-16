@@ -11,9 +11,9 @@
     - Work with Git
     - [T04 NEW RunestoneServer](https://docs.google.com/document/d/1Mzz-fA3lmM4vrfYIYo0Ou9v_oAdrJJ2hR4WihqtG21g/edit?usp=sharing)
   - Before next class:
-    -[What is Linux](https://opensource.com/resources/linux)
-    -[Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
-    -[Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
+    - [What is Linux](https://opensource.com/resources/linux)
+    - [Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
+    - [Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
     - Make seventh blog post based on [Prompt 8](blog8.md) AND copy post into Moodle
 
 
