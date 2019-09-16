@@ -1,9 +1,9 @@
 ## Blog Prompt 8
 
 Read the following:
-  -[What is Linux](https://opensource.com/resources/linux)
-  -[Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
-  -[Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
+  - [What is Linux](https://opensource.com/resources/linux)
+  - [Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
+  - [Virtualization 101: What is a Hypervisor?](https://www.pluralsight.com/blog/it-ops/what-is-hypervisor)
 
 In your eighth blog entry of the semester, address each of the following bullets (1 or more paragraphs each):
   - What is something that you learned or found interesting in these readings and what is something that you either found confusing or didn't understand or disagreed with?
