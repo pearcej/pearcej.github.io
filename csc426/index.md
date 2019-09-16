@@ -10,6 +10,7 @@
     - Website show and tell
     - Work with Git
     - [T04 NEW RunestoneServer]()
+  
   - Before next class:
     -[What is Linux](https://opensource.com/resources/linux)
     -[Why Develop on Linux?](https://insights.dice.com/2017/02/24/why-develop-on-linux/)
