@@ -5,6 +5,15 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 13: Wednesday, September 18, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Reiterate [Strategies for Success](https://docs.google.com/document/d/1Dlv67ua7t2ARod6lOVhmzkAJs54IUzxT2yqPpOhQAAw/edit?usp=sharing)
+    - Complete and submit [T06: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
+    - Begin [T07: When does Big O Matter](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)  
+  - Outside of class:
+    - Complete and submit [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) full completion due on Friday, September 20, 2019.
+
 ## Day 12: Monday, September 16, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
