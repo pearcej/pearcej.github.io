@@ -1,8 +1,8 @@
 ## Blog Prompt 9
 
 Read the following:
-    - Read Homesteading the Noosphere in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp 65-111.
-    - Read a discssion on [Talk:Homesteading the Noosphere](https://en.wikipedia.org/wiki/Talk%3AHomesteading_the_Noosphere)
+- Read Homesteading the Noosphere in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp 65-111.
+- Read the discssion on [Talk:Homesteading the Noosphere](https://en.wikipedia.org/wiki/Talk%3AHomesteading_the_Noosphere)
 
 In your ninth blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 - What motivates people to volunteer (e.g., build houses, work in soup kitchens, clean up after disasters, teach children to read)? 
