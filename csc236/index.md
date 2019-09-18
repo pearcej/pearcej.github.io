@@ -8,6 +8,7 @@
 ## Day 13: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
+    - Take quiz on text reading.
     - Complete and submit [T06: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
     - Begin [T07: When does Big O Matter](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)  
   - Outside of class:
