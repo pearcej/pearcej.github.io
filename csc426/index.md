@@ -3,7 +3,7 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
-## Day 9: Wenesday, September 18, 2019
+## Day 9: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
     - Discussion of reading and blog post
