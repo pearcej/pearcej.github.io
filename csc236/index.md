@@ -12,7 +12,7 @@
     - Ask questions on lab.
     - Complete and submit [T06: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
   - Outside of class:
-    - Complete and submit [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) full completion due on Friday, September 20, 2019.
+    - Complete and submit [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) full completion ~~due on Friday, September 20, 2019.~~ extended to being due on Monday, September 23, 2019.
     - [A04: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) Will be due on Monday, September 23, 2019.
 
 ## Day 12: Monday, September 16, 2019
