@@ -5,6 +5,17 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 14: Friday, September 20, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Ask questions on L04 and introduce L05.
+    - Begin [T07: When does Big O matter](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
+  - Outside of class:
+    - Complete and submit [L04: Beetle ADT](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) full completion ~~due on Friday, September 20, 2019.~~ extended to being due on Monday, September 23, 2019.
+    - Begin [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) by meeting first milesstone of pulling the repo and making a change by Monday, September 23, 2019.  full completion due on Monday, September 30, 2019.
+    - [A04: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) Will be due on Monday, September 23, 2019.
+
+    
 ## Day 13: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
