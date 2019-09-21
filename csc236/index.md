@@ -14,7 +14,6 @@
     - Begin [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Outside of class:
     - Continue [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) by meeting second Milestone of trying to complete and coming with questions by Wednesday, September 25, 2019. Full completion due on Monday, September 30, 2019.
-    - [A04: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) Will be due on Monday, September 23, 2019.
     - Announcement: There will be a reading quiz on Wednesday, September 25, 2019 on Sections 3.1-3.9 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username.
     - Announcement: There will be a reading quiz on Friday, September 27, 2019 on Sections 3.10-3.22 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use the book cppds,  the course csc236-DS-F19, and a login using your Berea email and username.
 

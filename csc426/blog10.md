@@ -9,7 +9,7 @@ Read the following:
 - [An Overview of Runestone Interactive](https://interactivepython.org/runestone/static/overview/overview.html)
 
 In your tenth blog entry of the semester, address each of the following bullets (1 or more paragraph each):
-- Have you used Runestone books for learning computer science? Have you also used paper books for learning computer science? Discuss what you think about the use of an interactive book for learning computer science from the student perspective. What are the benefits? The disadvantages?
+- Have you used Runestone or other interactive books for learning computer science? Have you also used paper books for learning computer science? Discuss what you think about the use of an interactive book for learning computer science from the student perspective. What are the benefits? The disadvantages?
 - Leveraging the reading, discuss what you think the advantages and disadvantages to using an interactive book for teaching computer science are from the instructor perspective. What are the benefits? The disadvantages?
 - Discuss what you have learned from your readings about how Runestone books are structured. Thinking about the primary purpose of each, discuss the when you might use each of the additional resources you have at your disposal which were only linked from your reading.
 
