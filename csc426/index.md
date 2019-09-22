@@ -3,6 +3,17 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 10: Monday, September 23, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Practice effective Git by changing: [Websites - Fall 2019](https://pearcej.github.io/csc426/websites-f19.html)
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - [On Runestone for Intro Courses](http://runestoneinteractive.org/2019/05/13/runestone_intro.html)
+    - [Runestone Dashboard](http://runestoneinteractive.org/2019/04/05/dashboard.html)
+    - [A reStructuredText Primer](https://getnikola.com/quickstart.html)
+    - [An Overview of Runestone Interactive](https://interactivepython.org/runestone/static/overview/overview.html)    - Make tenth blog post based on [Prompt 9](blog10.md) AND copy post into Moodle
+
 ## Day 9: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
@@ -13,9 +24,9 @@
     - Read Homesteading the Noosphere in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp 65-111.
     - Read the discussion on [Talk:Homesteading the Noosphere](https://en.wikipedia.org/wiki/Talk%3AHomesteading_the_Noosphere)
     - Make ninth blog post based on [Prompt 9](blog9.md) AND copy post into Moodle
- 
+
  ## Day 8: Monday, September 16, 2019
-  - Before class: Complete all work due before class today (see the list from last time)
+ - Before class: Complete all work due before class today (see the list from last time)
   - In class:
     - Discussion of reading and blog post
     - Website show and tell
