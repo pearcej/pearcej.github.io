@@ -3,17 +3,6 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
-## Day 10: Monday, September 23, 2019
-  - Before class: Complete all work due before class today (see the list from last time)
-  - In class:
-    - Practice effective Git by changing: [Websites - Fall 2019](https://pearcej.github.io/csc426/websites-f19.html)
-    - Continue making contributions to Runestone.
-  - Before next class:
-    - [On Runestone for Intro Courses](http://runestoneinteractive.org/2019/05/13/runestone_intro.html)
-    - [Runestone Dashboard](http://runestoneinteractive.org/2019/04/05/dashboard.html)
-    - [A reStructuredText Primer](https://getnikola.com/quickstart.html)
-    - [An Overview of Runestone Interactive](https://interactivepython.org/runestone/static/overview/overview.html)    - Make tenth blog post based on [Prompt 9](blog10.md) AND copy post into Moodle
-
 ## Day 9: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
