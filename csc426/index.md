@@ -22,13 +22,13 @@
   - In class:
     - Discussion of reading and blog post
     - [T06 Making Contributions](https://docs.google.com/document/d/1132MRErxUtVA9JDTQCuY6_FwBk1KsyrHm09m-QapqhU/edit?usp=sharing)
-    - This page may be helpful: [Runestone Interactive Overaview](https://runestone.academy/runestone/static/overview/overview.html)
+    - This page may be helpful: [Runestone Interactive Overview](https://runestone.academy/runestone/static/overview/overview.html)
   - Before next class:
     - Read Homesteading the Noosphere in [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) pp 65-111.
     - Read the discussion on [Talk:Homesteading the Noosphere](https://en.wikipedia.org/wiki/Talk%3AHomesteading_the_Noosphere)
     - Make ninth blog post based on [Prompt 9](blog9.md) AND copy post into Moodle
 
- ## Day 8: Monday, September 16, 2019
+## Day 8: Monday, September 16, 2019
  - Before class: Complete all work due before class today (see the list from last time)
   - In class:
     - Discussion of reading and blog post
