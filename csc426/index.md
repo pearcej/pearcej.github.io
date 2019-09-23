@@ -15,7 +15,7 @@
     - [An Overview of Runestone Interactive](https://interactivepython.org/runestone/static/overview/overview.html)  
     - [GitHub For Beginners: Don’t Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/), skipping anything that you already know or does not seem relevant to you.
     - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)  
-    - Make tenth blog post based on [Prompt 9](blog10.md) AND copy post into Moodle
+    - Make tenth blog post based on [Prompt 10](blog10.md) AND copy post into Moodle
 
 ## Day 9: Wednesday, September 18, 2019
   - Before class: Complete all work due before class today (see the list from last time)
