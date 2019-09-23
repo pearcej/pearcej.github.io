@@ -10,6 +10,4 @@ I am just porting my personal pages to this site. Please email me at jan_pearce@
 
 - [csc426: Open Source Software Engineering](./csc426/index.md)
 
-#### [Recent and Selected Publications](/publicatons/index.md)
-
-
+#### [Recent and Selected Publications](/publications/index.md)
