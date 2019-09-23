@@ -1,0 +1,25 @@
+## Links to Fall 2019 Websites
+
+Original [Starter Code](https://csc426-opensource-f19.github.io/)
+
+## Our Websites
+ - [TA](link)
+ - [CB](link)
+ - [AB](link)
+ - [AC](link)
+ - [HC](link)
+ - [RD](link)
+ - [CB](link)
+ - [Rodney Grant](https://grantrd.github.io/)
+ - [GH](link)
+ - [CB](link)
+ - [JH](link)
+ - [NJ](link)
+ - [MJ](link)
+ - [LO](link)
+ - [LEP](link)
+ - [Jan Pearce](https://pearcej.github.io/)
+ - [ES](link)
+ - [GS](link)
+ - [NS](link)
+ - [RW](link)
