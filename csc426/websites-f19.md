@@ -4,7 +4,7 @@ Original [Starter Code](https://csc426-opensource-f19.github.io/)
 
 ## Our Websites
  - [Tobi Adejumo](https://adejumool.github.io/)
- - [AB](link)
+ - [Alex Bryant](https://bryantal.github.io/)
  - [Conner Bondurant](https://cbondurant.github.io)
  - [Aaron Christson](https://christsona.github.io/)
  - [Hayes Clark](https://clarkh97.github.io/)
