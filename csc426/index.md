@@ -11,9 +11,10 @@
     - [Introduction to Scrum](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
     - Continue making contributions to Runestone as time permits.
   - Before next class:
-  - Read [Just Getting Started with Scrum](https://www.scruminc.com/just-getting-started-with-scrum/)
-  - Read [How to Get Started With Scrum](https://blog.teamtreehouse.com/get-started-practicing-scrum)
+    - Watch [How Scrum Works Video](https://www.youtube.com/watch?v=js8qoCVuQko)
+    - Read [Just getting started with scrum notes](https://www.scruminc.com/just-getting-started-with-scrum/)
     - Make eleventh blog post based on [Prompt 11](blog11.md) AND copy post into Moodle
+    - Complete [Scrum Report 9-30-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
 ## Day 10: Monday, September 23, 2019
   - Before class: Complete all work due before class today (see the list from last time)
