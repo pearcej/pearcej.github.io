@@ -9,6 +9,7 @@
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Take quiz
+    - Ask questions on lab
     - Discuss A04, T07 and understanding of Big O
     - Continue [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Outside of class:
