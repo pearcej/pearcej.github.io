@@ -12,7 +12,7 @@
     - Continue making contributions to Runestone as time permits.
   - Before next class:
     - Watch [How Scrum Works Video](https://www.youtube.com/watch?v=js8qoCVuQko)
-    - Read [Just getting started with scrum notes](https://www.scruminc.com/just-getting-started-with-scrum/)
+    - Read [Just Getting Started with Scrum](https://www.scruminc.com/just-getting-started-with-scrum/)
     - Make eleventh blog post based on [Prompt 11](blog11.md) AND copy post into Moodle
     - Complete [Scrum Report 9-30-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 

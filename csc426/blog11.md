@@ -2,7 +2,7 @@
 
 Watch/Read the following:
 - [How Scrum Works Video](https://www.youtube.com/watch?v=js8qoCVuQko)
-- [Just getting started with scrum notes](https://www.scruminc.com/just-getting-started-with-scrum/)
+- [Just Getting Started with Scrum](https://www.scruminc.com/just-getting-started-with-scrum/)
 
 In your eleventh blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 - Describe the four Scrum ceremonies and elaborate on how you believe each of these ceremonies may aid you and our class while working on RunestoneServer and books.
