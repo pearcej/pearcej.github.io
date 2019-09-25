@@ -3,6 +3,18 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 11: Wednesday, September 25, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - [RunestoneServer QuickStart](https://docs.google.com/document/d/1juV0Pe9xiu4O6nykEZhmeGPDUYH26peu0xqOtrOk9vw/edit?usp=sharing)
+    - [Git Quickstart](https://docs.google.com/document/d/1s_BteQ4pPkmh28Fo_jV30wYPTSW8bXR_wTpHpPZO6n4/edit?usp=sharing)
+    - [Introduction to Scrum](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+    - Continue making contributions to Runestone as time permits.
+  - Before next class:
+  - Read [Just Getting Started with Scrum](https://www.scruminc.com/just-getting-started-with-scrum/)
+  - Read [How to Get Started With Scrum](https://blog.teamtreehouse.com/get-started-practicing-scrum)
+    - Make eleventh blog post based on [Prompt 11](blog11.md) AND copy post into Moodle
+
 ## Day 10: Monday, September 23, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
