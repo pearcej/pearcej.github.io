@@ -13,6 +13,7 @@
     - Complete and submit [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Outside of class:
     - Submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
+    - Complete and submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
     - Begin working on [A05: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which will be due on Wednesday October 2, 2019.
     - Begin working on [L06: the Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing). First Milestone of pulling repo and making a commit due Monday September 30, 2019. Full completion due on Reading Day, Monday, October 7, 2019.    
 
