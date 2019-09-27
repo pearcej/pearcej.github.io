@@ -14,7 +14,7 @@
   - Outside of class:
     - Submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
     - Begin working on [A05: Resume and Career Reflection]() which will be due on Wednesday October 2, 2019.
-    - Begin working on [L06: the Game of War](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). First Milestone of pulling repo and making a commit due Monday September 30, 2019. Full completion due on Reading Day, Monday, October 7, 2019.    
+    - Begin working on [L06: the Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing). First Milestone of pulling repo and making a commit due Monday September 30, 2019. Full completion due on Reading Day, Monday, October 7, 2019.    
 
 ## Day 16: Wednesday, September 25, 2019
   - Before class: Complete all work due before class today (see list from last time)
