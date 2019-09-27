@@ -5,6 +5,17 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 17: Friday, September 27, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Take quiz
+    - Ask questions on lab
+    - Complete and submit [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
+  - Outside of class:
+    - Submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
+    - Begin working on [A05: Resume and Career Reflection]() which will be due on Wednesday October 2, 2019.
+    - Begin working on [L06: the Game of War](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). First Milestone of pulling repo and making a commit due Monday September 30, 2019. Full completion due on Reading Day, Monday, October 7, 2019.    
+
 ## Day 16: Wednesday, September 25, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
