@@ -5,6 +5,17 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 18: Monday, September 30, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Ask questions on new lab
+    - Complete and submit [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1P51-NSGRetRIbyP59O5pkuVp8Ho1wZWqmg2UJ_5MNMs/edit?usp=sharing)
+    - Complete and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
+  - Outside of class:
+    - Complete and submit [A05: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due on Wednesday October 2, 2019.
+    - Continue working on [L06: the Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing). Second Milestone of attempting completion will be Wednesday, October 3, 2019. Full completion due on Reading Day, Monday, October 7, 2019.   
+    - Announcement: Exam E1 will take place in class on Wednesday, October 9, 2019, covering all of the material from the course thus far. Major topics covered thus far include: C++, OOP, Big O, linear structures, and career.
+
 ## Day 17: Friday, September 27, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
@@ -12,10 +23,10 @@
     - Ask questions on lab
     - Complete and submit [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Outside of class:
-    - Submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
     - Complete and submit [L05: Parity](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). Full completion due on Monday, September 30, 2019.
     - Begin working on [A05: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which will be due on Wednesday October 2, 2019.
     - Begin working on [L06: the Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing). First Milestone of pulling repo and making a commit due Monday September 30, 2019. Full completion due on Reading Day, Monday, October 7, 2019.    
+    - Announcement: Exam E1 will take place in class on Wednesday, October 9, 2019, covering all of the material from the course thus far. Major topics covered thus far include: C++, OOP, Big O, linear structures, and career.
 
 ## Day 16: Wednesday, September 25, 2019
   - Before class: Complete all work due before class today (see list from last time)
