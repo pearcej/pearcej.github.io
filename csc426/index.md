@@ -3,6 +3,18 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 12: Monday, September 30, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Read [Your first open source contribution: a step-by-step technical guide](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6)
+    - Read this shorter summary: [Got Commands to Keep a Fork Up to Date](https://philna.sh/blog/2018/08/21/git-commands-to-keep-a-fork-up-to-date/)
+    - Read [Git 2.5, including multiple worktrees and triangular workflows](https://github.blog/2015-07-29-git-2-5-including-multiple-worktrees-and-triangular-workflows/)
+    - Optional reading if you want a good summary of the basics: [Understanding Git (part 1) — Explain it Like I’m Five](https://hackernoon.com/understanding-git-fcffd87c15a3)
+    - Make eleventh blog post based on [Prompt 12](blog12.md) AND copy post into Moodle
+    - Complete [Scrum Report 10-02-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 11: Wednesday, September 25, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
