@@ -5,6 +5,18 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 19: Wednesday, October 2, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Ask more questions on lab
+    - Complete and submit [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1P51-NSGRetRIbyP59O5pkuVp8Ho1wZWqmg2UJ_5MNMs/edit?usp=sharing)
+    - Complete and submit [TR1: Peerwise Review for E01](https://docs.google.com/document/d/1znVuYdLzy-OxaG6f7HPPQbtRKjRhV2ondOv5AP23EyA/edit?usp=sharing)
+    - Each person signs up for [Peerwise](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20108) using your Berea username, joins course 20108, and submits 2-3 questions.
+  - Outside of class:
+    - Continue working on [L06: the Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing). Come with final questions on Friday. Full completion due on Reading Day, Monday, October 7, 2019.   
+    - Announcement: Exam E1 will take place in class on Wednesday, October 9, 2019, covering all of the material from the course thus far. Major topics covered thus far include: C++, OOP, Big O, linear structures, and career.
+
+
 ## Day 18: Monday, September 30, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
