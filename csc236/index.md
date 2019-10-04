@@ -5,6 +5,9 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Monday, October 4, 2019
+  - No class on Reading Day, but be sure to submit lab.
+
 ## Day 20: Friday, October 4, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
