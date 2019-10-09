@@ -5,6 +5,11 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 21: Wednesday, October 9, 2019
+  - In class: Exam E1 will take place in class, covering all of the material from the course thus far. Major topics covered thus far include: What are data structures, C++, OOP, Big O, linear structures, and career.
+    - Outside of class:
+    - Announcement: There will be a reading quiz on Friday, October 11, 2019 on Chapter 4 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course csc236-DS-F19, and a login using your Berea email and username.
+
 ## Monday, October 4, 2019
   - No class on Reading Day, but be sure to submit lab.
 
