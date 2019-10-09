@@ -2,7 +2,7 @@
 
 Read/watch the following:
 - Read [Leadership characteristics and developers’ motivation in open source software development](https://reader.elsevier.com/reader/sd/pii/S0378720612000468?token=852C4C88CE79C2CB599FC8A6D5300CD373FF397E823832F0B4A410B3053E8C4EA9A478B6A783097070EEAE98206EE0D3)
-- Watch [The Mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+- Watch [The Mind behind Linux - Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 - Read [Chapter 5 The GNU Operating System and the Free Software Movement](https://smaldone.com.ar/documentos/libros/opensources.pdf)
 
 In your fourteenth blog entry of the semester, address each of the following bullets (1 or more paragraph each):

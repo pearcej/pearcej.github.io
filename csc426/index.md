@@ -9,7 +9,7 @@
     - Continue making contributions to Runestone.
   - Before next class:
     - Read [Leadership characteristics and developers’ motivation in open source software development](https://reader.elsevier.com/reader/sd/pii/S0378720612000468?token=852C4C88CE79C2CB599FC8A6D5300CD373FF397E823832F0B4A410B3053E8C4EA9A478B6A783097070EEAE98206EE0D3)
-    - Watch [The Mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+    - Watch [The Mind behind Linux - Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
     - Read [Chapter 5 The GNU Operating System and the Free Software Movement](https://smaldone.com.ar/documentos/libros/opensources.pdf)
     - Make fourteenth blog post based on [Prompt 14](blog14.md) AND copy post into Moodle
     - Complete [Scrum Report 10-14-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
