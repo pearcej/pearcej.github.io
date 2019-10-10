@@ -5,6 +5,12 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 22: Friday, October 11, 2019
+  - In class:
+    - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+  - Outside of class:
+    - Complete and submit [A06: A Simple Introduction To Data Structures](https://towardsdatascience.com/a-simple-introduction-to-data-structures-part-one-linked-lists-efbb13e9ad33) which is due Monday, October 14, 2019.
+
 ## Day 21: Wednesday, October 9, 2019
   - In class: Exam E1 will take place in class, covering all of the material from the course thus far. Major topics covered thus far include: What are data structures, C++, OOP, Big O, linear structures, and career.
   - Outside of class:
