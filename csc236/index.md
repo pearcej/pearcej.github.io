@@ -10,7 +10,7 @@
     - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
     - Complete and submit [A06: A Simple Introduction To Data Structures](https://docs.google.com/document/d/13Nx6apKwhM2Otpfhtfb6zrVAsMiZ8Nowm1jff6nFsJ0/edit?usp=sharing) which is due Monday, October 14, 2019.
-    - Begin [L07: C++ Turtle Graphics](https://docs.google.com/document/d/1CJ3I9CCJ6Z0klmJPS4M9i0VOMTC2pq8RygWx39pD3-w/edit?usp=sharing). Milestone 1 is due by Monday, October 14. Full completion is due by Friday, October 18, 2019.
+    - Begin [L07: C++ Turtle Graphics with CTurtle](https://docs.google.com/document/d/1CJ3I9CCJ6Z0klmJPS4M9i0VOMTC2pq8RygWx39pD3-w/edit?usp=sharing). Milestone 1 is due by Monday, October 14. Full completion is due by Friday, October 18, 2019.
 
 ## Day 21: Wednesday, October 9, 2019
   - In class: Exam E1 will take place in class, covering all of the material from the course thus far. Major topics covered thus far include: What are data structures, C++, OOP, Big O, linear structures, and career.
