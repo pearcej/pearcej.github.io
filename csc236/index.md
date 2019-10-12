@@ -5,7 +5,14 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 23: Monday, October 14, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+    - Complete and submit [L07: C++ Turtle Graphics with CTurtle](https://docs.google.com/document/d/1CJ3I9CCJ6Z0klmJPS4M9i0VOMTC2pq8RygWx39pD3-w/edit?usp=sharing). Milestone 2 is due by Mountain Day, Wednesday, October 14. Full completion is due by Friday, October 18, 2019.
+
 ## Day 22: Friday, October 11, 2019
+  -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
