@@ -8,6 +8,7 @@
   - In class:
     - Continue making contributions to Runestone.
   - Before next class:
+    - Go to [T08 Runestone Project Launch](https://docs.google.com/document/d/175pyWO1bYghTM-eOMMQ76Qab5w53V00M8biHQurwcYc/edit?usp=sharing)
     - [Software developers need confidence, too](https://qz.com/work/1537006/software-developers-need-confidence-too/)
     - [Intellectual Self-doubt and How to Get Out of It](http://eds.b.ebscohost.com/ehost/detail/detail?vid=0&sid=14a54e22-001c-4776-a3ee-7497c9ed66bd%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=128834013&db=a9h)
     - [Wikipedia: Maria Klawe](https://en.wikipedia.org/wiki/Maria_Klawe)
