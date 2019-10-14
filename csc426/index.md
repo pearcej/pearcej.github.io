@@ -14,7 +14,6 @@
     - [Wikipedia: Maria Klawe](https://en.wikipedia.org/wiki/Maria_Klawe)
     - [Maria Klawe: The Proof is in the Painting](https://www.youtube.com/watch?v=_DXaVwi34B4)
     - Make fifteenth blog post based on [Prompt 15](blog15.md) AND copy post into Moodle
-    - Complete [Scrum Report 10-14-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
     - Complete [Scrum Report 10-21-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
 ## Day 14: Wednesday, October 9, 2019
@@ -26,7 +25,6 @@
     - Watch [The Mind behind Linux - Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
     - Read [Chapter 5 The GNU Operating System and the Free Software Movement](https://smaldone.com.ar/documentos/libros/opensources.pdf)
     - Make fourteenth blog post based on [Prompt 14](blog14.md) AND copy post into Moodle
-    - Complete [Scrum Report 10-9-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
     - Complete [Scrum Report 10-14-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
 ## Reading Day: Monday, October 7, 2019
