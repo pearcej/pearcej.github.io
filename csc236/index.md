@@ -5,6 +5,12 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 24: Friday, October 18, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+    - Begin [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) By 8 am on Monday, October 21, 2019 Milestone 1: Pull repo and make at least one commit. Full completion of the lab is due on Monday, October 28, 2019
+
 ## Wednesday, October 16, 2019
   - No class on Mountain Day, but be sure to make progress on lab.
 
