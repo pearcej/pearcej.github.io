@@ -3,6 +3,18 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 15: Monday, October 14, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - [Software developers need confidence, too](https://qz.com/work/1537006/software-developers-need-confidence-too/)
+    - [Intellectual Self-doubt and How to Get Out of It](http://eds.b.ebscohost.com/ehost/detail/detail?vid=0&sid=14a54e22-001c-4776-a3ee-7497c9ed66bd%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=128834013&db=a9h)
+    - [Wikipedia: Maria Klawe](https://en.wikipedia.org/wiki/Maria_Klawe)
+    - [Maria Klawe: The Proof is in the Painting](https://www.youtube.com/watch?v=_DXaVwi34B4)
+    - Make fifteenth blog post based on [Prompt 15](blog15.md) AND copy post into Moodle
+    - Complete [Scrum Report 10-14-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 14: Wednesday, October 9, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
@@ -12,7 +24,7 @@
     - Watch [The Mind behind Linux - Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
     - Read [Chapter 5 The GNU Operating System and the Free Software Movement](https://smaldone.com.ar/documentos/libros/opensources.pdf)
     - Make fourteenth blog post based on [Prompt 14](blog14.md) AND copy post into Moodle
-    - Complete [Scrum Report 10-14-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+    - Complete [Scrum Report 10-9-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
 ## Reading Day: Monday, October 7, 2019
   - no classes
