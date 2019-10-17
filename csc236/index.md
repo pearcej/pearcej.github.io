@@ -9,6 +9,9 @@
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+    - Begin [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
+  - Outside of class:
+    - Announcement: There will be a reading quiz on Monday, October 21, 2019 on Chapter 5 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course csc236-DS-F19, and a login using your Berea email and username
     - Begin [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) By 8 am on Monday, October 21, 2019 Milestone 1: Pull repo and make at least one commit. Full completion of the lab is due on Monday, October 28, 2019
 
 ## Wednesday, October 16, 2019
@@ -18,6 +21,7 @@
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+  - Outside of class:
     - Complete and submit [L07: C++ Turtle Graphics with CTurtle](https://docs.google.com/document/d/1CJ3I9CCJ6Z0klmJPS4M9i0VOMTC2pq8RygWx39pD3-w/edit?usp=sharing). Milestone 2 is due by Mountain Day, Wednesday, October 14. Full completion is due by Friday, October 18, 2019.
 
 ## Day 22: Friday, October 11, 2019
