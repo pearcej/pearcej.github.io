@@ -8,6 +8,8 @@
 ## Day 24: Friday, October 18, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
+    - Show off art from L07
+    - Explain L08
     - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
     - Begin [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
   - Outside of class:
