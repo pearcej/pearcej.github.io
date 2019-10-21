@@ -5,13 +5,23 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 25: Monday, October 21, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Quiz
+    - Questions on L08
+    - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+    - Begin [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
+  - Outside of class:
+    - Continue [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) By 8 am on Wednesday, October 21, 2019 Milestone 2: Try to complete; there should be much more code, although it might not yet work. Full completion of the lab is due on Monday, October 28, 2019
+    - Complete [A07: Teamsmanship Comments](https://forms.gle/CFH2WHWJtgDwRyvT9) on your previous team. Note: rudely phrased comments will not receive any credit at all. It is an important business skill to learn to work with others to be both honest and kind.
+
 ## Day 24: Friday, October 18, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Show off art from L07
     - Explain L08
-    - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
-    - Begin [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
+    - Continue [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
     - Announcement: There will be a reading quiz on Monday, October 21, 2019 on Chapter 5 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course csc236-DS-F19, and a login using your Berea email and username
     - Begin [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) By 8 am on Monday, October 21, 2019 Milestone 1: Pull repo and make at least one commit. Full completion of the lab is due on Monday, October 28, 2019
