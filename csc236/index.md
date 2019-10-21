@@ -11,7 +11,6 @@
     - Quiz
     - Questions on L08
     - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
-    - Begin [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
   - Outside of class:
     - Continue [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) By 8 am on Wednesday, October 21, 2019 Milestone 2: Try to complete; there should be much more code, although it might not yet work. Full completion of the lab is due on Monday, October 28, 2019
     - Complete [A07: Teamsmanship Comments](https://forms.gle/CFH2WHWJtgDwRyvT9) on your previous team. Note: rudely phrased comments will not receive any credit at all. It is an important business skill to learn to work with others to be both honest and kind.
