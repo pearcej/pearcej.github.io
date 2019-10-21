@@ -3,16 +3,31 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 16: Monday, October 21, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Read [Employers Want To See These Attributes On Students’ Resumes](https://www.naceweb.org/talent-acquisition/candidate-selection/employers-want-to-see-these-attributes-on-students-resumes/)
+    - Read [Teamwork and Introversion in Software Development](https://simpleprogrammer.com/teamwork-introversion-programming/)
+    - Read [Seven secrets to Effective Teamwork](https://monday.com/blog/effective-teamwork/)
+    - Read [Building Better Software by Building Better Teams](https://ashfurrow.com/blog/building-better-software-by-building-better-teams/)
+    - Make sixteenth blog post based on [Prompt 16](blog16.md) AND copy post into Moodle
+    - Complete [Scrum Report 10-23-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
+## Wednesday, October 16, 2019
+  - No classes due to Mountain Day
+
 ## Day 15: Monday, October 14, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
     - Continue making contributions to Runestone.
   - Before next class:
     - Go to [T08 Runestone Project Launch](https://docs.google.com/document/d/14hJ-BvOVEbXSqYFdT_nqLCCuS5u3hnV5ICZ3q1tHLGY/edit?usp=sharing)
-    - [Software developers need confidence, too](https://qz.com/work/1537006/software-developers-need-confidence-too/)
-    - [Intellectual Self-doubt and How to Get Out of It](http://eds.b.ebscohost.com/ehost/detail/detail?vid=0&sid=14a54e22-001c-4776-a3ee-7497c9ed66bd%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=128834013&db=a9h)
-    - [Wikipedia: Maria Klawe](https://en.wikipedia.org/wiki/Maria_Klawe)
-    - [Maria Klawe: The Proof is in the Painting](https://www.youtube.com/watch?v=_DXaVwi34B4)
+    - Read [Software developers need confidence, too](https://qz.com/work/1537006/software-developers-need-confidence-too/)
+    - Read [Intellectual Self-doubt and How to Get Out of It](http://eds.b.ebscohost.com/ehost/detail/detail?vid=0&sid=14a54e22-001c-4776-a3ee-7497c9ed66bd%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=128834013&db=a9h)
+    - Read [Wikipedia: Maria Klawe](https://en.wikipedia.org/wiki/Maria_Klawe)
+    - Watch [Maria Klawe: The Proof is in the Painting](https://www.youtube.com/watch?v=_DXaVwi34B4)
     - Make fifteenth blog post based on [Prompt 15](blog15.md) AND copy post into Moodle
     - Complete [Scrum Report 10-21-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
