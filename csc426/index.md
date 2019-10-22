@@ -3,6 +3,16 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 17: Wednesday, October 23, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Read [Intrinsic Motivation in Open Source Software Development](https://www.sciencedirect.com/science/article/pii/S0147596706000643) Note: You may need to be logged in to Berea get to this.
+    - Read [Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects ](http://www.ocw.nur.ac.rw/NR/rdonlyres/Sloan-School-of-Management/15-352Spring-2005/D2C127A9-B712-4ACD-AA82-C57DE2844B8B/0/lakhaniwolf.pdf)
+    - Make seventeenth blog post based on [Prompt 17](blog17.md) AND copy post into Moodle
+    - Complete [Scrum Report 10-28-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 16: Monday, October 21, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
