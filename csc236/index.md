@@ -13,7 +13,7 @@
 
   - Outside of class:
     - Continue [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) Full completion of the lab is due on Monday, October 28, 2019
-    - Complete [Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1AG0vvaeKmcoKSafkXadtA53MiUCG8KcfWpOAF4Ai6eg/edit?usp=sharing)
+    - Complete [A08 Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1AG0vvaeKmcoKSafkXadtA53MiUCG8KcfWpOAF4Ai6eg/edit?usp=sharing)
 
 ## Day 25: Monday, October 21, 2019
   -Before class: Complete all work due before class today (see list from last time)
