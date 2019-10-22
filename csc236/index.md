@@ -9,11 +9,11 @@
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Questions on L08
-    - [T11 Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
+    - Begin and try to complete [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
 
   - Outside of class:
+    - Complete [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1AG0vvaeKmcoKSafkXadtA53MiUCG8KcfWpOAF4Ai6eg/edit?usp=sharing)
     - Continue [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) Full completion of the lab is due on Monday, October 28, 2019
-    - Complete [A08 Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1AG0vvaeKmcoKSafkXadtA53MiUCG8KcfWpOAF4Ai6eg/edit?usp=sharing)
 
 ## Day 25: Monday, October 21, 2019
   -Before class: Complete all work due before class today (see list from last time)
