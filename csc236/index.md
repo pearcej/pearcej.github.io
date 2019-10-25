@@ -5,7 +5,16 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
-## Day 23: Wednesday, October 23, 2019
+## Day 27: Friday, October 25, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Questions on L08
+    - Complete and submit [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
+  - Outside of class:
+    - Complete and submit [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) Full completion of the lab is due on Monday, October 28, 2019
+    - Begin [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Monday, read the lab and complete the first milestone of pulling the code and making at least one commit. Full completion of the lab is due on Monday, November 4, 2019
+
+## Day 26: Wednesday, October 23, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Questions on L08
