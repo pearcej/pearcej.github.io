@@ -12,6 +12,7 @@
     - Complete and submit [T12: Exploring Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing)
   - Outside of class:
     - Complete [A09: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
+    - Announcement: There will be a reading quiz on Friday, November 1, 2019 on [Chapter 6 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
     - Continue [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Wednesday, try to get recursive rectangles and complete the second milestone of committing much more code. Full completion of the lab is due on Monday, November 4, 2019
 
 ## Day 27: Friday, October 25, 2019
