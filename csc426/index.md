@@ -3,6 +3,16 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 18: Monday, October 28, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Watch Academic Coach, Mamie Morrow's TEDx talk [Why Self-Efficacy Matters](https://www.youtube.com/watch?v=agwsjYg9hJ8)
+    - [Computer Anxiety, Self-Efficacy, Computer Experience: An investigation throughout a Computer Science degree ](http://archive.fie-conference.org/fie2005/papers/1693.pdf)
+    - Make eighteenth blog post based on [Prompt 18](blog18.md) AND copy post into Moodle
+    - Complete [Scrum Report 10-30-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 17: Wednesday, October 23, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
