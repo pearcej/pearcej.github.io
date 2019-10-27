@@ -9,7 +9,7 @@
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing) using no more than 15 minutes of class time.
-    - Complete and submit [Exploring Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing)
+    - Complete and submit [T12: Exploring Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing)
   - Outside of class:
     - Complete [Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
     - Continue [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Wednesday, try to get recursive rectangles and complete the second milestone of committing much more code. Full completion of the lab is due on Monday, November 4, 2019
