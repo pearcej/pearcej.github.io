@@ -1,7 +1,7 @@
 ## Blog Prompt 19
 
 Read the following:
-- Read Chapter 4 "Processes: Simple is Sustainable" in [the Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pgs 97-131.
+- Read Chapter 4 "Processes: Simple is Sustainable" in [the Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pps 97-131.
 
 In your nineteenth blog entry of the semester, address each of the following bullets (1 or more paragraph each):
 - Discuss why the author asserts that simple is sustainable. Do you agree? Disagree? Explain.
