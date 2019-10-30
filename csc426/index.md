@@ -3,6 +3,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 19: Wednesday, October 30, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Read Chapter 4 "Processes: Simple is Sustainable" in [the Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing) pps 97-131.
+    - Make nineteenth blog post based on [Prompt 19](blog19.md) AND copy post into Moodle
+    - Complete [Scrum Report 11-4-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 18: Monday, October 28, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
