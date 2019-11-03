@@ -5,6 +5,15 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 31: Monday, November 4, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss lab
+    - Complete and submit [T14: Understanding Recursion](https://docs.google.com/document/d/1m2EIZH9I7fh28-2WyeEhgSDdduykC_NEXSNLE7gBUrs/edit?usp=sharing). You will have the entire  period.
+  - Outside of class:
+    - Complete and submit [A11: Converting Caving Code](https://docs.google.com/document/d/1qR6lyDL8GQkP6ODxViX4-FAH5caW97zYrM0LN0C2zHQ/edit?usp=sharing)
+    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Second Milestone: Convert all Python from text to C++ by Wednesday, November 6, 2019. Full completion of the lab is due on Monday, November 11, 2019
+
 ## Day 30: Friday, November 1, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
