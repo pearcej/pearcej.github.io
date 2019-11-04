@@ -3,6 +3,16 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 20: Monday, November 4, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Read [How to Manage Tasks Effectively? 10 Tips for Effective Task Management](https://www.ntaskmanager.com/blog/task-management-skills/)
+    - Read [Elon Musk's 'Timeboxing' Method to Manage Time Effectively](https://interestingengineering.com/elon-musks-timeboxing-method-to-manage-time-effectively)
+    - Make twentieth blog post based on [Prompt 20](blog20.md) AND copy post into Moodle
+    - Complete [Scrum Report 11-6-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 19: Wednesday, October 30, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
