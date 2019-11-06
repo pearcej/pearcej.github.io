@@ -11,6 +11,7 @@
     - Discuss lab
     - Complete and submit [T15 : Hashing](https://docs.google.com/document/d/1SVIjt6PlQVFpYvWGYd3otm-vdTJ1I99f11_Lg3lyDdw/edit?usp=sharing). You will have the entire period.
   - Outside of class:
+    - Complete [A11: Teamsmanship Comments](https://forms.gle/jp2GQbisdTffGQnR6) on your previous team. Note: As with A07, rudely phrased comments will not receive any credit at all. It is an important business skill to learn to work with others to be both honest and kind at the same time.
     - Announcement: There will be a reading quiz on Monday, November 11, 2019 on [Chapter 7 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Second Milestone: Convert all Python from text to C++ by Wednesday, November 6, 2019. Full completion of the lab has been extended until Wednesday, November 13, 2019 - it will not be extended further, so be sure to make progress on it well before then.
 
