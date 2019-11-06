@@ -1,6 +1,6 @@
 ## Blog Prompt 21
 
-No new readings! We only have a month left in our term! 😯 So rather than assign additional reading over the weekend, I want you to spend additional time working on your bug/issue and reporting on what you did as an individual. This is meant as a counterpoint to the Scrum blog entries, in which you comment on your team's progress as a whole. *It would be completely appropriate to coordinate what you work on with your team members on this task.*
+No new readings! We only have a month left in our term! 😯 So rather than assign additional reading over the weekend, I want you to spend additional time working on your bug/issue and reporting on what you did as an individual. This is meant as a counterpoint to the Scrum blog entries, in which you comment on your team's progress as a whole. **It would be completely appropriate to coordinate what you work on with your team members on this task--this is recommended!**
 
 Assign yourself a specific task or goal that you can spend several hours on this weekend. (Yeah, several hours! This is a senior level course.)
 
