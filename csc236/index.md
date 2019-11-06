@@ -13,7 +13,7 @@
   - Outside of class:
     - Complete [A11: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing).
     - Announcement: There will be a reading quiz on Monday, November 11, 2019 on [Chapter 7 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
-    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Second Milestone: Convert all Python from text to C++ by Wednesday, November 6, 2019. Full completion of the lab has been extended until Wednesday, November 13, 2019 - it will not be extended further, so be sure to make progress on it well before then.
+    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended until Wednesday, November 13, 2019 - it will not be extended further, so be sure to make progress on it well before then.
 
 ## Day 31: Monday, November 4, 2019
   -Before class: Complete all work due before class today (see list from last time)
