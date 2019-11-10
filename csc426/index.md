@@ -3,19 +3,31 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 21: Monday, November 11, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - scrum report
+    - Continue making contributions to Runestone.
+  - Before next class:
+  - Skim [Web Design 101: How HTML, CSS, and JavaScript Work](https://blog.hubspot.com/marketing/web-design-html-css-javascript),  [The Relationship Between HTML, CSS and JavaScript Explained by Building A City](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/), and [CSS tutorial at W3 Schools](https://www.w3schools.com/css/default.asp).
+    - Make twenty-second blog post based on [Prompt 22](blog22.md) AND copy post into Moodle
+    - Complete [Scrum Report 11-13-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 20: Wednesday, November 6, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
+    - scrum report
     - Continue making contributions to Runestone.
   - Before next class:
     - No new readings! We only have a month left in our term! 😯 So rather than assign additional reading over the weekend, I want you to spend additional time working on your bug/issue and reporting on what you did as an individual. This is meant as a counterpoint to the Scrum blog entries, in which you comment on your team's progress as a whole. **It would be completely appropriate to coordinate what you work on with your team members in class today.**
     - Complete your first confidential teammate evaluation [TE1: Teammate evaluation 1](https://docs.google.com/document/d/1-rTaoaHfqZp_Bca5FX6KVmga0ckosTPiv9IRtUleuF0/edit?usp=sharing)
-    - Make twentieth blog post based on [Prompt 21](blog21.md) AND copy post into Moodle
+    - Make twenty-first blog post based on [Prompt 21](blog21.md) AND copy post into Moodle
     - Complete [Scrum Report 11-11-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
 ## Day 20: Monday, November 4, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
+    - scrum report
     - Continue making contributions to Runestone.
   - Before next class:
     - Read [How to Manage Tasks Effectively? 10 Tips for Effective Task Management](https://www.ntaskmanager.com/blog/task-management-skills/)
