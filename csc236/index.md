@@ -12,6 +12,9 @@
     - take quiz
     - Complete and submit [T16: On Sorting ](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing).
   - Outside of class:
+    - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
+      - CS Alumni Panel 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format.
+      - CS Networking lunch 12:30-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
     - Announcement: There will be a reading quiz on Wednesday, November 13, 2019 on [Sections 8.1-8.9 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
 
