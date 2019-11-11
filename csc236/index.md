@@ -13,7 +13,7 @@
     - Complete and submit [T16: On Sorting ](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing).
   - Outside of class:
     - Announcement: There will be a reading quiz on Wednesday, November 13, 2019 on [Sections 8.1-8.9 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
-    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. :smiley:
+    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
 
 ## Day 33: Friday, November 8, 2019
   -Before class: Complete all work due before class today (see list from last time)
