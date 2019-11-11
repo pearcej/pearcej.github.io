@@ -12,7 +12,6 @@
     - take quiz
     - Complete and submit [T16: On Sorting ](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing).
   - Outside of class:
-    - Announcement: The final project will be announced soon. Students will work in teams of 2 or 3 students. Please come to class having decided who you want to work with.
     - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
       - **CS Alumni Panel** 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
       - **CS Networking Lunch** 12:30-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
