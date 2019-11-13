@@ -10,7 +10,7 @@
   - In class:
     - Discuss lab
     - take quiz
-    - Work on [17: On Trees](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
+    - Work on [T17: On Trees](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
   - Outside of class:
     - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
       - **CS Alumni Panel** 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
