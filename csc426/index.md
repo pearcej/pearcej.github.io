@@ -3,6 +3,16 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 22: Wednesday, November 13, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - scrum report
+    - Continue making contributions to Runestone.
+  - Before next class:
+    - Spend additional time working on your bug/issue and reporting on what you did as an individual. 
+    - Make twenty-third blog post based on [Prompt 23](blog23.md) AND copy post into Moodle
+    - Complete [Scrum Report 11-13-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
+
 ## Day 21: Monday, November 11, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
