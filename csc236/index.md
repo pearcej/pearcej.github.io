@@ -5,6 +5,19 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 35: Wednesday, November 13, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss lab
+    - take quiz
+    - Complete and submit [17: On Trwes](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
+  - Outside of class:
+    - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
+      - **CS Alumni Panel** 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
+      - **CS Networking Lunch** 12:30-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
+    - Announcement: The final project will be announced soon. Students will work in teams of 2 or 3 students. Please come to class Wednesday having decided who you want to work with on the project.
+    - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
+
 ## Day 34: Monday, November 11, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
