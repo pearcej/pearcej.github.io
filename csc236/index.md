@@ -16,9 +16,10 @@
       - **CS Alumni Panel** 10:30-12:00 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
       - **CS Networking Lunch** 12:15-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
     - Complete and submit [A12: Tree Assignment](https://docs.google.com/document/d/1SpmbyWH5VHL6afhbR_dYgiu-Cug8mw_QaVxTaABgcTo/edit?usp=sharing).
+    - Complete and Submit: [FP1: Initial Planning](https://docs.google.com/document/d/1yuOPqWmanAtd2eJyoA4GGwcGoUWXHNiWfLzuYBGn82c/edit?usp=sharing) of the final project is due by Monday, November 18. Students should be working in teams of 2 or 3 students.
     - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
     - Announcement: There will be a reading quiz on Wednesday, November 20, 2019 on [Sections 8.10-8.18 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
-    - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1. 
+    - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1.
 
 ## Day 35: Wednesday, November 13, 2019
   -Before class: Complete all work due before class today (see list from last time)
