@@ -1,10 +1,23 @@
-# csc 236: Data Structures
+# CSC 236: Data Structures
 # Berea College
 
   - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), use the book cpp4py and the course csc236-transition-F19 and create a login using your Berea email and username.
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 36: Friday, November 15, 2019
+  -Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss lab
+    - Complete and submit [T17: On Trees](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
+    - Complete and submit [T18: Binary Search Trees](https://docs.google.com/document/d/1IQHnBx_JDCf8B3gjqu2-5tnVTKEWYhH4AYKWbu8zC7w/edit?usp=sharing).
+  - Outside of class:
+    - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
+      - **CS Alumni Panel** 10:30-12:00 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
+      - **CS Networking Lunch** 12:15-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
+    - Complete and submit [A12: Tree Assignment](https://docs.google.com/document/d/1SpmbyWH5VHL6afhbR_dYgiu-Cug8mw_QaVxTaABgcTo/edit?usp=sharing).
+    - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
+
 ## Day 35: Wednesday, November 13, 2019
   -Before class: Complete all work due before class today (see list from last time)
   - In class:
@@ -13,9 +26,9 @@
     - Work on [T17: On Trees](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
   - Outside of class:
     - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
-      - **CS Alumni Panel** 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
-      - **CS Networking Lunch** 12:30-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
-    - Announcement: [FP1: Initial Planning](https://docs.google.com/document/d/1yuOPqWmanAtd2eJyoA4GGwcGoUWXHNiWfLzuYBGn82c/edit?usp=sharing) of  the final project is due by Monday, November 18. Students should be working in teams of 2 or 3 students. 
+      - **CS Alumni Panel** 10:30-12:00 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
+      - **CS Networking Lunch** 12:15-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
+    - Announcement: [FP1: Initial Planning](https://docs.google.com/document/d/1yuOPqWmanAtd2eJyoA4GGwcGoUWXHNiWfLzuYBGn82c/edit?usp=sharing) of  the final project is due by Monday, November 18. Students should be working in teams of 2 or 3 students.
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
 
 ## Day 34: Monday, November 11, 2019
@@ -26,8 +39,8 @@
     - Complete and submit [T16: On Sorting ](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing).
   - Outside of class:
     - Announcement: On Saturday, November 16, 2019, there are two exciting CS homecoming events:
-      - **CS Alumni Panel** 11:00-12:30 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
-      - **CS Networking Lunch** 12:30-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
+      - **CS Alumni Panel** 10:30-12:00 in Danforth Technology 108A, students ask questions of our alumni in a question and answer format. (Attendance at this panel event will earn you an additional dropped quiz in CSC 236!)
+      - **CS Networking Lunch** 12:15-1:30 in Danforth Technology, students eat with alumni as a networking opportunity.
     - Announcement: There will be a reading quiz on Wednesday, November 13, 2019 on [Sections 8.1-8.9 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
     - Announcement: The final project will be announced soon. Students will work in teams of 2 or 3 students. Please come to class Wednesday having decided who you want to work with on the project.
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
