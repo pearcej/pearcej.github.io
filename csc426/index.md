@@ -12,7 +12,6 @@
   - Before next class:
     - Read [Here's why you should throw yourself a party the next time you reach a goal](https://www.washingtonpost.com/news/inspired-life/wp/2015/02/24/want-to-keep-those-resolutions-then-learn-to-celebrate-your-wins/)
     - Watch [Looking under the rug: the art of learning from failure by Isa Silveira](https://www.youtube.com/watch?v=KjgoWwQmxPI)
-    - Spend additional time working on your bug/issue and reporting on what you did as an individual.
     - Make twenty-fourth blog post based on [Prompt 24](blog24.md) AND copy post into Moodle
     - Complete [Scrum Report 11-20-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
 
