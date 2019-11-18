@@ -13,7 +13,7 @@
     - Discuss project
     - Complete and submit [T18: Binary Search Trees](https://docs.google.com/document/d/1IQHnBx_JDCf8B3gjqu2-5tnVTKEWYhH4AYKWbu8zC7w/edit?usp=sharing).
   - Outside of class:
-    - Complete [FP1A: Milemarker 2 Final Project](https://docs.google.com/document/d/1fmSSRi-ecQN9NwlXyj3wMqVoP72rFXHkzPng3oG4oxU/edit?usp=sharing) by Monday, December 25, 2019
+    - Complete [FP1A: Milemarker 2 Final Project](https://docs.google.com/document/d/1fmSSRi-ecQN9NwlXyj3wMqVoP72rFXHkzPng3oG4oxU/edit?usp=sharing) by Monday, November 25, 2019
     - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
     - Announcement: There will be a reading quiz on Wednesday, November 20, 2019 on [Sections 8.10-8.18 of Problem Solving with Algorithms and Data Structures using C++. Be sure to use our course csc236-DS-F19, and a login using your Berea email and username](https://runestone.academy/runestone/books/published/csc236-DS-F19/index.html)
     - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1.
