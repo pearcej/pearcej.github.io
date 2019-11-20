@@ -6,18 +6,18 @@
 
 ---
 ## Day 38: Wednesday, November 20, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - take quiz
     - Discuss lab and project
-    - Complete and submit [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) Be sure to complete this before the next class AND enter your questions into Peerwise.
+    - Complete and submit [TR2: wise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) Be sure to complete this before the next class AND enter your questions into Peerwise.
   - Outside of class:
     - Complete [FP1A: Mile Marker 2 Final Project](https://docs.google.com/document/d/1fmSSRi-ecQN9NwlXyj3wMqVoP72rFXHkzPng3oG4oxU/edit?usp=sharing) by Monday, November 25, 2019.
     - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
     - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1.
 
 ## Day 37: Monday, November 18, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - Discuss homecoming events
@@ -30,7 +30,7 @@
     - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1.
 
 ## Day 36: Friday, November 15, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - Complete and submit [T17: On Trees](https://docs.google.com/document/d/1zrXy8qkGJ1WV1NhKRDF_28OAnzbe33EAhk2oA4FkoaY/edit?usp=sharing).
@@ -46,7 +46,7 @@
     - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1.
 
 ## Day 35: Wednesday, November 13, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - take quiz
@@ -59,7 +59,7 @@
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
 
 ## Day 34: Monday, November 11, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - take quiz
@@ -73,7 +73,7 @@
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended (again) until Friday, November 15, 2019 - it really will not be extended further. 😃
 
 ## Day 33: Friday, November 8, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - Begin [T16: On Sorting ](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing).
@@ -82,7 +82,7 @@
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended until Wednesday, November 13, 2019 - it will not be extended further, so be sure to make progress on it well before then.
 
 ## Day 32: Wednesday, November 6, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - Complete and submit [T15 : Hashing](https://docs.google.com/document/d/1SVIjt6PlQVFpYvWGYd3otm-vdTJ1I99f11_Lg3lyDdw/edit?usp=sharing). You will have the entire period.
@@ -92,7 +92,7 @@
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Full completion of the lab has been extended until Wednesday, November 13, 2019 - it will not be extended further, so be sure to make progress on it well before then.
 
 ## Day 31: Monday, November 4, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab
     - Complete and submit [T14: Search](https://docs.google.com/document/d/1q3Zto68RRNdaapEV_MEWJGfCAUZcglWQvTDNxDnZPyM/edit?usp=sharing). You will have the entire period.
@@ -101,7 +101,7 @@
     - Continue [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) Second Milestone: Convert all Python from text to C++ by Wednesday, November 6, 2019. Full completion of the lab is due on Monday, November 11, 2019
 
 ## Day 30: Friday, November 1, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Take quiz
     - Discuss lab
@@ -111,7 +111,7 @@
     - Begin [L10: Recursive Maze](https://docs.google.com/document/d/17Uz0Q5Q4t3mSNoSSbTi3X2oOqAEha8WFWgqCx9WwsdY/edit?usp=sharing) First Milestone: Pull repo before Monday, November 4, 2019. Full completion of the lab is due on Monday, November 11, 2019
 
 ## Day 29: Wednesday, October 30, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T12: Exploring Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing). You will have no more than 10 minutes.
     - Complete and submit [T13: Understanding Recursion](https://docs.google.com/document/d/1m2EIZH9I7fh28-2WyeEhgSDdduykC_NEXSNLE7gBUrs/edit?usp=sharing). You will have the remainder of the period.
@@ -120,7 +120,7 @@
     - Continue [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Friday, try to get expand your code to make it more personally expressive. Full completion of the lab is due on Monday, November 4, 2019
 
 ## Day 28: Monday, October 28, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing) using no more than 15 minutes of class time.
     - Complete and submit [T12: Exploring Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing)
@@ -130,7 +130,7 @@
     - Continue [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Wednesday, try to get recursive rectangles and complete the second milestone of committing much more code. Full completion of the lab is due on Monday, November 4, 2019
 
 ## Day 27: Friday, October 25, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Questions on L08
     - Complete and submit [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
@@ -139,7 +139,7 @@
     - Begin [L09: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) By Monday, read the lab and complete the first milestone of pulling the code and making at least one commit. Full completion of the lab is due on Monday, November 4, 2019
 
 ## Day 26: Wednesday, October 23, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Questions on L08
     - Begin and try to complete [T11: Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit?usp=sharing)
@@ -149,7 +149,7 @@
     - Continue [L08: Binary Addition](https://docs.google.com/document/d/1rOxBrFifkuemZBPvCbzykaGYSfOBPXEOsOnQdRglk_g/edit?usp=sharing) Full completion of the lab is due on Monday, October 28, 2019
 
 ## Day 25: Monday, October 21, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Quiz
     - Questions on L08
@@ -161,7 +161,7 @@
 
 
 ## Day 24: Friday, October 18, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Show off art from L07
     - Explain L08
@@ -174,14 +174,14 @@
   - No class on Mountain Day, but be sure to make progress on lab.
 
 ## Day 23: Monday, October 14, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Complete and submit [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
     - Complete and submit [L07: C++ Turtle Graphics with CTurtle](https://docs.google.com/document/d/1CJ3I9CCJ6Z0klmJPS4M9i0VOMTC2pq8RygWx39pD3-w/edit?usp=sharing). Milestone 2 is due by Mountain Day, Wednesday, October 14. Full completion is due by Friday, October 18, 2019.
 
 ## Day 22: Friday, October 11, 2019
-  -Before class: Complete all work due before class today (see list from last time)
+  - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
