@@ -4,20 +4,20 @@ The final team presentation will be a 15-20 minute presentation to the class usi
 
 Your presentation should include the following:
 
-# A summary, in plain English, of the issue(s) that your team claimed, including:
+1. A summary, in plain English, of the issue(s) that your team claimed, including:
   - Describe in detail the steps you undertook to understand the issue.
   - Did you research a solution in Stack Overflow, read the documentation, ask for clarification in slack, etc.?
-# Your team's approach to tackling the issue, including:
+2. Your team's approach to tackling the issue, including:
   - How did you divide and assign tasks?
   - How often did you meet or keep in touch outside of class?
-# A walkthrough of the files involved and changes made, including:
+3. A walkthrough of the files involved and changes made, including:
   - What is the function/purpose of each file that you edited?
   - Highlight and explain any changes that you made.
   - What is the current state of the issue? (Were you able to submit one or more PRs? If so, what is the status of them?)
-# A description of the obstacles your team encountered, including:
+4. A description of the obstacles your team encountered, including:
   - Detailing the steps did you undertook to overcome them.
   - Do you believe that you were successful in doing so? Why or why not?
-# Reflections
+5. Reflections
   - What did you learn?
   - What would you do differently next time?
   - What would have equipped you better for success?
