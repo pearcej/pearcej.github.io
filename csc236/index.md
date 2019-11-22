@@ -9,7 +9,7 @@
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab and project
-    - Engage further with [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) which should have been completed last time. In class today, you may revise and add open-ended questions using "click here" and "don't click here". These should still have answers provided.
+    - Engage further with [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) which should have been completed last time. In class today, you may revise and add open-ended questions using "click here" and "don't click here". 
   - Outside of class:
     - Complete [FP1A: Mile Marker 2 Final Project](https://docs.google.com/document/d/1fmSSRi-ecQN9NwlXyj3wMqVoP72rFXHkzPng3oG4oxU/edit?usp=sharing) by Monday, November 25, 2019.
     - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
