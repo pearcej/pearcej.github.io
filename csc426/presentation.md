@@ -1,6 +1,6 @@
 ## Final Team Presentation
 
-The final team presentation will be a 15-20 minute presentation to the class using slides. Each one of you must contribute to the creation of as well as the delivery of this presentation.
+The final team presentation will be a 14-17 minute presentation to the class using slides. Each one of you must contribute to the creation of as well as the delivery of this presentation.
 
 Your presentation should include the following:
 
