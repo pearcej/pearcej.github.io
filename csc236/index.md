@@ -5,11 +5,19 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 40: Monday, November 25, 2019
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss project
+    - Study with [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) which should be completed.
+  - Outside of class:
+    - Announcement: Exam E2 will take place in class on Monday, December 2, 2019, covering all of the material of the course since Exam E1. Remember to study!
+
 ## Day 39: Friday, November 22, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Discuss lab and project
-    - Engage further with [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) which should have been completed last time. In class today, you may revise and add open-ended questions using "click here" and "don't click here". 
+    - Engage further with [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing) which should have been completed last time. In class today, you may revise and add open-ended questions using "click here" and "don't click here".
   - Outside of class:
     - Complete [FP1A: Mile Marker 2 Final Project](https://docs.google.com/document/d/1fmSSRi-ecQN9NwlXyj3wMqVoP72rFXHkzPng3oG4oxU/edit?usp=sharing) by Monday, November 25, 2019.
     - Optional Lab: [L11E: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). This lab may be completed for extra lab credit. It will not be accepted late.
