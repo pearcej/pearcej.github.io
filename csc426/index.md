@@ -11,7 +11,7 @@
   - Announcements:
     - The [team presentation](presentation.md) will be given on the last day of class, Wednesday, December 4, 2019 in class.
     - The [portfolio](portfolio.md) will be due at the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late. We will not meet as a class.
-      - Before next class:
+ - Before next class:
     - Spend additional time working on your bug/issue and reporting on what you did as an individual.
     - Make twenty-sixth blog post based on [Prompt 26](blog26.md) AND copy post into Moodle
     - Complete [Scrum Report 12-2-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
@@ -24,7 +24,7 @@
   - Announcements:
     - The [team presentation](presentation.md) will be given on the last day of class, Wednesday, December 4, 2019 in class.
     - The [portfolio](portfolio.md) will be due at the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late. We will not meet as a class.
-      - Before next class:
+  - Before next class:
     - Spend additional time working on your bug/issue and reporting on what you did as an individual.
     - Make twenty-fifth blog post based on [Prompt 25](blog25.md) AND copy post into Moodle
     - Complete [Scrum Report 11-25-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
