@@ -13,7 +13,7 @@
     - The [team presentation](presentation.md) will be given next time, the last day of class, Wednesday, December 4, 2019 in class.
     - The [portfolio](portfolio.md) will be due at the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late. **We will not meet as a class.**
  - Before next class:
-     - Complete [Scrum Report 12-4-2019 ](https://docs.google.com/document/d
+     - Complete [Scrum Report 12-4-2019 ](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing)
     - Complete, submit, and be ready to deliver the [team presentation](presentation.md).
 
 ## Day 24: Monday, November 25, 2019
