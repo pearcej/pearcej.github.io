@@ -5,6 +5,18 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 42: Wednesday, December 4, 2019
+  - Before class: Work on project
+  - In class:
+    - Discuss project
+    - Discuss course
+  - Outside of class:
+    - Work on Project
+
+## Day 41: Monday, December 2, 2019
+  - Before class: Study for exam: [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing)
+  - In class: Exam E02
+
 ## Day 40: Monday, November 25, 2019
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
