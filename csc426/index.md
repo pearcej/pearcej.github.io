@@ -3,6 +3,18 @@
   - [Course Syllabus](https://docs.google.com/document/d/15Uqga7DFF03-QDr563fmYmwAg5uetfVS9pqBxgL7kI0/edit?usp=sharing)
 
 ---
+## Day 25: Monday, December 2, 2019
+  - Before class: Complete all work due before class today (see the list from last time)
+  - In class:
+    - scrum report
+    - Continue making contributions to Runestone.
+    - Work on presentation
+  - Announcements:
+    - The [team presentation](presentation.md) will be given next time, the last day of class, Wednesday, December 4, 2019 in class.
+    - The [portfolio](portfolio.md) will be due at the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late. **We will not meet as a class.**
+ - Before next class:
+    - Complete, submit, and be ready to deliver the [team presentation](presentation.md).
+
 ## Day 24: Monday, November 25, 2019
   - Before class: Complete all work due before class today (see the list from last time)
   - In class:
