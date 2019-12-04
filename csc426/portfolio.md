@@ -16,4 +16,4 @@ Submit a single-spaced portfolio document to Moodle which includes the following
 
 Because I do not measure your success in PRs, your portfolio helps me to understand in a broader sense what you have accomplished this term. You should consider it a professional document; it should be well-written, well-edited, and entirely your own writing. (Remember that along with your team's presentation, it is worth 25% of your course grade!)
 
-### This portfolio is due by 8 am on the due date
+### This portfolio is due by 8:30 am on the due date
