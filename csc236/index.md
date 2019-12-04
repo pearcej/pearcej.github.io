@@ -8,10 +8,12 @@
 ## Day 42: Wednesday, December 4, 2019
   - Before class: Work on project
   - In class:
-    - Discuss project
     - Discuss course
+    - Work on [FP2: C++ codebase, report, and big O analysis](https://docs.google.com/document/d/1nRrf88QWIqZV2ukWw8URBs9wbTWCpUOkoQNGmG-msnU/edit?usp=sharing) due on Friday, December 6, 2019.
+    - Continue [FP3: Video Script and link to posted video](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) which is due at 8 am on your final exam date
+    - Lab Teamwork evaluation will also be due at 8 am on your final exam date
   - Outside of class:
-    - Work on Project
+    - Complete and submit [FP2: C++ codebase, report, and big O analysis](https://docs.google.com/document/d/1nRrf88QWIqZV2ukWw8URBs9wbTWCpUOkoQNGmG-msnU/edit?usp=sharing) due on Friday, December 6, 2019.
 
 ## Day 41: Monday, December 2, 2019
   - Before class: Study for exam: [TR2: Peerwise Review for E02](https://docs.google.com/document/d/1dPNmjYIvS8AYvmjOzsOPglcjDjYiyepB6qi0zCTviQ4/edit?usp=sharing)
