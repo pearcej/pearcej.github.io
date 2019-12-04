@@ -5,13 +5,21 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Day 43: Friday, December 6, 2019
+  - Before class: Work on project
+  - In class:
+    - IEQs
+    - Work on [FP3: Video Script and link to posted video](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) which is due at 8 am on your final exam date
+  - Outside of class:
+    - A final project teamwork evaluation will also be due at 8 am on your final exam date
+
 ## Day 42: Wednesday, December 4, 2019
   - Before class: Work on project
   - In class:
     - Discuss course
     - Work on [FP2: C++ codebase, report, and big O analysis](https://docs.google.com/document/d/1nRrf88QWIqZV2ukWw8URBs9wbTWCpUOkoQNGmG-msnU/edit?usp=sharing) due on Friday, December 6, 2019.
     - Continue [FP3: Video Script and link to posted video](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) which is due at 8 am on your final exam date
-    - Lab Teamwork evaluation will also be due at 8 am on your final exam date
+    - A final project teamwork evaluation will also be due at 8 am on your final exam date
   - Outside of class:
     - Complete and submit [FP2: C++ codebase, report, and big O analysis](https://docs.google.com/document/d/1nRrf88QWIqZV2ukWw8URBs9wbTWCpUOkoQNGmG-msnU/edit?usp=sharing) due on Friday, December 6, 2019.
 
