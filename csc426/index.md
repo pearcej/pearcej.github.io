@@ -9,9 +9,10 @@
     - Class photos for us and for the Runestone blog
     - [team presentations](presentation.md)
     - IEQs
- - Before final exam period **We will not meet as a class.**:
+ - Before final exam period:
      - Complete your second confidential teammate evaluation [TE2: Teammate evaluation 2](https://docs.google.com/document/d/1-rTaoaHfqZp_Bca5FX6KVmga0ckosTPiv9IRtUleuF0/edit?usp=sharing) due at or before the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late.
     - The [portfolio](portfolio.md) will be due at or before the time of the final exam, Friday, December 13, 2019 by 8:30 am. This is to be completed individually and will not be accepted late.
+    - **We will not meet as a class during the final exam period.**
 
 ## Day 25: Monday, December 2, 2019
   - Before class: Complete all work due before class today (see the list from last time)
