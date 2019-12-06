@@ -5,6 +5,13 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), use the book cppds and the course csc236-DS-F19 and create a login using your Berea email and username.
 
 ---
+## Final Exam Period:
+- 3 pm Tuesday, December 10, 2019 for the 8:00 am section
+- 3 pm Wednesday, December 11, 2019 for the 9:20 am section
+  - Before class: Complete and submit [FP Team Evaluation](https://forms.gle/p2kxYiPrCJwpCgrK9) and [FP3: Video Script and link to posted video](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) by 8 am on your final exam date
+  - In class:
+    - presentations and donuts!
+
 ## Day 43: Friday, December 6, 2019
   - Before class: Work on project
   - In class:
