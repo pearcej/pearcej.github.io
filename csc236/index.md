@@ -11,7 +11,7 @@
     - IEQs
     - Work on [FP3: Video Script and link to posted video](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) which is due at 8 am on your final exam date
   - Outside of class:
-    - A final project teamwork evaluation will also be due at 8 am on your final exam date
+    - The [FP Team Evaluation](https://forms.gle/p2kxYiPrCJwpCgrK9) is also due at 8:00 am on your final exam date
 
 ## Day 42: Wednesday, December 4, 2019
   - Before class: Work on project
