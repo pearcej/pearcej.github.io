@@ -2,7 +2,7 @@
 
 Submit a single-spaced portfolio document to Moodle which includes the following sections:
 
-1. An overview of the issue or issues that your team worked on and summary of the progress your team made (if any; if none, then summarize each of your attempts). Assume that your reader has general familiarity with the Runestone, but nothing more. If helpful, you can include images or screenshots. (2+ paragraphs)
+1. An overview of the issue or issues that your team worked on, a summary of the progress your team made (if any; if none, then summarize each of your attempts), and if you did not complete the issue(s) detail what you did to make it/them easy for someone else in the open source community to utilize your progress to complete and close.  Assume that your reader has general familiarity with Runestone, but nothing more. If helpful, you can include images or screenshots. (3+ paragraphs)
 
 2. A detailed summary of each team member's contributions, including your own. I'm interested in what you each did rather than your dynamics, which you'll address in your Final Team Evaluation. (3+ paragraphs; 1+ on each team member)
 
