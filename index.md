@@ -2,7 +2,7 @@
 
 #### Department Founder & Chair, Berea College
 
-I am porting my course pages to this site. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
+I am slowly porting my course pages to this site. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
 
 #### Spring 2020 Courses
 - [csc126: Intro to Robotics](./csc126/index.md)
