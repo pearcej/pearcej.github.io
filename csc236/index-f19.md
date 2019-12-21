@@ -445,7 +445,7 @@
     - Complete and submit [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/) Assuming that we finish in class, submit in class even though the due date is set to before our next class.
   - Outside of class:
     - Follow [A00: Install Visual Studio and Plugins](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit comments to Moodle.
-    - A01: Read the syllabus [csc236syllabus.pdf](http://cs.berea.edu/courses/csc236_F2019/csc236syllabusF19.pdf) and then submit [A01: Student Info](https://docs.google.com/forms/d/e/1FAIpQLScuvQrux6UV6nGa2h7TE8SXFqf64amCHbe4lU5FfIJgMErhFw/viewform?usp=sf_link) and upload a selfie photo to Moodle (so I can learn your name!)
+    - A01: Read the syllabus [csc236syllabus.pdf](http://cs.berea.edu/courses/csc236_jp/csc236syllabusF19.pdf) and then submit [A01: Student Info](https://docs.google.com/forms/d/e/1FAIpQLScuvQrux6UV6nGa2h7TE8SXFqf64amCHbe4lU5FfIJgMErhFw/viewform?usp=sf_link) and upload a selfie photo to Moodle (so I can learn your name!)
     - Read Chapter 1 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure you are logged in to csc236-transition-F19.
 
 
