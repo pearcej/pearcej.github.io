@@ -1,22 +1,20 @@
-# CSC 236: Data Structures
+# CSC 493: Senior Projects
 # Berea College
-
-  - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), using the book cpp4pyS20 and using your Berea email as your username.
-  - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
-
 ---
 
-## Day 1: Wednesday, January 8, 2020
-  - In class:
-    - Welcome
-    - Icebreaker
-    - Discussion of course: content, texts, syllabus, flow, etc
-    - Change your password for Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html). Be sure to use the book cpp4pythonS20 and a login using your Berea email.
-    - Complete and submit [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/) Assuming that we finish in class, submit in class even though the due date is set to before our next class.
-  - Outside of class:
-    - Follow [A00: Install Visual Studio and Plugins](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit comments to Moodle.
-    - A01: Read the syllabus [csc236syllabus.pdf](http://cs.berea.edu/courses/csc236_F2019/csc236syllabusS20.pdf) and then submit [A01: Student Info](https://forms.gle/E5aHXXY8H6QqbGnEA) and upload a selfie photo to Moodle (so I can learn your name!)
-    - Read Chapters 1 and 2 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. For engagement credit be sure you are logged in to cpp4pythonS20 and you run all the interactive features.
+## Day 1: Tuesday, January 7, 2020
+- In class:
+  - Welcome and discussion of course: content, syllabus, flow, etc.
+  - Initiation Phase: Orientation to Scrum and the Software Development Lifecycle.
+  - Roles: students as project leaders; peers as clients; instructor as supervisor, project director, and mentor.
+  - Discuss the purpose and expectations for submissions in Github and Google Docs.
+In class work:
+  - develop project ideas
+After class:
+  - A01: Read the syllabus [csc493syllabus.pdf](http://cs.berea.edu/courses/csc493_jp/csc493syllabusS20.pdf)
+  - Read about [agile processes](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing)
+  - Read the [csc 493: project requirements](r0-project.md)
+  - Pull the project repo and complete an initial rough draft of your project proposal [RO: Readme project proposal](https://classroom.github.com/a/OTGLkkPb).
 
 ---
 ###### Copyright © 2020 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
