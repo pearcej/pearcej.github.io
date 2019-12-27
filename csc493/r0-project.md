@@ -1,18 +1,16 @@
-## Project Proposal Information and Suggestions
+## Project Concept
 
-Some of you may already have a definite idea of what you would like to do
-for your project, while others of you may have not.
+As you know by the title, this course is a project-based course. You may already have a definite idea of what you would like to do
+for your project or you may not.
+
 Even if you already have a general idea of what you want to do,
 the design specifications can still be challenging.
-The main project proposal requirement is that your project concept
-be approved by the instructor and that the project involves new learning
-at the level worthy of a CIS senior as well as strong design and
-implementation components
-(so such tasks like creating a simple webpage or fixing bugs in a small
-existing project will not be acceptable).
-Of course, you need to choose a project which can be completed in the
-rather short time frame of a single semester,
-so it should not be a massively large project.
+
+The first project milestone requirement is that your project concept
+be approved by the instructor and that the project is likely to involves work
+at the level worthy of a CIS senior but which can be completed in the
+rather short time frame of a single semester.
+Hence, it should not be an unreasonably large project.
 
 As you consider what you wish to propose for your project,
 keep in mind the following suggestions:
@@ -29,12 +27,12 @@ a Facebook plug-in, or tool for a non-profit, etc...
 Remember if you can create an interesting project you are proud of,
 you can put it in your resume and talk about it in a job interview situation.
 
-- *Use what you already know:*
+- *Use what you already know: *
 One goal of this project is to bring together different things you have
 learned to create something new and interesting.
 Identify your strengths and then think about how to use them to your advantage.  By leveraging your strengths you will have an easier time with a project of this large scope.
 
-- *Don't be afraid to learn something new:*
+- *Don't be afraid to learn something new: *
 It is not sufficient just to learn something new, but
 don't be afraid to learn a new language, like PHP or Java,
 or a new framework/API, like Facebook or Google gadgets
@@ -53,8 +51,8 @@ but hopefully this will get you thinking.
 - Work with a Berea faculty member to develop software for their classroom or for their research.
 - Write a Moodle plug-in that does something useful (for example, manages programming assignments and submissions in some new way).
 - Expand an Open Source application by adding some particular functionality which is currently lacking.
-- Make a cool iPhone or Android application.
-- Develop the next amazing web application that will make you and your Project Director a billion dollars. Ha, ha!  Well, why not?
+- Make an iPhone or Android application.
 - The Google Summer of Code (GSoC) is an annual program in which Google
 awards stipends to students who successfully complete a free software or
 open-source coding project during a summer. Google it.
+- Develop the next amazing web application that will make you and your Project Director a billion dollars. Ha, ha!  Well, why not?
