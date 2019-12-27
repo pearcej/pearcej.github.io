@@ -16,7 +16,8 @@ As you consider what you wish to propose for your project,
 keep in mind the following suggestions:
 
 - *Make your project something you think is awesome or fills a real desire
-or need*
+or need:*
+
 You will be spending a great deal of time working on this project,
 and its easier to get motivated for the amount of work required if its something
 that you care about. Don't treat this as just an assignment
@@ -27,12 +28,14 @@ a Facebook plug-in, or tool for a non-profit, etc...
 Remember if you can create an interesting project you are proud of,
 you can put it in your resume and talk about it in a job interview situation.
 
-- *Use what you already know: *
+- *Use what you already know:*
+
 One goal of this project is to bring together different things you have
 learned to create something new and interesting.
 Identify your strengths and then think about how to use them to your advantage.  By leveraging your strengths you will have an easier time with a project of this large scope.
 
-- *Don't be afraid to learn something new: *
+- *Don't be afraid to learn something new:*
+
 It is not sufficient just to learn something new, but
 don't be afraid to learn a new language, like PHP or Java,
 or a new framework/API, like Facebook or Google gadgets
