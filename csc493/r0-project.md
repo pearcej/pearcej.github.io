@@ -12,6 +12,14 @@ at the level worthy of a CIS senior but which can be completed in the
 rather short time frame of a single semester.
 Hence, it should not be an unreasonably large project.
 
+The Project Concept Proposal is used to make a case for a project and it is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
+demonstrates that the idea is likely to be a worthwhile investment by identifying potential impacts on company
+systems, staff, and operations. In short it is used to:
+- Explain the rationale behind the proposed software product/service
+- Persuade stakeholders to invest resources in the proposal
+- Highlight where strategic goals can be realized and justify why this proposal should be endorsed
+Your task is to decide on a programming project and write a project concept proposal.
+
 As you consider what you wish to propose for your project,
 keep in mind the following suggestions:
 
@@ -37,8 +45,8 @@ Identify your strengths and then think about how to use them to your advantage. 
 - *Don't be afraid to learn something new:*
 
 It is not sufficient just to learn something new, but
-don't be afraid to learn a new language, like PHP or Java,
-or a new framework/API, like Facebook or Google gadgets
+don't be afraid to learn a new language, like Django or C#,
+or a new framework or an important API, like Facebook or Google gadgets
 
 The instructor can help talk you through what's involved in your project
 to help you to determine if it is reasonable…
