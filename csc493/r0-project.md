@@ -15,7 +15,7 @@ Hence, it should not be an unreasonably large project.
 As you consider what you wish to propose for your project,
 keep in mind the following suggestions:
 
-- *Make your project something you think is awesome or fills a real desire
+- *Make something you think is awesome or fills a real desire
 or need:*
 
 You will be spending a great deal of time working on this project,
