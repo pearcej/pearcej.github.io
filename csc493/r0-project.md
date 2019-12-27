@@ -1,18 +1,18 @@
-## Project Concept
+## CSC 493: Project Concept Proposal
 
-As you know by the title, this course is a project-based course. You may already have a definite idea of what you would like to do
+As you know from the course title, this course is a project-based course. You may already have a definite idea of what you would like to do
 for your project or you may not.
 
-Even if you already have a general idea of what you want to do,
+Even if you already have an idea of what you want to do,
 the design specifications can still be challenging.
 
 The first project milestone requirement is that your project concept
 be approved by the instructor and that the project is likely to involves work
 at the level worthy of a CIS senior but which can be completed in the
 rather short time frame of a single semester.
-Hence, it should not be an unreasonably large project.
+Hence, while it should be something you can be proud of, it should not be an unreasonably large project.
 
-The Project Concept Proposal is used to make a case for a project and it is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
+The **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
 demonstrates that the idea is likely to be a worthwhile investment by identifying potential impacts on company
 systems, staff, and operations. In short it is used to:
 - Explain the rationale behind the proposed software product/service
