@@ -15,7 +15,7 @@ In class work:
 After class:
   - Complete [CSC493 A01: Getting Started](https://docs.google.com/document/d/1SZWTgztj3zh1ovlwwMCiDxT27XoOkNd0rxAeWDJcIRc/edit?usp=sharing)
   - Read the [csc 493: project requirements](r0-project.md)
-  - Pull the project repo and complete an initial rough draft of your project proposal [RO: Project Concept Proposal](r0-project.md) committed to Github as a README file in the repo. Note: The rough draft is due before the next class. Lack of draft submission will decrease the grade of the final submission by 1 full letter.
+  - Pull the project repo and complete an initial rough draft of your project proposal [RO: Project Concept Proposal](r0-project.md) committed to Github as a README file of this project concept proposal is due to be submitted before next time in the repo. Note: The rough drafts are typically due before the item's actual due date. Lack of early draft submission will decrease the grade of the final submission by at least 1 full letter.
   - Compete [agile processes](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing) due Thursday, 01/09/2020.
 
 ---

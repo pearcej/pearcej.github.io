@@ -77,4 +77,4 @@ open-source coding project during a summer. Google it.
 ---
 ### Submission Deadlines:
 - *Before next class:* Draft README.md submitted to your linked Github repo.
-- *By due date:* Two or more commits of the README.md Project Concept Proposal submitted to Github.
+- *By due date:* Two or more commits of the README.md Project Concept Proposal submitted to your linked Github repo.
