@@ -63,18 +63,18 @@ and you should feel free to expand far beyond my list.
 Your project proposal will need to be far more specific than this,
 but hopefully this will get you thinking.
 
-- Develop a web application to manage a collection of a particular type of documents and relations between documents, with ratings, tagging, and commenting capabilities.  This might, for example, improve storage of photos and/or videos.
-- Implement an interesting game program with a solid intuitive GUI interface.
+- Develop a web application to manage a collection of a particular type of document and relation between documents, with ratings, tagging, and/or commenting capabilities.  This might, for example, improve storage of photos and/or videos.
+- Implement an fun and interesting game program with a solid intuitive GUI interface.
 - Work with a Berea faculty member to develop software for their classroom or for their research.
-- Write a Moodle plug-in that does something useful (for example, manages programming assignments and submissions in some new way).
-- Expand an Open Source application by adding some particular functionality which is currently lacking.
+- Write a Moodle plug-in that does something significant and useful (for example, manages programming assignments and submissions in some new way).
+- Expand an Open Source application by adding some significant functionality which is currently lacking.
 - Make an iPhone or Android application.
 - The Google Summer of Code (GSoC) is an annual program in which Google
 awards stipends to students who successfully complete a free software or
 open-source coding project during a summer. Google it.
-- Develop the next amazing web application that will make you and your Project Director a billion dollars. Ha, ha!  Well, why not?
+- Develop the next amazing web application that will make you and your Project Director a lot of money... Ha, ha!  Well, why not?
 
 ---
-### Deadlines:
-- Before next class: Draft README submitted to Github repo.
-- By due date: Two or more commits of the README Project Concept Proposal.
+### Submission Deadlines:
+- *Before next class:* Draft README.md submitted to your linked Github repo.
+- *By due date:* Two or more commits of the README.md Project Concept Proposal submitted to Github.
