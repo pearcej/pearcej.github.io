@@ -1,10 +1,16 @@
-## CSC 493: Project Concept Proposal
+## CSC 493: R0: Project Concept Proposal
 
-As you know from the course title, this course is a project-based course. You may already have a definite idea of what you would like to do
+As you know from the course title, this course is a project-based course.
+It will be a project that you develop
+as a solo developer using Agile methods.
+You may already have a definite idea of what you would like to do
 for your project or you may not.
+Either is fine...
+The instructor has multiple ideas of possible
+projects that are at the appropriate
+level even if you do not.
 
-Even if you already have an idea of what you want to do,
-the design specifications can still be challenging.
+The **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle.
 
 The first project milestone requirement is that your project concept
 be approved by the instructor and that the project is likely to involves work
@@ -12,7 +18,7 @@ at the level worthy of a CIS senior but which can be completed in the
 rather short time frame of a single semester.
 Hence, while it should be something you can be proud of, it should not be an unreasonably large project.
 
-The **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
+The **Project Concept Proposal** is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
 demonstrates that the idea is likely to be a worthwhile investment by identifying potential impacts on company
 systems, staff, and operations. In short it is used to:
 - Explain the rationale behind the proposed software product/service
@@ -51,7 +57,7 @@ or a new framework or an important API, like Facebook or Google gadgets
 The instructor can help talk you through what's involved in your project
 to help you to determine if it is reasonable…
 
-The following are a few  general ideas designed just to get you thinking about your project.
+The following are a few general ideas designed just to get you thinking about your project.
 This list reflects some of my biases about what I find interesting,
 and you should feel free to expand far beyond my list.
 Your project proposal will need to be far more specific than this,
@@ -67,3 +73,8 @@ but hopefully this will get you thinking.
 awards stipends to students who successfully complete a free software or
 open-source coding project during a summer. Google it.
 - Develop the next amazing web application that will make you and your Project Director a billion dollars. Ha, ha!  Well, why not?
+
+---
+### Deadlines:
+- Before next class: Draft README submitted to Github repo.
+- By due date: Two or more commits of the README Project Concept Proposal.
