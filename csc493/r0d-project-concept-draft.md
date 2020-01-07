@@ -1,4 +1,4 @@
-## CSC 493: R0: Project Concept Proposal
+## CSC 493: r0d: Project Concept Proposal DRAFT
 
 As you know from the course title, this course is a project-based course.
 It will be a project that you develop
@@ -18,13 +18,15 @@ at the level worthy of a CIS senior but which can be completed in the
 rather short time frame of a single semester.
 Hence, while it should be something you can be proud of, it should not be an unreasonably large project.
 
+This assignment is that you [pull the repo here](https://classroom.github.com/a/3_PDFE8Y) and use the README.md to create your first draft of your project concept proposal.
+
 The **Project Concept Proposal** is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
 demonstrates that the idea is likely to be a worthwhile investment by identifying potential impacts on company
 systems, staff, and operations. In short it is used to:
-- Explain the rationale behind the proposed software product/service
+- Explain the rationale behind the proposed software product/service.
 - Persuade stakeholders to invest resources in the proposal
 - Highlight where strategic goals can be realized and justify why this proposal should be endorsed
-Your task is to decide on a programming project and write a project concept proposal.
+Your task is to decide on a programming project and write a project concept proposal first draft.
 
 As you consider what you wish to propose for your project,
 keep in mind the following suggestions:
@@ -75,6 +77,5 @@ open-source coding project during a summer. Google it.
 - Develop the next amazing web application that will make you and your Project Director a lot of money... Ha, ha!  Well, why not?
 
 ---
-### Submission Deadlines:
-- *Before next class:* Draft README.md submitted to your linked Github repo.
-- *By due date:* Two or more commits of the README.md Project Concept Proposal submitted to your linked Github repo.
+### Submission Deadline:
+- *Before next class:* Draft README.md submitted to your linked Github repo. 
