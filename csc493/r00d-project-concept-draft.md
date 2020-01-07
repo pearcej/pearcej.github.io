@@ -1,4 +1,4 @@
-## CSC 493: r0d: Project Concept Proposal DRAFT
+## CSC 493: r00d: Project Concept Proposal DRAFT
 
 As you know from the course title, this course is a project-based course.
 It will be a project that you develop
