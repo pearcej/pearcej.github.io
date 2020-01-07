@@ -19,7 +19,7 @@ rather short time frame of a single semester.
 Hence, while it should be something you can be proud of, it should not be an unreasonably large project.
 
 This assignment is that you [pull the repo here](https://classroom.github.com/a/3_PDFE8Y) and use the README.md to create your first draft of your project concept proposal. Note that Github README files are typically written in
-an easy language called MarkDown. Here is a MarkDown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) which includes a [Live Demo](http://www.markdown-here.com/livedemo.html).
+an easy language called MarkDown. Here is a [MarkDown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) which includes a [MarkDown Live Demo](http://www.markdown-here.com/livedemo.html).
 
 The **Project Concept Proposal** is frequently the first document to be created in the software development life cycle. In industry, it concretely identifies a need or opportunity and
 demonstrates that the idea is likely to be a worthwhile investment by identifying potential impacts on company
