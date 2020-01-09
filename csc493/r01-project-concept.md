@@ -1,16 +1,16 @@
 ## CSC 493: r01: Project Concept Proposal
 
-As you know, the **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. You have begun your README.md for the initial part of your project concept proposal using the following sections:
+As you know, the **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. You have begun your README.md for the initial part of your project concept proposal by drafting the following sections:
 - Project name
 - Project proposal (including purpose)
 - Prerequisites
 - Built With
 - Author name
 - Acknowledgments
-Do your best with these, even though they are just guesses at this point. See [Awesome READMEs](https://github.com/matiassingers/awesome-readme) for a list of great READMEs.
 
-Before next time you will complete your project concept proposal by improving your README.md and by adding a second file to your repo entitled concept.md. Include the following sections in concept.md:
+Do your best to improve these before next time, even though they are mostly just guesses at this point. See [Awesome READMEs](https://github.com/matiassingers/awesome-readme) for a list of great README files.
 
+Before next time you will complete your project concept proposal by improving your README.md and by adding a second file entitled concept.md to your Github repo. Include the following sections in concept.md:
 
 **Goals:** The primary benefits and goals of the proposed project and how this project is intended to address the need/opportunity just described.
 
@@ -34,7 +34,7 @@ Before next time you will complete your project concept proposal by improving yo
 
 You may want to use [MarkDown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and [MarkDown Live Demo](http://www.markdown-here.com/livedemo.html).
 
-Add a relative link from README.md to concept.md. (A relative link uses just the file name and not http://...) Test this link and make sure it works.
+Add a relative link to concept.md from README.md to concept.md. (A relative link uses just the file name and not http://...) Test this link and make sure it works.
 
 ---
 ### Submission Deadline:
