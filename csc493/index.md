@@ -1,6 +1,15 @@
 # CSC 493: Senior Projects
 # Berea College
 ---
+## Day 1: Thursday, January 9, 2020
+In class:
+- Agile reports
+- Project reports
+- Project concept development
+
+After class:
+- Complete [R01: Project Concept Proposal](r01-project-concept.md) committed to Github as README.md and concept.md files before next time in the repo.
+- Complete [R02 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
 
 ## Day 1: Tuesday, January 7, 2020
 In class:
