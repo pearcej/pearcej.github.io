@@ -1,7 +1,7 @@
 # CSC 493: Senior Projects
 # Berea College
 ---
-## Day 1: Thursday, January 9, 2020
+## Day 2: Thursday, January 9, 2020
 In class:
 - Agile reports
 - Project reports
