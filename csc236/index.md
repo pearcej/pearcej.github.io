@@ -6,23 +6,27 @@
 
 ---
 ## Day 2: Friday, January 10, 2020
+
 Before class:
 - Complete all work due before class today (see list from last time)
 In class:
 - Take Quiz Q01 on Chapters 1 and 2 of [C++ for Python Programmers](https://runestone.academy/runestone/books//cpp4python/index.html)
 - Complete and submit [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/).
 - Complete and submit [T01: Visual Studio, Github, and ASCII art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing) which is an in-class way to begin the first lab [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+
 Outside of class:
 - Read Chapters 3 and 4 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
 - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) Milestone 1: Attempt to fully complete by Wednesday, January 15. Note that with this and with all labs, you will get 2 days grace following this deadline. However, you will lose 20% if you have not pushed a good bit of code to your repo and really made an effort to complete by this Milestone deadline. Hence, begin often and make those commits!!
 
 ## Day 1: Wednesday, January 8, 2020
+
 In class:
 - Welcome
 - Icebreaker
 - Discussion of course: content, texts, syllabus, flow, etc
 - Change your password for Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html). Be sure to use the book cpp4pythonS20 and a login using your Berea email.
 - Begin [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/) If you finish in class, submit in class even though the due date is set for later and we will have more time next time.
+
 Outside of class:
 - Follow [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing). Note this will take a bit of time. There is some reading and software installation. When done, submit link to Moodle.
 - Read Chapters 1 and 2 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. For engagement credit be sure you are logged in to cpp4pythonS20 and you run all the interactive features.
