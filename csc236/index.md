@@ -5,6 +5,18 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+## Day 3: Monday, August 26, 2019
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Take Quiz Q01 on Chapters 3 and 4 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
+  - Complete and submit [T02: LiveShare Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing)
+
+Outside of class:
+  - Read Chapter 5 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
+  - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) The Milestone 1 full attempt is due next time (Wednesday, January 15, 2030).
+
 ## Day 2: Friday, January 10, 2020
 
 Before class:
@@ -13,7 +25,7 @@ Before class:
 In class:
   - Take Quiz Q01 on Chapters 1 and 2 of [C++ for Python Programmers](https://runestone.academy/runestone/books//cpp4python/index.html)
   - Complete and submit [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/).
-  - Complete and submit [T01: Visual Studio, Github, and ASCII art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing) which is an in-class way to begin the first lab [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+  - Complete and submit [T01: Visual Studio, Github, and ASCII art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing) which is an in-class way to begin the first lab [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). It is also individual.
 
 Outside of class:
   - Read Chapters 3 and 4 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
