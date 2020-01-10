@@ -9,6 +9,7 @@
 
 Before class:
 - Complete all work due before class today (see list from last time)
+
 In class:
 - Take Quiz Q01 on Chapters 1 and 2 of [C++ for Python Programmers](https://runestone.academy/runestone/books//cpp4python/index.html)
 - Complete and submit [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/).
