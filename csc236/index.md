@@ -15,7 +15,7 @@ In class:
 
 Outside of class:
   - Read Chapter 5 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
-  - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) The Milestone 1 full attempt is due next time (Wednesday, January 15, 2030).
+  - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) The Milestone 1 full attempt is due next time (Wednesday, January 15, 2020).
 
 ## Day 2: Friday, January 10, 2020
 
