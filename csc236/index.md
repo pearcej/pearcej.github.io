@@ -30,6 +30,7 @@ In class:
 Outside of class:
   - Read Chapters 3 and 4 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
   - Make progress on [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) Milestone 1: Attempt to fully complete by Wednesday, January 15. Note that with this and with all labs, you will get 2 days grace following this deadline. However, you will lose 20% if you have not pushed a good bit of code to your repo and really made an effort to complete by this Milestone deadline. Hence, begin often and make those commits!!
+  - Complete and submit [T01: Visual Studio, Github, and ASCII art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing) if you did not finish in class.
 
 ## Day 1: Wednesday, January 8, 2020
 
