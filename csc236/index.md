@@ -10,7 +10,7 @@ Before class:
   - Complete all work due before class today (see list from last time)
 
 In class:
-  - Take Quiz Q01 on Chapters 3 and 4 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
+  - Take Quiz Q02 on Chapters 3 and 4 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
   - Complete and submit [T02: LiveShare Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing)
 
 Outside of class:
