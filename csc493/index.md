@@ -1,6 +1,17 @@
 # CSC 493: Senior Projects
 # Berea College
 ---
+## Day 3: Tuesday, January 14, 2020
+In class:
+- Agile reports
+- Project reports
+- Vision and Scope sections
+- draft Software Requirements Specification (SRS) document (just one requirement by next time.)
+
+After class:
+- Complete [R02d: Vision, Scope, Requreuirements](r02d-scope.md) committed to Github as README.md and requirements.md files before next time in the repo.
+- Complete [R03 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+
 ## Day 2: Thursday, January 9, 2020
 In class:
 - Agile reports

@@ -56,8 +56,12 @@ to any actual design or implementation work. The SRS document states in precise 
 those functions and capabilities a software system must provide, and any required constraints which the
 system must follow. An SRS contains functional and nonfunctional requirements only, rather than
 design ideas. Functional requirements describe the functionality or capability that the software is to
-have. Example functional requirement: "Software must update and remember the highest score earned
-by all users." Non-functional requirements are qualities or constraints that the software must have or
+have.
+
+Example functional requirement:  
+  - "Software must update and remember the highest score earned by all users."
+
+Non-functional requirements are qualities or constraints that the software must have or
 comply with, but which are not operations that will be automated.
 
 Example non-functional requirement:
