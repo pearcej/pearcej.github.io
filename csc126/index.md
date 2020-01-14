@@ -12,7 +12,7 @@ In class:
   - Complete [Lab L2: RoboLab](https://docs.google.com/document/d/1QKnTms6Y3G633IXicFjeCtCUALfo18D5bsjS-1kx4Cw/edit?usp=sharing) Submit BOTH the link to completed lab and also upload the program you created.
 
 After class:
-  - Complete and submit Assignment [A01: What are robots and what are they good for](https://docs.google.com/document/d/1lK9ENCZ1XHL-UnwEWkYKgag-gD_pKgMaWNNgvQ3c0hw/edit?usp=sharing)
+  - Complete and submit Assignment [A02: What are robots and what are they good for](https://docs.google.com/document/d/1lK9ENCZ1XHL-UnwEWkYKgag-gD_pKgMaWNNgvQ3c0hw/edit?usp=sharing)
 
 ## Day 2: Thursday, January 9, 2020
 
