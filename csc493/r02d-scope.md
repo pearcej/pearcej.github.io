@@ -27,7 +27,7 @@ README.md
   - link to requirements.md
     - formal list of requirements
 
-# Summary of the new sections and file
+# Purpose and Summary
 
 We have a very constrained time-frame in this course to complete a sizeable project. This means that
 scaling the scope of your project is very important. In English, the word “scope” means the range, size,
