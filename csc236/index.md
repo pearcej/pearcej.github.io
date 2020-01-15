@@ -17,8 +17,8 @@ In class:
 
 Outside of class:
   - Read Chapters 6 and 7 in [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) in preparation for a reading quiz. Be sure to read while logged in.
-  - Complete [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) Extended to Friday, January 17, 2020).
-  - Begin [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) The Milestone 1 full attempt is due MLK Day, Monday, January 20, 2020).
+  - Complete [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing) Extended to Friday, January 17, 2020.
+  - Begin [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) The Milestone 1 full attempt is due MLK Day, Monday, January 20, 2020.
 
 
 ## Day 3: Monday, January 13, 2020
