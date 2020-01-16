@@ -2,6 +2,18 @@
 # Berea College
 ---
 
+## Day 4: Thursday, January 16, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Complete [Lab L2: RoboLab](https://docs.google.com/document/d/1QKnTms6Y3G633IXicFjeCtCUALfo18D5bsjS-1kx4Cw/edit?usp=sharing) Submit BOTH the link to completed lab and also upload the program you created.
+  - Complete [Lab L3: Simple Measurements](https://docs.google.com/document/d/16loS1UwI9yFHa-O6TnpPUdDsJD1FvAx3jjhYEp_PF1U/edit?usp=sharing)
+
+After class:
+  - Read chapter 2 of the text in preparation for an in-class reading quiz
+
 ## Day 3: Tuesday, January 14, 2020
 
 Before class:
