@@ -1,7 +1,21 @@
 # CSC 493: Senior Projects
 # Berea College
 ---
+
+
+## Day 4: Thursday, January 16, 2020
+
+In class:
+- Complete Software Requirements Specification (SRS)
+- Begin software development
+
+After class:
+- Complete [R03: SRS and software](r03-requirements.md) all committed to Github
+- Complete [R04 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+
+
 ## Day 3: Tuesday, January 14, 2020
+
 In class:
 - Agile reports
 - Project reports
@@ -13,6 +27,7 @@ After class:
 - Complete [R03 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
 
 ## Day 2: Thursday, January 9, 2020
+
 In class:
 - Agile reports
 - Project reports
@@ -23,6 +38,7 @@ After class:
 - Complete [R02 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
 
 ## Day 1: Tuesday, January 7, 2020
+
 In class:
 - Welcome and discussion of course: content, syllabus, flow, etc.
 - Initiation Phase: Orientation to agile and the software development lifecycle.
