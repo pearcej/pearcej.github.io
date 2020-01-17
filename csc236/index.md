@@ -12,7 +12,7 @@ Before class:
   - Complete all work due before class today (see list from last time)
 
 In class:
-  - Take Quiz on Chapters 5 and 6 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
+  - Take Quiz on Chapters 6 and 7 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
   - Share art from [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
   - Begin and maybe complete [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
 
