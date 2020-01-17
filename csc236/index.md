@@ -6,20 +6,37 @@
 
 ---
 
-## Day 5: Friday, August 30, 2019
+## Day 6: Wednesday, January 22, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+  - [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing)
+  - Reading for quiz.
+
+In class:
+  - Take quiz on Chapter 1 (skipping 1.7-1.11, really try to understand 1.12) in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to read logged into the course cppdsS20.
+  - Share art from [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+  - Begin and maybe complete [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
+
+Outside of class:
+  - Register for our next Runestone book. Read Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use our course cppdsS20, and a login using your Berea email and username. Note: You can safely skip sections 1.7-1.11 because longer versions of these all appeared in our first other book. I recommend reading 1.12 the most carefully because it introduces OOP and classes. 1.13 is a much harder read, so just get the main ideas and you will be fine on the quiz.
+  - Continue [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) The Milestone 1 full attempt is due MLK Day, Monday, January 20, 2020, but final submission is due by Wednesday, January 22, 2020.
+
+## Monday, January 20, 2020
+  - No class enjoy MLK Day!
+
+## Day 5: Friday, January 17, 2020
 
 Before class:
   - Complete all work due before class today (see list from last time)
 
 In class:
   - Take Quiz on Chapters 6 and 7 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
-  - Share art from [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
-  - Begin and maybe complete [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
+  - Discuss [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
 
 Outside of class:
   - Register for our next Runestone book. Read Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use our course cppdsS20, and a login using your Berea email and username. Note: You can safely skip sections 1.7-1.11 because longer versions of these all appeared in our first other book. I recommend reading 1.12 the most carefully because it introduces OOP and classes. 1.13 is a much harder read, so just get the main ideas and you will be fine on the quiz.
-
-  - Continue [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) The Milestone 1 full attempt is due MLK Day, Monday, January 20, 2020.
+  - Continue [L02: Loopy Graphics with CTurtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing) The Milestone 1 full attempt is due MLK Day, Monday, January 20, 2020, but final submission is due by Wednesday, January 22, 2020.
 
 ## Day 4: Wednesday, January 15, 2020
 
