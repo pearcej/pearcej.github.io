@@ -12,10 +12,12 @@ In class:
   - [actual job ad](https://docs.google.com/document/d/1v509bLb0IK04kvbVdv4oNVj4eTbxO3ReSBZQXWnO-zw)
   - [Google Slides on preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw)
   - [Resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)
-
+  - [How to Tell Your Professional Story on LinkedIn](https://www.inc.com/steve-cody/how-to-tell-your-professional-story-on-linkedin.html)
+  - [Tailoring Your LinkedIn Profile to Your Goals](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/TipSheet_TailoringYourProfile.pdf)
+  
 After class:
  - Make progress with at least one requirement. Commit to Github.
- - Complete [R04: Professional Materials](r04-professionalism.md)
+ - Complete [A02: Professional Materials](a02-professionalism.md)
 
 
 ## Day 4: Thursday, January 16, 2020
