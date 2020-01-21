@@ -1,4 +1,4 @@
-## r04: Refine Professional Materials
+## R04: Refine Professional Materials
 
 You have two tasks to complete before next time:
 - Work on one of the requirements that you wrote last time.
@@ -17,7 +17,7 @@ README.md
 - Prerequisites
 - Built With
 - Author name
-  - **links to LinkedIn page and resume** 
+  - **links to LinkedIn page and resume**
 - Acknowledgments
 - link to concept.md
     - Goals

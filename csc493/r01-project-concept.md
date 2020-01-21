@@ -1,4 +1,4 @@
-## CSC 493: r01: Project Concept Proposal
+## CSC 493: R01: Project Concept Proposal
 
 As you know, the **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. You have begun your README.md for the initial part of your project concept proposal by drafting the following sections:
 - Project name

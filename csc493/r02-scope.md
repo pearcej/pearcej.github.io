@@ -1,4 +1,4 @@
-## CSC 493: r02d: Project Concept Proposal
+## CSC 493: R02: Project Concept Proposal
 
 Your project repo should have both README.md and concept.md with the sections detailed below. Be sure to keep these up-to-date as your project progresses.
 

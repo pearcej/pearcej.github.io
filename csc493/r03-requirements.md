@@ -1,4 +1,4 @@
-## r03: Complete SRS and begin Software Development
+## R03: Complete SRS and begin Software Development
 
 You have two tasks to complete before next time:
 - Complete the Preliminary Software Requirements Specification (SRS) which you began last time. You will add to the file called requirements.md.
