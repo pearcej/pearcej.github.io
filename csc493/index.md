@@ -28,7 +28,6 @@ After class:
 - Complete [R03: SRS and software](r03-requirements.md) all committed to Github
 - Complete [R04 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
 
-
 ## Day 3: Tuesday, January 14, 2020
 
 In class:
@@ -63,7 +62,7 @@ In class:
 
 After class:
 - Complete [CSC493 A01: Getting Started](https://docs.google.com/document/d/1SZWTgztj3zh1ovlwwMCiDxT27XoOkNd0rxAeWDJcIRc/edit?usp=sharing)
-- Read the [csc 493: project concept draft requirements](r00d-project-concept-draft.md) Then pull the project repo and complete an initial rough draft of your project proposal [R00d: Project Concept Proposal](r00d-project-concept-draft.md) committed to Github as a README.md file. This project concept proposal draft is due to be submitted before next time in the repo. Note: Rough drafts will typically be due before the item's actual due date, and the requirements may be minimized for the drafts so you can get feedback before doing too much work. Lack of on-time draft submission will decrease the grade of the final submission by at least 1 full letter.
+- Read the [csc 493: project concept draft requirements](r00-project-concept-draft.md) Then pull the project repo and complete an initial rough draft of your project proposal [R00: Project Concept Proposal](r0-project-concept-draft.md) committed to Github as a README.md file. This project concept proposal draft is due to be submitted before next time in the repo. Note: Rough drafts will typically be due before the item's actual due date, and the requirements may be minimized for the drafts so you can get feedback before doing too much work. Lack of on-time draft submission will decrease the grade of the final submission by at least 1 full letter.
 - Complete [R01 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
 
 ## course resources
