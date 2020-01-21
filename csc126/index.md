@@ -8,8 +8,21 @@ Before class:
   - see last time
 
 In class:
-  - Complete [Lab L2: RoboLab](https://docs.google.com/document/d/1QKnTms6Y3G633IXicFjeCtCUALfo18D5bsjS-1kx4Cw/edit?usp=sharing) Submit BOTH the link to completed lab and also upload the program you created.
-  - Complete [Lab L3: Simple Measurements](https://docs.google.com/document/d/16loS1UwI9yFHa-O6TnpPUdDsJD1FvAx3jjhYEp_PF1U/edit?usp=sharing)
+  - Take reading quiz on chapter 2
+  - Discuss [Lab L03: Simple Measurements](https://docs.google.com/document/d/16loS1UwI9yFHa-O6TnpPUdDsJD1FvAx3jjhYEp_PF1U/edit?usp=sharing)
+  - Complete [Lab L04: on Touch Sensors](https://drive.google.com/open?id=1Obmzv5y680F_FwCUWh6OweQz0NJ_2fHHnrjut7wvlmA)
+
+After class:
+  - Complete [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+
+## Day 4: Thursday, January 16, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Complete [Lab L02: RoboLab](https://docs.google.com/document/d/1QKnTms6Y3G633IXicFjeCtCUALfo18D5bsjS-1kx4Cw/edit?usp=sharing) Submit BOTH the link to completed lab and also upload the program you created.
+  - Complete [Lab L03: Simple Measurements](https://docs.google.com/document/d/16loS1UwI9yFHa-O6TnpPUdDsJD1FvAx3jjhYEp_PF1U/edit?usp=sharing)
 
 After class:
   - Read chapter 2 of the text in preparation for an in-class reading quiz
