@@ -7,6 +7,8 @@ You have two tasks to complete before next time:
 
 ## Documentation
 
+There are no required changes to the documentation today except for links. You should have all of the following:
+
 README.md
 - Project name
 - Project proposal (including purpose)
@@ -15,6 +17,7 @@ README.md
 - Prerequisites
 - Built With
 - Author name
+  - **links to LinkedIn page and resume** 
 - Acknowledgments
 - link to concept.md
     - Goals
