@@ -1,4 +1,4 @@
-## R04: Refine Professional Materials
+## A02: Refine Professional Materials
 
 You have two tasks to complete before next time:
 - Work on one of the requirements that you wrote last time.
