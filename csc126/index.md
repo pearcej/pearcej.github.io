@@ -2,7 +2,7 @@
 # Berea College
 ---
 
-## Day 4: Thursday, January 16, 2020
+## Day 4: Tuesday, January 20, 2020
 
 Before class:
   - see last time
