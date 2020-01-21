@@ -2,6 +2,21 @@
 # Berea College
 ---
 
+## Day 5: Tuesday, January 21, 2020
+
+In class:
+- Agile report out
+- In our next class, we will have an alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/) visit for virtual mentoring.
+- Discuss professionalism
+- Professional materials
+  - [actual job ad](https://docs.google.com/document/d/1v509bLb0IK04kvbVdv4oNVj4eTbxO3ReSBZQXWnO-zw)
+  - [Google Slides on preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw)
+  - [Resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)
+
+After class:
+ - Make progress with at least one requirement. Commit to Github.
+ - Complete [R04: Professional Materials](r04-professionalism.md)
+
 
 ## Day 4: Thursday, January 16, 2020
 

@@ -2,7 +2,7 @@
 # Berea College
 ---
 
-## Day 5: Tuesday, January 20, 2020
+## Day 5: Tuesday, January 21, 2020
 
 Before class:
   - see last time
