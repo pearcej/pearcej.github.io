@@ -19,6 +19,7 @@ In class:
   - Begin and hopefully complete [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
 
 Outside of class:
+  - Study for a summary quiz next time on C++ syntax as we learned in the cpp4python20 text. 
   - Complete [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg/edit?usp=sharing)
   - Begin [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) The Milestone 1 full attempt is due  Monday, January 27, 2020, and final submission is due by Wednesday, January 29, 2020.
 
