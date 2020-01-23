@@ -1,9 +1,8 @@
 ## A02: Refine Professional Materials
+## A03: REVISE Professional Materials based on advise you heard from our alumnus.
 
 You have two tasks to complete before next time:
-- Work on one of the requirements that you wrote last time.
-- Refine your professional materials: resume and LinkedIn Page.
-
+- Refine your professional materials: resume and LinkedIn Page and link them from the author section of your README.md.
 
 ## Documentation
 
@@ -51,4 +50,4 @@ Here are some useful resources on building professional materials:
 - *Before next class:*
   - Progress made on at least one requirement pushed to repo
   - Updated LinkedIn page, linked from README
-  - Completed resume in pdf form pushed into your Github Repo and linked from README.
+  - Completed and/or revised resume in pdf form pushed into your Github Repo and linked from README.
