@@ -2,6 +2,19 @@
 # Berea College
 ---
 
+## Day 6: Thursday, January 23, 2020
+
+In class:
+- In class, we have  alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/) visit for virtual mentoring.
+- Agile report out
+- Discuss professional materials
+
+After class:
+ - Revise your resume and your LinkedIn page AGAIN based on what you heard from our alumnus [A03: Revise Professional Materials AGAIN](https://pearcej.github.io/csc493/a02-professionalism.html)
+ - Be sure your revised resume is pushed to Github and both the resume and the LinkedIn page are linked from your README.md.
+ - Make progress on software. Commit to Github.
+
+
 ## Day 5: Tuesday, January 21, 2020
 
 In class:
