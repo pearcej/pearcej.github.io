@@ -46,7 +46,7 @@ Before class:
 
 In class:
   - Take Quiz on Chapters 6 and 7 of [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html) Be sure to read while logged in.
-  - Discuss [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
+  - Discuss [A02: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
 
 Outside of class:
   - Register for our next Runestone book. Read Chapter 1 in [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html) in preparation for a reading quiz. Be sure to use our course cppdsS20, and a login using your Berea email and username. Note: You can safely skip sections 1.7-1.11 because longer versions of these all appeared in our first other book. I recommend reading 1.12 the most carefully because it introduces OOP and classes. 1.13 is a much harder read, so just get the main ideas and you will be fine on the quiz.
