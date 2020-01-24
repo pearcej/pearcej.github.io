@@ -17,7 +17,7 @@ In class:
 
 Outside of class:
   - Complete and Submit [A03: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8/edit?usp=sharing)
-  - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55fz4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Because of the Github issues, for Milestone 1 just pull the repo and try to complete one of the tasks by  Monday, January 27, 2020. Milestone 2 is a full attempt by Wednesday, January 29, 2020, and the final completion will be due on Friday, January 31, 2020.
+  - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Because of the Github issues, for Milestone 1 just pull the repo and try to complete one of the tasks by  Monday, January 27, 2020. Milestone 2 is a full attempt by Wednesday, January 29, 2020, and the final completion will be due on Friday, January 31, 2020.
 
 ## Day 7: Friday, January 24, 2020
 
@@ -32,7 +32,7 @@ In class:
 Outside of class:
   - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg/edit?usp=sharing) by TOMORROW. Note: Given 24 hour extension because so many people did not see it...
   - Complete and submit [A02: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing)
-  - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55fz4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Because of the Github issues, for Milestone 1 just pull the repo and try to complete one of the tasks by  Monday, January 27, 2020. Milestone 2 is a full attempt by Wednesday, January 29, 2020, and the final completion will be due on Friday, January 31, 2020.
+  - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Because of the Github issues, for Milestone 1 just pull the repo and try to complete one of the tasks by  Monday, January 27, 2020. Milestone 2 is a full attempt by Wednesday, January 29, 2020, and the final completion will be due on Friday, January 31, 2020.
 
 ## Day 6: Wednesday, January 22, 2020
 
