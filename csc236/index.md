@@ -13,7 +13,7 @@ Before class:
 In class:
   - Discuss [A02: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing) which you should have completed.
   - Complete and submit [T03: ADTs and the Dog Class](https://docs.google.com/document/d/1cbY3fIGfa0rSwLBtRIbNSWqesK-fU8rmn7wlLAK-H2w/edit?usp=sharing).
-  - Begin [T04: Arrays and Randomness](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We will likely complete this on Wednesday.
+  - Begin [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We will likely complete this on Wednesday.
 
 Outside of class:
   - Complete and Submit [A03: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8/edit?usp=sharing)
