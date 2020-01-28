@@ -2,6 +2,17 @@
 # Berea College
 ---
 
+## Day 7: Tuesday, January 28, 2020
+
+In class:
+- Agile report out
+- Discuss software design
+
+After class:
+ - Complete [R05 agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R04: Software Design](r04-design.md) all committed to Github
+ - Make progress on software. Commit to Github.
+
 ## Day 6: Thursday, January 23, 2020
 
 In class:
