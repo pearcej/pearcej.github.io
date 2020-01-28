@@ -2,15 +2,28 @@
 # Berea College
 ---
 
-## Day 6: Thursday, January 23, 2020
+## Day 7: Tuesday, January 28, 2020
 
 Before class:
   - see last time
 
 In class:
-  - Discuss [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
-  - Discuss [Lab L04: on Touch Sensors](https://drive.google.com/open?id=1Obmzv5y680F_FwCUWh6OweQz0NJ_2fHHnrjut7wvlmA)
-  - Complete and submit [Lab L05: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+  - Discuss [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
+  - Discuss [Lab L05: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+  - Complete [Lab L06: on Following a Track](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+
+After class:
+  - Complete and submit [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
+
+## Day 6: Thursday, January 23, 2020
+
+Before class:
+  - see last time
+
+  In class:
+    - Discuss [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+    - Discuss [Lab L04: on Touch Sensors](https://drive.google.com/open?id=1Obmzv5y680F_FwCUWh6OweQz0NJ_2fHHnrjut7wvlmA)
+    - Complete and submit [Lab L05: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
 
 After class:
   - Complete and submit [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
