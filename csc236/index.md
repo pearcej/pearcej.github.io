@@ -5,6 +5,23 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+
+## Day 9: Wednesday, January 29, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Begin or continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). I am hoping we can complete this today.
+  - 10:00 am: Meet with alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/)
+  - If time permits, begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which you may do alone or in a pair.
+
+Outside of class:
+  - Read [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
+  - Begin [L04: Beetle Game](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
+  - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) Because of the Github issues, for Milestone 1 just pull the repo and try to complete one of the tasks by Monday, January 27, 2020. Milestone 2 is a full attempt by Wednesday, January 29, 2020, and the final completion will be due on Friday, January 31, 2020.
+  - Announcement: There will be a reading quiz on Friday, January 31, 2020 on Chapter 2 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course csc236-DS-F19, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice!
+
 ## Day 8: Monday, January 27, 2020
 
 Before class:
