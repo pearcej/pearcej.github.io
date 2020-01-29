@@ -12,7 +12,7 @@ Before class:
   - Complete all work due before class today (see list from last time)
 
 In class:
-  - Begin or continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). I am hoping we can complete this today.
+  - Begin or continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We will finish this up on Friday.
   - 10:00 am: Meet with alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/)
   - If time permits, begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which you may do alone or in a pair.
 
