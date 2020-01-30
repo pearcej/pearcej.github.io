@@ -13,7 +13,7 @@ In class:
   - Complete [Lab L07: Containers](https://docs.google.com/document/d/1y7ClQvP5G6gjn-hcDwAtzC0XJQstFNuULikb9TD5IDA/edit?usp=sharing)
 
 After class:
-  - Complete and submit [A06: User Centered Design?](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
+  - Complete and submit [A06: User Centered Design](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
   - Read chapter 3 of the text in preparation for a reading quiz
 
 ## Day 7: Tuesday, January 28, 2020
