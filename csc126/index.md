@@ -9,7 +9,7 @@ Before class:
 
 In class:
   - Discuss [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
-  - Discuss [Lab L06: on Following a Track](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+  - Discuss [Lab L06: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
   - Complete [Lab L07: Containers](https://docs.google.com/document/d/1y7ClQvP5G6gjn-hcDwAtzC0XJQstFNuULikb9TD5IDA/edit?usp=sharing)
 
 After class:
@@ -24,7 +24,7 @@ Before class:
 In class:
   - Discuss [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
   - Discuss [Lab L05: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
-  - Complete [Lab L06: on Following a Track](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+  - Complete [Lab L06: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
 
 After class:
   - Complete and submit [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
