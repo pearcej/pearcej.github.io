@@ -17,7 +17,6 @@ In class:
   - Continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We will finish this up today.
 
 Outside of class:
-  - Announcement: There will be a **reading quiz on Friday, January 31, 2020 on Chapter 2** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username. Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice!
   - Read [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
   - Begin [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
 
