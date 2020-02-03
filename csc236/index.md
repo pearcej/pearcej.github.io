@@ -12,11 +12,13 @@ Before class:
   - Complete all work due before class today (see list from last time)
 
 In class:
-  - Discuss [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
-  - Continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We really will finish this up today.
+  - Discuss [A04: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
+  - Continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We really will finish this up today or you need to complete it outside of class.
 
 Outside of class:
   - Continue [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
+  - Complete and submit [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing) if you have not already done so.
+  - [A05: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) Will be due on Friday, February 7, 2019.
 
 ## Day 10: Friday, January 31, 2020
 
@@ -28,7 +30,7 @@ In class:
   - Continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing).
 
 Outside of class:
-  - Complete [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
+  - Complete [A04: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
   - Begin [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
 
 ## Day 9: Wednesday, January 29, 2020
@@ -39,11 +41,11 @@ Before class:
 In class:
   - Begin or continue [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing). We will finish this up on Friday.
   - 10:00 am: Meet with alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/)
-  - If time permits, begin [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which you may do alone or in a pair.
+  - If time permits, begin [A04: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing) which you may do alone or in a pair.
 
 Outside of class:
   - Announcement: There will be a **reading quiz on Friday, January 31, 2020 on Chapter 2** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username. **Note: This chapter covers some of the most important content in the course. It is important reading, so don't shortchange yourself. You might even find time to read it twice!**
-  - Read [A03: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
+  - Read [A04: Designing an ADT: Beetle](https://docs.google.com/document/d/1zCrzB5E8tGAHCBemi57EbDzvSMf3XAcpIYrC3Li-u2Q/edit?usp=sharing)
   - Begin [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
   - Continue [L03: Enhancing Fractions](https://docs.google.com/document/d/1WdDX55z4M0z5mhjXuq8XevwY5-abTBtxqxasXKtOgBA/edit?usp=sharing) The final completion is Friday, January 31, 2020.
 
