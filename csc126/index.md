@@ -8,6 +8,18 @@ Before class:
   - see last time
 
 In class:
+  - Discuss [Lab L07: Containers](https://docs.google.com/document/d/1y7ClQvP5G6gjn-hcDwAtzC0XJQstFNuULikb9TD5IDA/edit?usp=sharing)
+  - Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+
+After class:
+  - Read chapter 4 of the text in preparation for a reading quiz
+
+## Day 8: Thursday, January 30, 2020
+
+Before class:
+  - see last time
+
+In class:
   - Discuss [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
   - Discuss [Lab L06: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
   - Complete [Lab L07: Containers](https://docs.google.com/document/d/1y7ClQvP5G6gjn-hcDwAtzC0XJQstFNuULikb9TD5IDA/edit?usp=sharing)
