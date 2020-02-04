@@ -8,6 +8,7 @@ Before class:
   - see last time
 
 In class:
+  - Take quiz
   - Discuss [Lab L07: Containers](https://docs.google.com/document/d/1y7ClQvP5G6gjn-hcDwAtzC0XJQstFNuULikb9TD5IDA/edit?usp=sharing)
   - Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
 
