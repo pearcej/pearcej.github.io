@@ -52,10 +52,8 @@ recommend breaking systems down into small units. So, today's work will be to fu
 
 Be sure to identify which component you have fully implemented in your Scrum report.
 
-.
-
 ---
 ### Submission Deadline:
 - *Before next class:*
   - Scrum report that does the usual and also clearly identifies the newly coded component.
-  - Commit the code for this your newly completed component with header-style descriptions in each software component as well as internal documentation though comment lines. This is submitted to Github.
+  - Commit the code for your newly completed component with header-style descriptions in each software component as well as internal documentation though comment lines. This is submitted to Github.
