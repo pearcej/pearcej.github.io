@@ -14,7 +14,7 @@ Before next time you will complete your project concept proposal by improving yo
 
 **Goals:** The primary benefits and goals of the proposed project and how this project is intended to address the need/opportunity just described.
 
-**Context:** A statement context for the proposed project including a statement of the need or opportunity which your project is intended to address. Includng very brief descriptions of existing similar products and their utility and limitations and/or advantages and disadvantages. (Use hyperlinks
+**Context:** A statement context for the proposed project including a statement of the need or opportunity which your project is intended to address. Including very brief descriptions of existing similar products and their utility and limitations and/or advantages and disadvantages. (Use hyperlinks
 
 **Novelty:** The novelty of your solution and/or the enhancements you propose
 

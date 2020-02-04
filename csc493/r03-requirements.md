@@ -15,7 +15,7 @@ README.md
 - Built With
 - Author name
 - Acknowledgments
-- link to concept.md
+- Concept (linked to concept.md)
     - Goals
     - Context
     - Novelty
@@ -26,8 +26,8 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-  - link to requirements.md
-    - formal list of requirements
+- Requirements (linked to requirements.md)
+  - formal list of requirements
 
 Complete the set of Software Requirements Specification (SRS)  
 

@@ -26,8 +26,8 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-  - Requirements (linked to requirements.md)
-    - formal list of requirements
+- Requirements (linked to requirements.md)
+  - formal list of requirements
 - **Design (linked to design.md)**
 
 Today's work will continue the move from the planning and analysis phase to the design phase by fleshing out many more of the details of your software project.

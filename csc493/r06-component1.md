@@ -26,8 +26,8 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-  - Requirements (linked to requirements.md)
-    - formal list of requirements
+- Requirements (linked to requirements.md)
+  - formal list of requirements
 - Design (linked to design.md)
 
 This week we are finally require to implement some complete software portion of your project which can be small, but it must be complete.

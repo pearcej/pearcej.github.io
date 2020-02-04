@@ -26,9 +26,9 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-  - Requirements (linked to requirements.md)
-    - formal list of requirements
-  - **Design (linked to design.md)**
+- Requirements (linked to requirements.md)
+  - formal list of requirements
+- **Design (linked to design.md)**
 
 This week’s new work will move from the planning and analysis phase to beginning to the design phase of the software project.
 
