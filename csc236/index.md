@@ -5,6 +5,21 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+## Day 12: Wednesday, February 5, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Change teams
+  - Discuss [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing)
+  - Complete and submit [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
+
+Outside of class:
+  - Complete [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
+  - Complete and submit [T04: Dice Rolls](https://docs.google.com/document/d/115QQUHmsBg1YwbPVEa4D8JHl301rYYWGBgEQqFw_iKM/edit?usp=sharing) if you have not already done so.
+  - Begin [A05: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) which will be due on Friday, February 7, 2020.
+
 
 ## Day 11: Monday, February 3, 2020
 
