@@ -2,7 +2,7 @@
 # Berea College
 ---
 
-## Day 8: Thursday, January 30, 2020
+## Day 9: Tuesday, February 4, 2020
 
 Before class:
   - see last time
