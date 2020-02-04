@@ -2,6 +2,16 @@
 # Berea College
 ---
 
+## Day 9: Tuesday, February 4, 2020
+
+In class:
+- Agile report out
+- Discuss incremental agile design
+
+After class:
+ - Complete [R07: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R06: New Software Component 1](r06-component1.md)  committed to Github
+ - Next time you will give a short presentation on your software
 
 ## Day 8: Thursday, January 30, 2020
 
@@ -14,7 +24,6 @@ After class:
  - Complete [R05: Software Design 2](r05-design2.md) all committed to Github
  - Make progress on software. Commit to Github.
  - Next time you will give a short presentation on your design and your documentation
-
 
 ## Day 7: Tuesday, January 28, 2020
 
