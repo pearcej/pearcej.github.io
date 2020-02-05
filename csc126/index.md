@@ -2,6 +2,20 @@
 # Berea College
 ---
 
+## Day 10: Thursday, February 6, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Discuss [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+  - Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+
+After class:
+  - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?usp=sharing)
+  - Read chapter 5 of the text in preparation for a reading quiz
+
 ## Day 9: Tuesday, February 4, 2020
 
 Before class:
