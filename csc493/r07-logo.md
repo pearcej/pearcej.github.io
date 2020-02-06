@@ -1,13 +1,15 @@
-## R07: Software Component 2
+## R07: Logo
 
-You have two tasks to complete before next time:
+You have three tasks to complete before next time:
 - Complete agile report
+- Draft a product logo and embed it in the README
 - Complete another new software component, which can again be small.
 
 ## Documentation
 
 README.md
 - Project name
+- **Product Logo (image)**
 - Project proposal (including purpose)
 - Vision
 - Scope
@@ -30,10 +32,16 @@ README.md
   - formal list of requirements
 - Design (linked to design.md)
 
+How to choose a product logo?
+- Read [Ten Tips for Choosing a Logo](https://www.businessknowhow.com/marketing/logo_tips.htm)
+- Read [How to design a logo: the ultimate guide](https://99designs.com/blog/logo-branding/how-to-design-logo/)
+- Make your logo and commit it to Github. Be sure you do NOT violate copyright law in making your logo.
+- Embed this logo in your README.md using a relative link that is begun with an exclamation mark. See the image section on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 As mentioned last time, all agile design methodologies
 recommend breaking systems down into small units.
 
-So, today's work will be to fully implement another small portion(s) of your project. As always, it is required that this component has internal documentation though comment lines.
+Fully implement another small portion(s) of your project. As always, it is required that this component has internal documentation though comment lines.
 
 Be sure to identify which component you have fully implemented in your Scrum report.
 
