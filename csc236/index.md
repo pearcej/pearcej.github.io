@@ -5,6 +5,33 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+
+## Day 14: Monday, February 10, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Discuss [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes on this.
+
+Outside of class:
+  - Announcement: Excepting a major protest, Exam E01 will be
+  - Complete [L05: ]() which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 10, 2020. Milestone 2 is a full attempt by Wednesday, February 12, 2020, and the final completion will be due on Friday, February 14, 2020.
+
+## Day 13: Friday, February 7, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Discuss [A05: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) which is due.
+  - Discuss [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which is due.
+  - Discuss Big O Notation
+  - Complete [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes on this.
+
+Outside of class:
+  - Complete [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
+
 ## Day 12: Wednesday, February 5, 2020
 
 Before class:
@@ -15,7 +42,7 @@ In class:
   - Discuss lab milestones
   - Discuss [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing)
   - Discuss Big O Notation
-  - Complete and submit [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing)
+  - Nearly complete [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes next time.
 
 Outside of class:
   - Complete [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
