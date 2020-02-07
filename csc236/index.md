@@ -13,10 +13,10 @@ Before class:
 
 In class:
   - Discuss [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes on this.
+  - Begin [T06: When does Big O matter?](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
 
 Outside of class:
-  - Announcement: Excepting a major protest, Exam E01 will be 2WyeEhgSDdduykC_NEXSNLE7gBUrsday February 19.
-  - Begin [T07: When does Big O matter?](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing) Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 10, 2020. Milestone 2 is a full attempt by Wednesday, February 12, 2020, and the final completion will be due on Friday, February 14, 2020.
+  - Announcement: Excepting a major protest, Exam E01 will be on Wednesday, February 19, 2020.
 
 ## Day 13: Friday, February 7, 2020
 
