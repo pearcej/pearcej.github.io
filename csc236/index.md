@@ -6,17 +6,6 @@
 
 ---
 
-## Day 14: Monday, February 10, 2020
-
-Before class:
-  - Complete all work due before class today (see list from last time)
-
-In class:
-  - Discuss [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes on this.
-  - Begin [T06: When does Big O matter?](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
-
-Outside of class:
-
 ## Day 13: Friday, February 7, 2020
 
 Before class:
