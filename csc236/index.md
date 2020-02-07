@@ -20,6 +20,7 @@ In class:
   - Begin [T06: When does Big O matter](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
 
 Outside of class:
+  - Extra Credit Opportunity: Faculty Brian Schack will give a talk TODAY at 5 pm in DT 108A. If you attend and respond to our survey within 24 hours, you will get an extra perfect quiz and also extra credit engagement points. Pizza will be served.
   - Announcement: There will be a reading quiz on Monday, February 10, 2020 on Sections 3.1-3.9 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20.
   - Announcement: Exam E01 will be on Wednesday, February 19, 2020.
 
