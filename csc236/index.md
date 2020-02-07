@@ -16,7 +16,6 @@ In class:
   - Begin [T06: When does Big O matter?](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
 
 Outside of class:
-  - Announcement: Excepting a major protest, Exam E01 will be on Wednesday, February 19, 2020.
 
 ## Day 13: Friday, February 7, 2020
 
@@ -28,9 +27,11 @@ In class:
   - Discuss [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which is due.
   - Discuss Big O Notation
   - Complete [T05: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/1J8QWnNskE9lh8bacVjmuVfLxvt3zSB-W0uuOxSLazDo/edit?usp=sharing). We will only have 5-10 minutes on this.
+  - Announcement: There will be a reading quiz on Monday, February 10, 2020 on Sections 3.1-3.9 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20.
+
 
 Outside of class:
-  - Complete [L04: Beetle Game](https://docs.google.com/document/d/1aJ4K8-t6TolKCZujciNQxlLhrK8ShRFW3Z0_5WgLAxc/edit?usp=sharing) which you may do alone or in a pair. Milestone 1: Complete Whiteboard design, pull the repo and make some commits by Monday, February 3, 2020. Milestone 2 is a full attempt by Wednesday, February 5, 2020, and the final completion will be due on Friday, February 7, 2020.
+  - Announcement: Excepting a major protest, Exam E01 will be on Wednesday, February 19, 2020.
 
 ## Day 12: Wednesday, February 5, 2020
 
