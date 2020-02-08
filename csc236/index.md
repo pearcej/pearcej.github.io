@@ -5,6 +5,21 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+## Day 14: Monday, February 10, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Take quiz on 3.1-3.9
+  - Discuss [A05: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU/edit?usp=sharing) which was due last time.
+  - Complete and submit [T06: When does Big O matter](https://docs.google.com/document/d/1X0LbrbA5jtKI-QP0kjutzwMVZDdpL1VCruYi8Neoydg/edit?usp=sharing)
+  - Complete and submit [T07: Queues, Stacks, and Deques](https://docs.google.com/document/d/1P51-NSGRetRIbyP59O5pkuVp8Ho1wZWqmg2UJ_5MNMs/edit?usp=sharing)
+
+Outside of class:
+  - Announcement: There will be a reading quiz on Wednesday, February 12, 2020 on Sections 3.10-3.22 of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20.
+  - Complete [L05: Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing) which you may do alone or in a pair. by Fri, 2/14: Milestone 1: Complete and submit preplaning in lab report (numbers 1-5 in lab report), pull repo and make some  commits. By Mon, 2/17 Milestone 2: Make sincere and full attempt to complete everything, so you can come to class with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. By Wed, 2/19: Final Milestone: Lab is complete.
+  - Announcement: Exam E01 will be on Friday, February 21, 2020. Major topics covered will include: What are data structures, C++, OOP, Big O, linear structures, and career.
 
 ## Day 13: Friday, February 7, 2020
 
