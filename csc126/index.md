@@ -1,6 +1,17 @@
 # CSC 126: Introduction to Robotics
 # Berea College
 ---
+## Day 11: Tuesday, February 11, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Complete [Lab L10: Input and Looping](https://docs.google.com/document/d/1FQ5Loc3eaoNkE0PkZHkrVUnJ9XmLkkN1l1Qoj3pIRRk/edit?usp=sharing)
+
+After class:
+  - Read chapters 6-7 of the text in preparation for a reading quiz
 
 ## Day 10: Thursday, February 6, 2020
 
