@@ -9,7 +9,7 @@ You have three tasks to complete before next time:
 
 README.md
 - Project name
-- **Product Logo (image)**
+- Product Logo (image)
 - Project proposal (including purpose)
 - Vision
 - Scope
