@@ -16,7 +16,8 @@ README.md
 - Prerequisites
 - Built With
 - Author name
-![Jan Avatar](jp-avatar-sm.png) 
+
+![Jan Avatar](jp-avatar-sm.png)
   - **About**
 - Acknowledgments
 - Concept (linked to concept.md)
