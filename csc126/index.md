@@ -1,7 +1,7 @@
 # CSC 126: Introduction to Robotics
 # Berea College
 ---
-## Day 11: Tuesday, February 11, 2020
+## Day 13: Thursday, February 13, 2020
 
 Before class:
   - see last time
@@ -9,6 +9,22 @@ Before class:
 In class:
   - Take quiz
   - Complete [Lab L10: Input and Looping](https://docs.google.com/document/d/1FQ5Loc3eaoNkE0PkZHkrVUnJ9XmLkkN1l1Qoj3pIRRk/edit?usp=sharing)
+  - Complete [AE1: Peerwise Review for E1](https://docs.google.com/document/d/1QvizueIjqBLIVECYFNIrwjwvTVJp_cG2qbiKrFsE1DI/edit#heading=h.c1x99npetnfu)  
+
+After class:
+  - Complete [AE1: Peerwise Review for E1](https://docs.google.com/document/d/1QvizueIjqBLIVECYFNIrwjwvTVJp_cG2qbiKrFsE1DI/edit#heading=h.c1x99npetnfu) within 24 hours if you did not complete it in class.
+  - Use Peerwise to study for exam E1.
+
+
+## Day 11: Tuesday, February 11, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+  - Begin [Lab L10: Input and Looping](https://docs.google.com/document/d/1FQ5Loc3eaoNkE0PkZHkrVUnJ9XmLkkN1l1Qoj3pIRRk/edit?usp=sharing)
 
 After class:
   - Read chapters 6-7 of the text in preparation for a reading quiz
@@ -21,7 +37,7 @@ Before class:
 In class:
   - Take quiz
   - Discuss [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
-  - Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+  - Begin [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
 
 After class:
   - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?usp=sharing)
