@@ -1,6 +1,18 @@
 # CSC 126: Introduction to Robotics
 # Berea College
 ---
+## Day 14: Tuesday, February 15, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take Exam E1
+
+After class:
+  - Read chapter 8 of the text in preparation for a reading quiz
+
+
 ## Day 13: Thursday, February 13, 2020
 
 Before class:
