@@ -2,6 +2,26 @@
 # Berea College
 ---
 
+## Day 12: Tuesday, February 18, 2020
+
+In class:
+- Agile report out
+
+After class:
+ - Complete [R11: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R: Agile](r-agile.md) committed to Github.
+ - Next time you will again give a short presentation on your project
+
+## Day 11: Thursday, February 13, 2020
+
+In class:
+- Agile report out
+
+After class:
+ - Complete [R10: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R: Agile](r-agile.md) committed to Github.
+ - Next time we will discuss agile.
+
 ## Day 11: Tuesday, February 11, 2020
 
 In class:
