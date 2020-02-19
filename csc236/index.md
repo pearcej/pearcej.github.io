@@ -13,6 +13,7 @@ Before class:
 In class:
   - Complete [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Review for the exam
+  - Announcement Extra Credit Opportunity: Faculty Candidate Sabirat Rubya will give a talk Friday, February 21, 2020 at 5 pm in DT 108A. If you attend and respond to our survey within 24 hours, you will get an extra perfect quiz and also extra credit engagement points. Pizza will be served.
 
 Outside of class:
   - Study: Exam E01 will be on Friday, February 21, 2020. Major topics covered will include: What are data structures, C++, OOP, Big O, linear structures, and career. Use [Peerwise](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20108)
