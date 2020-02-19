@@ -3,8 +3,19 @@
 
   - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), using the book cpp4pyS20 and using your Berea email as your username.
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
-  
+
 ---
+## Day 18: Monday, February 19, 2020
+
+Before class:
+  - Complete all work due before class today (see list from last time)
+
+In class:
+  - Complete [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
+  - Review for the exam
+
+Outside of class:
+  - Study: Exam E01 will be on Friday, February 21, 2020. Major topics covered will include: What are data structures, C++, OOP, Big O, linear structures, and career. Use [Peerwise](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20108)
 
 ## Day 17: Monday, February 17, 2020
 
