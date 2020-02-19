@@ -5,7 +5,7 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
-## Day 18: Monday, February 19, 2020
+## Day 18: Wednesday, February 19, 2020
 
 Before class:
   - Complete all work due before class today (see list from last time)
