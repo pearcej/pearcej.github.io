@@ -1,7 +1,20 @@
 # CSC 126: Introduction to Robotics
 # Berea College
 ---
-## Day 14: Tuesday, February 15, 2020
+## Day 15: Thursday, February 20, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Begin [L11: Zombie Clone Attack!](https://docs.google.com/document/d/1TXNSkHTTIjNa0G0i7cuULWG2Z-mvTNjTE-5TZNQsdhc/edit?usp=sharing)
+
+After class:
+  - Complete [A08: Interfaces](https://docs.google.com/document/d/1c5j-ElvCMbG4lYmYZE60RBeHKrKLrIZPwbi-SGAeBTI/edit?usp=sharing)
+  - Read chapter 9 of the text in preparation for a reading quiz
+
+## Day 14: Tuesday, February 18, 2020
 
 Before class:
   - see last time
