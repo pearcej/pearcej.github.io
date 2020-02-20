@@ -1,6 +1,15 @@
 # CSC 493: Senior Projects
 # Berea College
 ---
+## Day 13: Thursday, February 20, 2020
+
+In class:
+- Agile report out
+
+After class:
+ - Complete [R12: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R: Agile](r-agile.md) committed to Github.
+ - Next time you will again give a short presentation on your project
 
 ## Day 12: Tuesday, February 18, 2020
 
