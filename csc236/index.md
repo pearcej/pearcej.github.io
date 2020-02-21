@@ -5,6 +5,19 @@
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 
 ---
+
+## Day 19: Friday, February 21, 2020
+
+Before class:
+  - study for exam
+
+In class:
+  - Complete exam E01
+
+Outside of class:
+  - Announcement: There will be a **reading quiz on Monday, February 24, 2020 on Chapter 4** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username.
+  - Announcement Extra Credit Opportunity: Faculty Candidate Sabirat Rubya will give a talk Friday, February 21, 2020 at 5 pm in DT 108A. If you attend and respond to our survey within 24 hours, you will get an extra perfect quiz and also extra credit engagement points. Pizza will be served.
+
 ## Day 18: Wednesday, February 19, 2020
 
 Before class:
@@ -13,9 +26,9 @@ Before class:
 In class:
   - Complete [T08: Planets, Big O, and Θ](https://docs.google.com/document/d/15N7e0K0UgfXL7dAqrsq3A2GO2CGM3dN6Hcc7t5T7eDg/edit?usp=sharing)
   - Review for the exam
-  - Announcement Extra Credit Opportunity: Faculty Candidate Sabirat Rubya will give a talk Friday, February 21, 2020 at 5 pm in DT 108A. If you attend and respond to our survey within 24 hours, you will get an extra perfect quiz and also extra credit engagement points. Pizza will be served.
 
 Outside of class:
+  - Announcement Extra Credit Opportunity: Faculty Candidate Sabirat Rubya will give a talk Friday, February 21, 2020 at 5 pm in DT 108A. If you attend and respond to our survey within 24 hours, you will get an extra perfect quiz and also extra credit engagement points. Pizza will be served.
   - Study: Exam E01 will be on Friday, February 21, 2020. Major topics covered will include: What are data structures, C++, OOP, Big O, linear structures, and career. Use [Peerwise](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20108)
 
 ## Day 17: Monday, February 17, 2020
