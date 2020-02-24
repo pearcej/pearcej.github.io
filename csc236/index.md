@@ -6,6 +6,15 @@
 
 ---
 
+## Day 20: Monday, February 24, 2020
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Take quiz
+    - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+  - Outside of class:
+    - Complete [A06: Codes and Teamwork](https://docs.google.com/document/d/1CnbytKN7-qMXwvxoNMN36bW06hTt40k_sAlrtBglkB4/edit?usp=sharing) which is due Wednesday, February 26, 2020
+    - Begin [A07: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due Friday, February 28, 2020
+
 ## Day 19: Friday, February 21, 2020
 
 Before class:
