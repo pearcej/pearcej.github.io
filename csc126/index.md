@@ -1,6 +1,21 @@
 # CSC 126: Introduction to Robotics
 # Berea College
+
 ---
+
+## Day 16: Tuesday, February 25, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Complete [L11: Zombie Clone Attack!](https://docs.google.com/document/d/1TXNSkHTTIjNa0G0i7cuULWG2Z-mvTNjTE-5TZNQsdhc/edit?usp=sharing)
+  - Complete [L12: Kill Switch](https://docs.google.com/document/d/1pUDh3Dzqyz_Lz6SP7P5bEDYF0ryDtmzNhrCtb5F9dlk/edit?usp=sharing)
+
+After class:
+  - Complete [A09: RCX and LNT Robot Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
+
 ## Day 15: Thursday, February 20, 2020
 
 Before class:
