@@ -12,8 +12,9 @@
     - Take quiz
     - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
+    - Begin [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
     - Complete [A06: Codes and Teamwork](https://docs.google.com/document/d/1CnbytKN7-qMXwvxoNMN36bW06hTt40k_sAlrtBglkB4/edit?usp=sharing) which is due Wednesday, February 26, 2020
-    - Begin [A07: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due Friday, February 28, 2020
+    - Begin [A07: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due Monday, March 9, 2020
 
 ## Day 19: Friday, February 21, 2020
 
@@ -76,7 +77,7 @@ In class:
   - Complete and submit [T07: Queues, Stacks, and Deques](https://docs.google.com/document/d/1P51-NSGRetRIbyP59O5pkuVp8Ho1wZWqmg2UJ_5MNMs/edit?usp=sharing)
 
 Outside of class:
-  - Complete Milestone 1 in [L05: Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing) which you may do alone or in a pair. by Fri, 2/14: Milestone 1: Complete and submit preplaning in lab report (numbers 1-5 in lab report), pull repo and make some commits. By Mon, 2/17 Milestone 2: Make sincere and full attempt to complete everything, so you can come to class with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. By Wed, 2/19: Final Milestone: Lab is complete.
+  - Complete Milestone 1 in [L05: Game of War](https://docs.google.com/document/d/1jCtUOy6JLPBzSFoZGqc7J73_iYF_-C9rck_ZtE9x4Kc/edit?usp=sharing) which you may do alone or in a pair. by Fri, 2/14: Milestone 1: Complete and submit preplanning in lab report (numbers 1-5 in lab report), pull repo and make some commits. By Mon, 2/17 Milestone 2: Make sincere and full attempt to complete everything, so you can come to class with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. By Wed, 2/19: Final Milestone: Lab is complete.
   - Announcement: Exam E01 will be on Friday, February 21, 2020. Major topics covered will include: What are data structures, C++, OOP, Big O, linear structures, and career.
 
 ## Day 14: Monday, February 10, 2020
