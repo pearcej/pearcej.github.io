@@ -14,7 +14,7 @@ In class:
   - Complete [L12: Kill Switch](https://docs.google.com/document/d/1pUDh3Dzqyz_Lz6SP7P5bEDYF0ryDtmzNhrCtb5F9dlk/edit?usp=sharing)
 
 After class:
-  - Complete [A09: RCX and LNT Robot Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
+  - Complete [A09: RCX and NXT Robot Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
 
 ## Day 15: Thursday, February 20, 2020
 
