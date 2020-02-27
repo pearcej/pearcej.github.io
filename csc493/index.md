@@ -2,6 +2,16 @@
 # Berea College
 
 ---
+
+## Day 15: Thursday, February 27, 2020
+
+In class:
+- Agile report out
+
+After class:
+ - Complete [R14: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R09: Website](r09-website.md) committed to Github.
+
 ## Day 14: Tuesday, February 25, 2020
 
 In class:
