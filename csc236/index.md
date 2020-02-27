@@ -6,12 +6,20 @@
 
 ---
 
+## Day 22: Friday, February 28, 2020
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Complete [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
+  - Outside of class:
+    - Continue [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 9, 2020. Final Milestone: Lab is debugged and complete. Due Wednesday, March 11, 2020
+    - Complete [A08: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due Monday, March 9, 2020
+
 ## Day 21: Wednesday, February 26, 2020
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
     - Begin [T10: Circular Linked Lists](https://docs.google.com/document/d/1wzZzvAKcYstxAW6I9ujb4h7Q6HZqYEUPMY2yf7EWhsA/edit?usp=sharing)
   - Outside of class:
-    - Begin [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and draft CRC card submitted to Github. by Friday, February 28, 2020. Milestone 2: Make sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 9, 2020. Final Milestone: Lab is debugged and complete. Due Wednesday, March 11, 2020
+    - Continue [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and draft CRC card submitted to Github. by Friday, February 28, 2020. Milestone 2: Make sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 9, 2020. Final Milestone: Lab is debugged and complete. Due Wednesday, March 11, 2020
     - Complete [A07: A Simple Introduction to Linked Lists](https://docs.google.com/document/d/13Nx6apKwhM2Otpfhtfb6zrVAsMiZ8Nowm1jff6nFsJ0/edit?usp=sharing) which is due Friday, February 28, 2020
     - Begin [A08: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) which is due Monday, March 9, 2020
 
