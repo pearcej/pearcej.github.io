@@ -18,7 +18,7 @@ README.md
 - Author name
 - ![Jan Avatar](jp-avatar-sm.png)
   - About
-  - **link to username.githum.io**
+  - **link to username.github.io**
 - Acknowledgments
 - Concept (linked to concept.md)
     - Goals
