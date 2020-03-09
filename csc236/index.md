@@ -14,6 +14,7 @@
   - Outside of class:
     - Continue [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Final Milestone: Lab is debugged and complete. Due Wednesday, March 11, 2020
     - Announcement: There will be a **reading quiz on Wednesday, March 11, 2020 on Chapter 5** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username.
+    - Begin [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Friday, March 13, 2020. Milestone 2: Make sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 16, 2020. Final Milestone: Lab is complete. Due Wednesday, March 18, 2020.
 
 ## Day 22: Friday, February 28, 2020
   - Before class: Complete all work due before class today (see list from last time)
