@@ -3,6 +3,18 @@
 
 ---
 
+## Day 18: Tuesday, March 9, 2020
+
+Before class:
+  - see last time
+
+In class:
+  - take quiz
+  - Complete [L13: Detecting Sound](https://docs.google.com/document/d/1SncwwDgSelkEPExowYvQmq6s4jRzoxk9EbJ6In0GiMc/edit?usp=sharing)
+
+After class:
+  - Read chapters 11 and 12 of the text in preparation for a reading quiz
+
 ## Day 17: Thursday, February 27, 2020
 
 Before class:
@@ -13,7 +25,7 @@ In class:
 
 After class:
   - Read chapter 10 of the text in preparation for a reading quiz
-  
+
 ## Day 16: Tuesday, February 25, 2020
 
 Before class:
