@@ -3,7 +3,7 @@
 
 ---
 
-## Day 18: Tuesday, March 9, 2020
+## Day 17: Tuesday, March 10, 2020
 
 Before class:
   - see last time
@@ -15,7 +15,7 @@ In class:
 After class:
   - Read chapters 11 and 12 of the text in preparation for a reading quiz
 
-## Day 17: Thursday, February 27, 2020
+## Day 16: Thursday, February 27, 2020
 
 Before class:
   - see last time
@@ -26,7 +26,7 @@ In class:
 After class:
   - Read chapter 10 of the text in preparation for a reading quiz
 
-## Day 16: Tuesday, February 25, 2020
+## Day 15: Tuesday, February 25, 2020
 
 Before class:
   - see last time
@@ -39,7 +39,7 @@ In class:
 After class:
   - Complete [A09: RCX and NXT Robot Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
 
-## Day 15: Thursday, February 20, 2020
+## Day 14: Thursday, February 20, 2020
 
 Before class:
   - see last time
@@ -52,7 +52,7 @@ After class:
   - Complete [A08: Interfaces](https://docs.google.com/document/d/1c5j-ElvCMbG4lYmYZE60RBeHKrKLrIZPwbi-SGAeBTI/edit?usp=sharing)
   - Read chapter 9 of the text in preparation for a reading quiz
 
-## Day 14: Tuesday, February 18, 2020
+## Day 13: Tuesday, February 18, 2020
 
 Before class:
   - see last time
@@ -64,7 +64,7 @@ After class:
   - Read chapter 8 of the text in preparation for a reading quiz
 
 
-## Day 13: Thursday, February 13, 2020
+## Day 12: Thursday, February 13, 2020
 
 Before class:
   - see last time

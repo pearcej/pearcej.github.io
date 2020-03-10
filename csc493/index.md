@@ -3,7 +3,16 @@
 
 ---
 
-## Day 15: Thursday, February 27, 2020
+## Day 17: Tuesday, March 10, 2020
+
+In class:
+- Agile report out
+
+After class:
+ - Complete [R15: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
+ - Complete [R: Agile](r-agile.md) committed to Github.
+
+## Day 16: Thursday, February 27, 2020
 
 In class:
 - Agile report out
@@ -12,7 +21,7 @@ After class:
  - Complete [R14: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
  - Complete [R09: Website](r09-website.md) committed to Github.
 
-## Day 14: Tuesday, February 25, 2020
+## Day 15: Tuesday, February 25, 2020
 
 In class:
 - Agile report out
@@ -21,7 +30,7 @@ After class:
  - Complete [R13: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
  - Complete [R: Agile](r-agile.md) committed to Github.
 
-## Day 13: Thursday, February 20, 2020
+## Day 14: Thursday, February 20, 2020
 
 In class:
 - Agile report out
@@ -31,7 +40,7 @@ After class:
  - Complete [R: Agile](r-agile.md) committed to Github.
  - Next time you will again give a short presentation on your project
 
-## Day 12: Tuesday, February 18, 2020
+## Day 13: Tuesday, February 18, 2020
 
 In class:
 - Agile report out
@@ -41,7 +50,7 @@ After class:
  - Complete [R: Agile](r-agile.md) committed to Github.
  - Next time you will again give a short presentation on your project
 
-## Day 11: Thursday, February 13, 2020
+## Day 12: Thursday, February 13, 2020
 
 In class:
 - Agile report out
@@ -117,7 +126,6 @@ After class:
  - Be sure your revised resume is pushed to Github and both the resume and the LinkedIn page are linked from your README.md.
  - Make progress on software. Commit to Github.
 
-
 ## Day 5: Tuesday, January 21, 2020
 
 In class:
@@ -134,7 +142,6 @@ In class:
 After class:
  - Make progress with at least one requirement. Commit to Github.
  - Complete [A02: Professional Materials](a02-professionalism.md)
-
 
 ## Day 4: Thursday, January 16, 2020
 
