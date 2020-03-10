@@ -1,8 +1,9 @@
 ## Computer & Information Science
 #### Department Founder & Chair, Berea College
-#### [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
-I am slowly porting my course pages to this site. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
+- [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
+
+---
 
 #### Spring 2020 Courses
 - [csc126: Intro to Robotics](./csc126/index.md)
@@ -12,3 +13,7 @@ I am slowly porting my course pages to this site. Please email me at jan_pearce 
 - [csc493: Senior Projects](./csc493/index.md)
 
 #### [Archived Courses](./archived.md)
+
+---
+
+I am slowly porting my course pages to this site. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
