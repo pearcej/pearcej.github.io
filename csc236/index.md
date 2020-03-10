@@ -1,5 +1,6 @@
 # CSC 236: Data Structures
 # Berea College
+## [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
   - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), using the book cpp4pyS20 and using your Berea email as your username.
   - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.

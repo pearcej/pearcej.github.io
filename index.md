@@ -1,6 +1,6 @@
 ## Computer & Information Science
-
 #### Department Founder & Chair, Berea College
+#### [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
 I am slowly porting my course pages to this site. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
 

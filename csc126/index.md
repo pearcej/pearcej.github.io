@@ -1,5 +1,6 @@
 # CSC 126: Introduction to Robotics
 # Berea College
+## [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
 ---
 
