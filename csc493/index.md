@@ -1,6 +1,7 @@
-# CSC 493: Senior Projects
-# Berea College
-## [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
+## CSC 493: Senior Projects
+##### Berea College
+
+- [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
 ---
 
