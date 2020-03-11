@@ -1,11 +1,24 @@
 ## CSC 236: Data Structures
-#### Berea College
+### Berea College
 
 - Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), using the book cpp4pyS20 and using your Berea email as your username.
 - Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 - [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
 ---
+
+## Day 25: Wednesday, March 11, 2020
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss the remainder of the course
+    - take quiz
+    - Discuss [A08: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing)
+    - Try to continue [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu)
+  - Outside of class:
+    - Announcement: There will be a **reading quiz on Friday, March 13, 2020 on Chapter 6** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username.
+    - Begin [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
+
+
 ## Day 23: Monday, March 9, 2020
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
