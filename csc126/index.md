@@ -12,7 +12,8 @@ Before class:
 
 In class:
   - take quiz
-  - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
+  - discuss changes to content
+  - discuss [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html)
 
 After class:
   - Begin [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020

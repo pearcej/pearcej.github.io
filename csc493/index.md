@@ -1,9 +1,19 @@
 ## CSC 493: Senior Projects
-#### Berea College
+### Berea College
 
 - [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
 
 ---
+## Day 18: Thursday, March 12, 2020
+### Our last class together
+
+In class:
+- Agile report out
+
+After class:
+ - Complete written agile reports - from now on due weekly on Thursdays.
+ - Complete Project - Due April 23, 2020
+ - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
 
 ## Day 17: Tuesday, March 10, 2020
 
