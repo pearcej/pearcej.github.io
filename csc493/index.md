@@ -17,6 +17,7 @@ After class:
  - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
  - Complete Project - Due April 23, 2020
  - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
+- Complete [R09: Website](r09-website.md) committed to Github - Adjusted deadline is now Thursday, March 26, 2020
 
 ## Day 17: Tuesday, March 10, 2020
 
@@ -34,7 +35,7 @@ In class:
 
 After class:
  - Complete [R14: agile report](https://docs.google.com/document/d/1MP8s17cSs_KLBSb_gfXTq6zWqbFr-xXDmI6D8QeeEnQ/edit?usp=sharing).
- - Complete [R09: Website](r09-website.md) committed to Github.
+ - Complete [R09: Website](r09-website.md) committed to Github. The deadline for this has been extended to Thursday, March 26, 2020
 
 ## Day 15: Tuesday, February 25, 2020
 
