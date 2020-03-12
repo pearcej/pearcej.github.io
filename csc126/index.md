@@ -5,7 +5,7 @@
 
 ---
 ## Day 18: Thursday, March 12, 2020
-### Our last class day together...
+### Our last class day together
 
 Before class:
   - see last time
