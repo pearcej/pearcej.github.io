@@ -14,7 +14,7 @@ In class:
 - Discuss useful resource [Github Student Developer Pack](https://education.github.com/pack)
 
 After class:
- - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and Slack
+ - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
  - Complete Project - Due April 23, 2020
  - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
 
