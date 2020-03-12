@@ -1,9 +1,21 @@
 ## CSC 126: Introduction to Robotics
-#### Berea College
+### Berea College
 
-- [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
+- [Zoom Channel - for virtual attendance](https://bit.ly/pearcejzoom)
 
 ---
+## Day 18: Thursday, March 12, 2020
+### Our last class day together...
+
+Before class:
+  - see last time
+
+In class:
+  - take quiz
+  - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
+
+After class:
+  - Begin [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
 
 ## Day 17: Tuesday, March 10, 2020
 
