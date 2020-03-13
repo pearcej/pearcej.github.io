@@ -5,6 +5,7 @@
 - [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
 
 ---
+
 ## Day 18: Thursday, March 12, 2020
 ### Our last class together
 

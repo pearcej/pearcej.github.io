@@ -8,6 +8,28 @@
 
 ---
 
+## How we will work after Friday, March 13, 2020 when we can't meet face-to-face
+
+- **Class, Office Hours, and Evening Lab**:  Attendance will NOT be required  by either via Slack or Zoom, but I will appear at 9:20 every MWF on my Zoom channel. Attendance is NOT required, but if no one joins by 9:30, I may leave. This will replace my office hours and lab, If you want asynchronous help, use our slack channel or email me.
+- **Support**: Just email me or direct message me in our slack channel by using @pearcej. I will support you do don't hesitate to contact me--people learn much more when they ask for help than when they need help and don't ask.
+- **Discussion**: Use our slack channel for class discussion - anything you would have said in class is appropriate here. This might be I need a partner for X or can we have an extension on y, etc.
+- **Teamworks**: The BC CS teamworks use a teaching strategy called POGIL (Process oriented guided inquiry based learning) Research indicates POGIL is highly effective for learning, but the learning needs to be synchronous for discussions. Hence, I encourage you to join a partner or two, but not more for teamworks. You may also do them alone if need be, Most are already posted.
+- **Exam 2**: Only the Peerwise portion will occur. Engagement with Peerwise will be required. This percentage of your grade will be reapportioned.
+- **Text book**: The remainder of the text will be read, but all quizzes will be replaced by assignments.  
+- **Labs and assignments**: These will still happen. All labs have been posted. Most assignments are already posted.
+- **Project**: We will still do this in teams of 1, 2, or 3.
+- **Mindset**: Support will be there and you can do this!!
+- **Flexibility**: I plan to be extremely flexible due to the unprecedented situation. Please tell me if you are sick, or need an extension or an incomplete.
+
+## Day 26: Friday, March 13, 2020
+  - Before class: Complete all work due before class today (see list from last time)
+  - In class:
+    - Discuss the remainder of the course
+    - take quiz
+    - complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu)
+  - Outside of class:
+    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
+
 ## Day 25: Wednesday, March 11, 2020
   - Before class: Complete all work due before class today (see list from last time)
   - In class:
@@ -18,7 +40,6 @@
   - Outside of class:
     - Announcement: There will be a **reading quiz on Friday, March 13, 2020 on Chapter 6** of [Problem Solving with Algorithms and Data Structures using C++](https://runestone.academy/runestone/books/published/cppds/index.html). Be sure to use our course cppdsS20, and a login using your Berea email and username.
     - Begin [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
-
 
 ## Day 23: Monday, March 9, 2020
   - Before class: Complete all work due before class today (see list from last time)
