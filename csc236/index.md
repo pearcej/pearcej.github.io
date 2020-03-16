@@ -8,6 +8,14 @@
 
 ---
 
+## Distance Day 1: Monday, March 16, 2020
+  - Before class: nothing was due...
+  - [9:20 Optional Zoom Meeting](https://bit.ly/pearcejzoom)
+  - Please post in [Slack Channel - for messaging](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) on how important TAs are to your success. I need this today to try to get you the support you need.
+
+  - Outside of class:
+    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
+
 ## How we will work after Friday, March 13, 2020 when we can't meet face-to-face
 
 - **Class, Office Hours, and Evening Lab**:  Attendance will NOT be required  by either via Slack or Zoom, but I will appear at 9:20 every MWF on my Zoom channel. Attendance is NOT required, but if no one joins by 9:30, I may leave. This will replace my office hours and lab, If you want asynchronous help, use our slack channel or email me.
