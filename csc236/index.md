@@ -9,9 +9,9 @@
 ---
 ## Distance Day 3: Friday, March 20, 2020
   - Meetings and support:
-    - [9:20 am Optional Office hours/class w Dr. Jan](https://bit.ly/pearcejzoom)
+    - [Monday, Wednesday, Friday, 9:20 am Optional Office hours/class w Dr. Jan](https://bit.ly/pearcejzoom)
+    - [Tuesday, Thursday, Sunday 5-7 pm Eastern: Optional lab support w Azis](https://bit.ly/pearcejzoom)
     - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
-    - [8-10 pm Optional lab support w Azis](https://bit.ly/pearcejzoom)
 
   - Upcoming Deadlines:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
@@ -25,7 +25,7 @@
     - [5-7 pm Nightly lab support w Azis](https://bit.ly/pearcejzoom)
 
   - Upcoming Deadlines:
-    - [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks due by 12:20 pm ~today, Wednesday, March 18, 2020~ tomorrow, Thursday, March 20, 2020. 
+    - [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks due by 12:20 pm ~today, Wednesday, March 18, 2020~ tomorrow, Thursday, March 20, 2020.
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern on Wednesday, March 25, 2020.
     - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by 12:20 pm Eastern on Friday, March 20, 2020
     - Complete [A10: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by by 12:20 pm Eastern on Friday, March 20, 2020
