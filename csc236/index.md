@@ -24,9 +24,9 @@
     - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
 
   - After class time:
-    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
-    - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by Friday, March 20, 2020
-    - Complete [A10: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by Friday, March 20, 2020
+    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern on Wednesday, March 25, 2020.
+    - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by by 12:20 pm Eastern on Friday, March 20, 2020
+    - Complete [A10: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by by 12:20 pm Eastern on Friday, March 20, 2020
 
 ## Distance Day 1: Monday, March 16, 2020
   - Before/during class time:
@@ -36,18 +36,18 @@
     - [CSC 236 Day before Distancing](https://photos.app.goo.gl/27DAR3aYh1FiRfnX8)
 
   - After class time:
-    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due Monday, March 23, 2020. Final Milestone: Lab is complete. Due Wednesday, March 25, 2020.
+    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due by 12:20 pm Eastern on Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by by 12:20 pm Eastern on Wednesday, March 25, 2020.
 
 ## How we will work after Friday, March 13, 2020 when we can't meet face-to-face
 
-- **Class, Office Hours, and Evening Lab**:  Attendance will NOT be required  by either via Slack or Zoom, but I will appear at 9:20 every MWF on my Zoom channel. Attendance is NOT required, but if no one joins by 9:30, I may leave. This will replace my office hours and lab, If you want asynchronous help, use our slack channel or email me.
+- **Class, Office Hours, and Evening Lab**:  Attendance will NOT be required  by either via Slack or Zoom, but I will appear at 9:20 every MWF on my Zoom channel. Attendance is NOT required, but if no one joins by 9:30, I may leave. This will replace my office hours and lab, If you want asynchronous help, please use our slack channel or email me.
 - **Support**: Just email me or direct message me in our slack channel by using @pearcej. I will support you do don't hesitate to contact me--people learn much more when they ask for help than when they need help and don't ask.
 - **Discussion**: Use our slack channel for class discussion - anything you would have said in class is appropriate here. This might be I need a partner for X or can we have an extension on y, etc.
 - **Teamworks**: The BC CS teamworks use a teaching strategy called POGIL (Process oriented guided inquiry based learning) Research indicates POGIL is highly effective for learning, but the learning needs to be synchronous for discussions. Hence, I encourage you to join a partner or two, but not more for teamworks. You may also do them alone if need be, Most are already posted.
 - **Exam 2**: Only the Peerwise portion will occur. Engagement with Peerwise will be required. This percentage of your grade will be reapportioned.
 - **Text book**: The remainder of the text will be read, but all quizzes will be replaced by assignments.  
 - **Labs and assignments**: These will still happen. All labs have been posted. Most assignments are already posted.
-- **Project**: We will still do this in teams of 1, 2, or 3.
+- **Project**: We will still do this in teams of 1, 2, or 3, but the coding portion is canceled and the amount of impact on your grade is reduced.
 - **Mindset**: Support will be there and you can do this!!
 - **Flexibility**: I plan to be extremely flexible due to the unprecedented situation. Please tell me if you are sick, or need an extension or an incomplete.
 
