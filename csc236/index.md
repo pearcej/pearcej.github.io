@@ -8,27 +8,27 @@
 
 ---
 ## Distance Day 4: Monday, March 23, 2020
-  - Upcoming Deadlines:
+  - **Upcoming Deadlines**:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
     - Complete [T11: Understanding Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing) by 12:20 pm Eastern Monday, March 23, 2020
     - Complete [T12: Understanding Recursion](https://docs.google.com/document/d/1m2EIZH9I7fh28-2WyeEhgSDdduykC_NEXSNLE7gBUrs/edit?usp=sharing) by 12:20 pm Eastern Wednesday, March 25, 2020
 
 ## Distance Day 3: Friday, March 20, 2020
-  - *Upcoming Deadlines*:
+  - **Upcoming Deadlines**:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
     - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by 12:20 pm Eastern Friday, March 20, 2020
     - Complete [A10: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by 12:20 pm Eastern Friday, March 20, 2020
     - Complete [T11: Understanding Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing) by 12:20 pm Eastern Monday, March 23, 2020
 
 ## Distance Day 2: Wednesday, March 18, 2020
-  - *Upcoming Deadlines*:
+  - **Upcoming Deadlines**:
     - [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks due by 12:20 pm ~today, Wednesday, March 18, 2020~ tomorrow, Thursday, March 20, 2020.
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern on Wednesday, March 25, 2020.
     - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by 12:20 pm Eastern on Friday, March 20, 2020
     - Complete [A10: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by by 12:20 pm Eastern on Friday, March 20, 2020
 
 ## Distance Day 1: Monday, March 16, 2020
-  - *Upcoming deadlines*:
+  - **Upcoming deadlines**:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks. - Due by 12:20 pm Eastern on Wednesday, March 18, 2020. Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by by 12:20 pm Eastern on Wednesday, March 25, 2020.
 
 ## How we will work after Friday, March 13, 2020 when we can't meet face-to-face
