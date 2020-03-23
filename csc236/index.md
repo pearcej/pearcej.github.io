@@ -1,29 +1,19 @@
 ## CSC 236: Data Structures
 ### Berea College
 
-- Text1: [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html), using the book cpp4pyS20 and using your Berea email as your username.
-- Text2: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
-- [Zoom Channel - for virtual attendance](https://bit.ly/pearcejzoom)
-- [Slack Channel - for messaging](https://app.slack.com/client/T3RM3MK1D/C6W1039PF)
+- DS text: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
+- [Zoom Monday, Wednesday, Friday, 9:20 am Optional Office hours/class w Dr. Jan](https://bit.ly/pearcejzoom)
+- [Zoom Tuesday, Thursday, Sunday 5-7 pm Eastern: Optional lab support w Azis](https://bit.ly/pearcejzoom)
+- Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
 
 ---
 ## Distance Day 4: Monday, March 23, 2020
-  - Meetings and support:
-    - [Monday, Wednesday, Friday, 9:20 am Optional Office hours/class w Dr. Jan](https://bit.ly/pearcejzoom)
-    - [Tuesday, Thursday, Sunday 5-7 pm Eastern: Optional lab support w Azis](https://bit.ly/pearcejzoom)
-    - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
-
   - Upcoming Deadlines:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
     - Complete [T11: Understanding Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing) by 12:20 pm Eastern Monday, March 23, 2020
     - Complete [T12: Understanding Recursion](https://docs.google.com/document/d/1m2EIZH9I7fh28-2WyeEhgSDdduykC_NEXSNLE7gBUrs/edit?usp=sharing) by 12:20 pm Eastern Wednesday, March 25, 2020
 
 ## Distance Day 3: Friday, March 20, 2020
-  - Meetings and support:
-    - [Monday, Wednesday, Friday, 9:20 am Optional Office hours/class w Dr. Jan](https://bit.ly/pearcejzoom)
-    - [Tuesday, Thursday, Sunday 5-7 pm Eastern: Optional lab support w Azis](https://bit.ly/pearcejzoom)
-    - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
-
   - Upcoming Deadlines:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
     - Complete [T10:Exploring Linked Lists](https://docs.google.com/document/d/1UdmbdE7U5IzxuJSqzVm9p8UnP2G_MdL18wFgolzc4fU/edit#heading=h.c1x99npetnfu) by 12:20 pm Eastern Friday, March 20, 2020
@@ -31,11 +21,6 @@
     - Complete [T11: Understanding Recursion](https://docs.google.com/document/d/1nXsU-xB-AE_gip032bqWW0wII_ZdqegfJRPEY0eK2v4/edit?usp=sharing) by 12:20 pm Eastern Monday, March 23, 2020
 
 ## Distance Day 2: Wednesday, March 18, 2020
-  - Meetings and Support:
-    - [9:20 am Optional Zoom Meeting w Dr. Jan](https://bit.ly/pearcejzoom)
-    - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) - Azis and I will answer them!
-    - [5-7 pm Nightly lab support w Azis](https://bit.ly/pearcejzoom)
-
   - Upcoming Deadlines:
     - [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 1: Pull repo and make some commits including the whiteboard design and assigned tasks due by 12:20 pm ~today, Wednesday, March 18, 2020~ tomorrow, Thursday, March 20, 2020.
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions.  To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern on Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern on Wednesday, March 25, 2020.
