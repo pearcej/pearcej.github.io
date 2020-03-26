@@ -70,3 +70,4 @@ Be sure to identify which component you have fully implemented in your Scrum rep
 - *Before next class:*
   - Scrum report that does the usual and also clearly identifies the newly coded component.
   - Commit the code for the newly completed component with header-style descriptions in each software component as well as internal documentation though comment lines. This is submitted to Github.
+  - Complete your One Page Test Plan as described above. Be sure to commit to Github.
