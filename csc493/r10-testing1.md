@@ -1,9 +1,9 @@
-## R10: Initiating the Test Plan
+## R10: One Page Test Plan
 
 You have three tasks to complete this week:
 - Complete agile report
 - Continue progress with project and push to Github.
--
+- Complete a One Page Test Plan with Key Test Cases. See description below.
 
 ## Documentation
 
@@ -32,14 +32,23 @@ README.md
     - *Other (Optional)*
 - Requirements (linked to requirements.md)
   - formal list of requirements
+- **One Page Test Plan (linked to testplan.md)**
 - Design (linked to design.md)
 
 ##  One Page Test Plan
-The One Page Test Plan should provide a summary of the testing activities and the overall approach to the test. It should be clearly written. The majority of the One Page Test should be focused on
-creating the Test Cases, which each provide a specific description of the key interactions with the software
-that a tester plans to do in order to test one single behavior of the software.
 
-A typical test case is usually laid out in a table or bulleted format and contains:
+The first section of the One Page Test Plan should be a clearly written summary of the testing activities and the overall approach to the testing.
+
+##  One Page Test Plan Key Test Cases
+
+Read [The One Page Test Plan](https://www.ministryoftesting.com/dojo/lessons/the-one-page-test-plan)
+
+Create your One Page Test Plan in testplan.md. Link this from index.md and link it to requirements.md.
+
+The majority of your One Page Test Plan should be focused on
+creating the Key Test Cases, which each provide a specific description of the key interactions with the software that a tester plans to do in order to test one single behavior of the software. See [Project Test Plan](https://d2h1nbmw1jjnl.cloudfront.net/ckeditor/pictures/data/000/000/067/content/trello_project_plan.jpg) for an example of a set of key test cases created in a Trello board.
+
+A typical key test case is usually laid out in a table or bulleted format and contains:
 - A unique name and number (which may be related to the requirement number, but are typically
 not identical.
 - The specific requirement that this Test Case is intended to test.
