@@ -5,10 +5,19 @@
 - [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
 
 ---
-## CSC 493 Working Remotely
+## Week 2 Working Remotely: Thursday, March 26, 2020
 
-- Agile report out via [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) by Thursday, March 19, 2020
- - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
+ - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 2, 2020
+ - Be sure to make progress on your project and push to Github.
+ - Testing guidelines coming soon...
+ - Complete Project - Due April 23, 2020
+ - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
+
+
+## Week 1 Working Remotely: Thursday, March 19, 2020
+
+ - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due March 26, 2020
+  - Be sure to make progress on your project and push to Github.
  - Complete Project - Due April 23, 2020
  - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
 - Complete [R09: Website](r09-website.md) committed to Github - Adjusted deadline is now Thursday, March 26, 2020
@@ -18,12 +27,12 @@
 
 In class:
 - Join [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) where you will post your Agile reports
-- Agile report out via [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
 - Discuss useful resource [Github Student Developer Pack](https://education.github.com/pack)
 
 After class:
- - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
+ - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due March 19, 2020
  - Complete Project - Due April 23, 2020
+ - Be sure to make progress on your project and push to Github.
  - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
 - Complete [R09: Website](r09-website.md) committed to Github - Adjusted deadline is now Thursday, March 26, 2020
 
