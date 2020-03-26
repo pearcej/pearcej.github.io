@@ -9,7 +9,7 @@
 
  - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 2, 2020
  - Be sure to make progress on your project and push to Github.
- - Testing guidelines coming soon...
+ - Complete [One Page Test Plan and Key Test Cases](r10-testing1.md) for your project - Due April 2, 2020.
  - Complete Project - Due April 23, 2020
  - Create Video Project Demo - this replaces the poster session and software demo - due April 23, 2020
 
