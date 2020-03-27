@@ -12,7 +12,7 @@
 
     - Complete [A11: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
     - Complete [T13: On Search](https://docs.google.com/document/d/1q3Zto68RRNdaapEV_MEWJGfCAUZcglWQvTDNxDnZPyM/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
-    - Read chapter 7 and complete [AQc7: Assignment on Chapter 7 - Sorting](https://docs.google.com/document/d/1RSgf8JX_hEZj4nE83baAE9Hlg8ouTN-9kDjYwm50ecI/edit?usp=sharing) by 12:20 pm Eastern Monday, March 30, 2020 -- assignment coming soon
+    - Read chapter 7 and complete [AQc7: Assignment on Chapter 7 - Sorting](https://docs.google.com/document/d/1RSgf8JX_hEZj4nE83baAE9Hlg8ouTN-9kDjYwm50ecI/edit?usp=sharing) by 12:20 pm Eastern Monday, March 30, 2020
     - Complete [T14: On Hashing](https://docs.google.com/document/d/1SVIjt6PlQVFpYvWGYd3otm-vdTJ1I99f11_Lg3lyDdw/edit?usp=sharing) by 12:20 pm Eastern Monday, March 30, 2020
     - Begin [L08: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) Milestone 1: Pull repo and complete all planning prompts in README - Due Wednesday, April 1, 2020. Milestone 2: Make sincere attempt to complete everything, so you can get your questions answered.  To meet this milestone, you must have completed the README and written and pushed most of the code needed for completion to the repo. However, the code might not yet be working. Due Monday, April 6, 2020. Final Milestone: Lab is complete. Due Wednesday, April 8, 2020.
 
