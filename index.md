@@ -1,8 +1,6 @@
 ## Computer & Information Science
 #### Department Founder & Chair, Berea College
 
-- [Zoom Channel - for virtual attendance if ill](https://bit.ly/pearcejzoom)
-
 ---
 
 #### Spring 2020 Courses
