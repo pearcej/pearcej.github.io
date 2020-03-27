@@ -7,6 +7,12 @@
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 5: Wednesday, March 25, 2020
+  - **Upcoming Deadlines**:
+    - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
+    - Complete [A11: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
+    - Complete [T13: On Search](https://docs.google.com/document/d/1q3Zto68RRNdaapEV_MEWJGfCAUZcglWQvTDNxDnZPyM/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
+
 ## Distance Day 4: Monday, March 23, 2020
   - **Upcoming Deadlines**:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Milestone 2: Make sincere attempt to complete everything, so you can message with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working. Due by 12:20 pm Eastern Monday, March 23, 2020. Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
