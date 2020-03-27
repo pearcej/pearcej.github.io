@@ -1,9 +1,12 @@
 ## CSC 126: Introduction to Robotics
 ### Berea College
 
-- [Zoom Channel - for virtual attendance](https://bit.ly/pearcejzoom)
+---
+## Final Project
+  - [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
 
 ---
+
 ## Day 18: Thursday, March 12, 2020
 ### Our last class day together
 
