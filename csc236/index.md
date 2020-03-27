@@ -7,6 +7,14 @@
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 6: Friday, March 27, 2020
+  - **Upcoming Deadlines**:
+
+    - Complete [A11: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
+    - Complete [T13: On Search](https://docs.google.com/document/d/1q3Zto68RRNdaapEV_MEWJGfCAUZcglWQvTDNxDnZPyM/edit?usp=sharing) by 12:20 pm Eastern Friday, March 27, 2020
+    - Read chapter 7 and complete [AQ13: Assignment on Chapter 7](coming soon) by 12:20 pm Eastern Monday, March 30, 2020 -- assignment coming soon
+    - Begin [L08: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) Milestone 1: Pull repo and complete all planning prompts in README - Due Wednesday, April 1, 2020. Milestone 2: Make sincere attempt to complete everything, so you can get your questions answered.  To meet this milestone, you must have completed the README and written and pushed most of the code needed for completion to the repo. However, the code might not yet be working. Due Monday, April 6, 2020. Final Milestone: Lab is complete. Due Wednesday, April 8, 2020.
+
 ## Distance Day 5: Wednesday, March 25, 2020
   - **Upcoming Deadlines**:
     - Continue [L07: Binary Addition](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) Final Milestone: Lab is complete. Due by 12:20 pm Eastern Wednesday, March 25, 2020.
