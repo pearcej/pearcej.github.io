@@ -3,7 +3,8 @@
 
 ---
 ## Final Project
-  - [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
+  - [Final Project Proposal](https://docs.google.com/document/d/1ZvI7t75bunEl0rpU5G3jA_qHNC6pXF438XPB7m2gKgA/edit?usp=sharing) which is due on April 9, 2020
+  - [Final Project Submission](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
 
 ---
 
