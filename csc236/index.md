@@ -3,10 +3,18 @@
 
 - DS text: [Problem Solving w Algorithms & Data Structures in C++](https://runestone.academy/runestone/books/published/cppds/index.html), using the book cppdsS20.
 - Optional Office hours/class w Dr. Jan on Monday, Wednesday, Friday, 9:20 am Eastern: [via Zoom](https://bit.ly/pearcejzoom)
-- Optional lab support w Azis on Tuesday, Thursday, Sunday 5-7 pm Eastern: [via Zoom](https://bit.ly/pearcejzoom)
+- Optional lab support w Azis on Tuesday, Thursday, Sunday 7-9 pm Eastern: [via Zoom](https://bit.ly/pearcejzoom)
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 9: Friday, April 3, 2020
+  - **Upcoming Deadlines**:
+
+    - Begin [L08: Recursive Art](https://docs.google.com/document/d/1Ty7-La9W8I_k7h6FW1GKGbwDBfmH45OR8sEgPG-sc9w/edit?usp=sharing) Milestone 1: Pull repo and complete all planning prompts in README - Due Wednesday, April 1, 2020. Milestone 2: Make sincere attempt to complete everything, so you can get your questions answered. To meet this milestone, you must have completed the README and written and pushed most of the code needed for completion to the repo. However, the code might not yet be working. Due Monday, April 6, 2020. Final Milestone: Lab is complete. Due Wednesday, April 8, 2020.
+    - Read sections 8.1-8.9 and complete [AQc7: Assignment on Chapter 8 part 1 - Trees and Heaps](https://docs.google.com/document/d/1JMV66CAITS0OSu2sxCBiuH_PCwpJtdlZKDkPHpXClxY/edit?usp=sharing) by TODAY 12:20 pm Eastern Friday, April 3, 2020
+    - Complete [T15: On Sorting](https://docs.google.com/document/d/16TQhVqJ1Mctj8SphbzcNDdV_QmDsc6czCT-M7IAX4Rs/edit?usp=sharing) by TODAY 12:20 pm Eastern Friday, April 3, 2020
+    - Begin [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020
+
 ## Distance Day 8: Wednesday, April 1, 2020
   - **Upcoming Deadlines**:
 
