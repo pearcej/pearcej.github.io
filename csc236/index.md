@@ -8,6 +8,12 @@
 
 ---
 
+## Distance Day 12: Friday, April 10, 2020
+  - **Upcoming Deadlines**:
+    - Read sections 8.10-8.18 and complete [AQc7: Assignment on Chapter 8 part 2 - Trees and Heaps](https://docs.google.com/document/d/1ULh4Lw1gFjKEZ1y-uSNiLKfMYCz3sqvZRAPngcTc8p0/edit?usp=sharing) by 12:20 pm Eastern Monday, April 13, 2020
+    - Complete [T17: Binary Trees](https://docs.google.com/document/d/1IQHnBx_JDCf8B3gjqu2-5tnVTKEWYhH4AYKWbu8zC7w/edit?usp=sharing) by  12:20 pm Eastern Monday, April 13, 2020
+    - Begin [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
+
 ## Distance Day 11: Wednesday, April 8, 2020
   - **Upcoming Deadlines**:
 
