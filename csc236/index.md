@@ -9,7 +9,8 @@
 ---
 ## Distance Day 13: Monday, April 13, 2020
   - **Upcoming Deadlines**:
-    - Read sections 9.1-9.14 and complete [AQc9p1: Assignment on Chapter 9 part 1 - Trees and Heaps](    - Read sections 8.10-8.18 and complete [AQc9: Assignment on Chapter 8 part 2 - Trees and Heaps](https://docs.google.com/document/d/1ULh4Lw1gFjKEZ1y-uSNiLKfMYCz3sqvZRAPngcTc8p0/edit?usp=sharing) by 12:20 pm Eastern Wednesday, April 15, 2020) by 12:20 pm Eastern Monday, April 13, 2020
+    - Read sections 9.1-9.14 and complete [AQc9p1: Assignment on Chapter 9 part 1 - Algorithms Part I](https://docs.google.com/document/d/19llsihPTev2qgpb9lzvfTr8IPUMk8eRYOgNWO1ten_8/edit?usp=sharing) by 12:20 pm Eastern Wednesday, April 15, 2020) by 12:20 pm Eastern Wednesday, April 15, 2020
+    - Read sections 9.15-9.22 and complete [AQc9p2: Assignment on Chapter 9 part 2 - Algorithms Part II](https://docs.google.com/document/d/1crebVWiearpMvGbbouLY2L8o5AGPnlF3X0KMyaju7_o/edit?usp=sharing) by 12:20 pm Eastern Wednesday, April 15, 2020) by 12:20 pm Eastern Friday, April 17, 2020
     - Work on [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
 
 ## Distance Day 12: Friday, April 10, 2020
