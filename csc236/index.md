@@ -7,10 +7,14 @@
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 13: Monday, April 13, 2020
+  - **Upcoming Deadlines**:
+    - Read sections 9.1-9.14 and complete [AQc9p1: Assignment on Chapter 9 part 1 - Trees and Heaps](    - Read sections 8.10-8.18 and complete [AQc9: Assignment on Chapter 8 part 2 - Trees and Heaps](https://docs.google.com/document/d/1ULh4Lw1gFjKEZ1y-uSNiLKfMYCz3sqvZRAPngcTc8p0/edit?usp=sharing) by 12:20 pm Eastern Wednesday, April 15, 2020) by 12:20 pm Eastern Monday, April 13, 2020
+    - Work on [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
 
 ## Distance Day 12: Friday, April 10, 2020
   - **Upcoming Deadlines**:
-    - Read sections 8.10-8.18 and complete [AQc7: Assignment on Chapter 8 part 2 - Trees and Heaps](https://docs.google.com/document/d/1ULh4Lw1gFjKEZ1y-uSNiLKfMYCz3sqvZRAPngcTc8p0/edit?usp=sharing) by 12:20 pm Eastern Monday, April 13, 2020
+    - Read sections 8.10-8.18 and complete [AQc8p2: Assignment on Chapter 8 part 2 - Trees and Heaps](https://docs.google.com/document/d/1ULh4Lw1gFjKEZ1y-uSNiLKfMYCz3sqvZRAPngcTc8p0/edit?usp=sharing) by 12:20 pm Eastern Monday, April 13, 2020
     - Complete [T17: Binary Trees](https://docs.google.com/document/d/1IQHnBx_JDCf8B3gjqu2-5tnVTKEWYhH4AYKWbu8zC7w/edit?usp=sharing) by  12:20 pm Eastern Monday, April 13, 2020
     - Begin [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
 
