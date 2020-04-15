@@ -7,10 +7,16 @@
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 14: Wednesday, April 15, 2020
+  - **Upcoming Deadlines**:
+    - Read sections 9.1-9.14 and complete [AQc9p1: Assignment on Chapter 9 part 1 - Algorithms Part I](https://docs.google.com/document/d/19llsihPTev2qgpb9lzvfTr8IPUMk8eRYOgNWO1ten_8/edit?usp=sharing) by TODAY 12:20 pm Eastern Wednesday, April 15, 2020
+    - Read sections 9.15-9.22 and complete [AQc9p2: Assignment on Chapter 9 part 2 - Algorithms Part II](https://docs.google.com/document/d/1crebVWiearpMvGbbouLY2L8o5AGPnlF3X0KMyaju7_o/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020) by 12:20 pm 
+    - Work on [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
+
 ## Distance Day 13: Monday, April 13, 2020
   - **Upcoming Deadlines**:
     - Read sections 9.1-9.14 and complete [AQc9p1: Assignment on Chapter 9 part 1 - Algorithms Part I](https://docs.google.com/document/d/19llsihPTev2qgpb9lzvfTr8IPUMk8eRYOgNWO1ten_8/edit?usp=sharing) by 12:20 pm Eastern Wednesday, April 15, 2020
-    - Read sections 9.15-9.22 and complete [AQc9p2: Assignment on Chapter 9 part 2 - Algorithms Part II](https://docs.google.com/document/d/1crebVWiearpMvGbbouLY2L8o5AGPnlF3X0KMyaju7_o/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020) by 12:20 pm 
+    - Read sections 9.15-9.22 and complete [AQc9p2: Assignment on Chapter 9 part 2 - Algorithms Part II](https://docs.google.com/document/d/1crebVWiearpMvGbbouLY2L8o5AGPnlF3X0KMyaju7_o/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020) by 12:20 pm
     - Work on [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern Friday, April 17, 2020.
 
 ## Distance Day 12: Friday, April 10, 2020
