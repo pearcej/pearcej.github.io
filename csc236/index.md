@@ -9,7 +9,7 @@
 ---
 ## Distance Day 16: Monday, April 20, 2020
   - **Upcoming Deadlines**:
-    - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1yuOPqWmanAtd2eJyoA4GGwcGoUWXHNiWfLzuYBGn82c/edit?usp=sharing) by 12:20 pm Eastern TODAY Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.**
+    - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1CWXlo4t1kDDsyi6aWwRtt-oPwlZ-finzZI6tQACViL0/edit?usp=sharing) by 12:20 pm Eastern TODAY Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.**
     - PR2: Peerwise Review for E02: Add your questions you wrote for [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) to [Peerwise course 20880](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20880)- note only those who have written their questions, get into this Peerwise course.) Due by Wednesday, April 22, 2020.
     - Complete a preliminary video script for [FP1: Preliminary Video Script](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) - you will be able to modify this as you refine your project -think of it like a milestone. Due by Wednesday, April 22, 2020.
 
@@ -17,7 +17,7 @@
   - **Upcoming Deadlines**:
     - Read sections 9.15-9.22 and complete [AQc9p2: Assignment on Chapter 9 part 2 - Algorithms Part II](https://docs.google.com/document/d/1crebVWiearpMvGbbouLY2L8o5AGPnlF3X0KMyaju7_o/edit?usp=sharing) by TODAY 12:20 pm Eastern Friday, April 17, 2020) by 12:20 pm
     - Complete [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) by 12:20 pm Eastern TODAY Friday, April 17, 2020.
-    - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1yuOPqWmanAtd2eJyoA4GGwcGoUWXHNiWfLzuYBGn82c/edit?usp=sharing) by 12:20 pm Eastern Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.** So, if you have fallen behind, this is a nudge to get caught up this weekend!
+    - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1CWXlo4t1kDDsyi6aWwRtt-oPwlZ-finzZI6tQACViL0/edit?usp=sharing) by 12:20 pm Eastern Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.** So, if you have fallen behind, this is a nudge to get caught up this weekend!
 
 ## Distance Day 14: Wednesday, April 15, 2020
   - **Upcoming Deadlines**:
