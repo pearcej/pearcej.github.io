@@ -11,9 +11,10 @@
   - **Final Deadlines**:
     - PR2: Peerwise Review for E02: Add your questions you wrote for [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) to [Peerwise course 20880](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20880)- note only those who have written their questions, get into this Peerwise course.) Due TODAY Wednesday, April 22, 2020.
     - Complete a preliminary video script for [FP1: Preliminary Video Script](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) - you will be able to modify this as you refine your project -think of it like a milestone. Due TODAY Wednesday, April 22, 2020.
-    - Complete Video, Publically post, and correct the transcript for FP2: Video Submission. Due by Monday, April 27, 2020.
-    - Complete FP3 Team Review - This will not open until Sunday, April 26 because it should not be completed until the video is completed. Due by Monday, April 27, 2020.
     - Engagement Peerwise: Do all of the questions in the [E02 Peerwise Review ](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20880)- note only those who have written their questions, get into this Peerwise course.) Due by Monday, April 27, 2020.
+    - Complete Video, Publically post, and correct the transcript for FP2: Video Submission. Due by Monday, April 27, 2020.
+    - Complete FP3 Team Review - This will not open until you have submitted your video because it should not be completed until the video is completed. Due by Tuesday, April 29, 2020.
+
 
 ## Distance Day 16: Monday, April 20, 2020
   - **Upcoming Deadlines**:
