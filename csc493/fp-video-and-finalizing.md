@@ -31,29 +31,29 @@ README.md
     - Motivation
     - Future Extensions
          *Other (Optional)*
-  - **License (may need to be linked)**
+  - License (may need to be linked)
   - Requirements (linked to requirements.md)
     - formal list of requirements
-    - One Page Test Plan (linked to testplan.md)**
+    - One Page Test Plan (linked to testplan.md)
 - Design (linked to design.md)
 
-## Your video demo
-We would nornmally have had both a poster session where you would demo your software AND a video demo, but given COVID-19, I have decided to collapse them into a single video demo.
+## Your Video(s):
+We would normally have had both a poster session where you would demo your software AND a video demo, but given COVID-19, I have decided to collapse them into a single video demo.
 
-Because of COVID-19, you will not need to do a poster, but this means the requirements for the video demo had to change. This page set of video demos is older now, but most of the videos still exist. Watch some of them to get ideas and think about what you think is effective and what is not. Just bear in mind, they were only doing the demo and not the poster session too.
-
+Because of COVID-19, you will not need to do a poster, but this means the requirements for the video demo had to change.
+- This [set of video demos](http://cs.berea.edu/courses/csc493-older/schedule.html) is older now, but most of the videos still exist. Watch some of them to get ideas and think about what you think is effective and what is not. Just bear in mind, they were only doing the demo and not the poster session too.
 - Read 12 tips for killer software demos.
 
-## Video Demo requirements
-
-- You must make 1 or 2 videos and post them publically on YouTube. One can be the software demo and the other can be the replacement poster session or you can do both in one.
+## Video Requirements
+- You must make 1 or 2 videos and post them publically on YouTube. One can be the software demo and the other can be the replacement poster session or you can do both in one video. Think about what makes sense to you.
 - It is fine for you to record your video(s) with a cell phone or with the free Zoom app. It is best if you stabilize the recording device by using a tripod or by putting your recording device on a table leaning on something. Do not have a friend hold it because it will be shaky.
 - All videos must be posted publicly to YouTube and the auto-generated transcripts must be corrected. The video will be copied and reposted by the department unless you have a compelling reason that it should not be publicly posted or reposted and you successfully formally protest to the department about public posting or reposting.
 - Credit on each video in a professional way.
 - Your total video time should run between 7.0-10.0 minutes. (So if you do 2 videos, they need to add to less tahn this.) Remember that longer does not equate to better!
 - Each video must have a YouTube title which indicates the actual software project topic. Projects that have a video topic like "Final Project" or "1234.mpg" will be significantly downgraded. Having said this you can still have fun with the title, it just need to explain the software.
 - Each video must have a title screen with the title, which also should indicate the actual topic.
-- Each video must have credits -these should include your name as well as acknowledgement of Berea College and any thanks you wish to give to anyone. -- - The vast majority of your video should be your amazing video content.
+- Each video must have credits -these should include your name as well as acknowledgement of Berea College and any thanks you wish to give to anyone.
+- The vast majority of your video should be your amazing video content.
 - All music in each video must be original or open source with credits given.
 - Please note that each video is your intellectual property, which means you can use it later and link to it from your LinkedIn page or website. However, Berea’s CS department will also make a copy and post it publicly giving you credit.
 - You must show all of the following regarding the software and hardware integration:
