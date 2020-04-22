@@ -7,6 +7,14 @@
 - Please post questions in [Slack Channel](https://app.slack.com/client/T3RM3MK1D/C6W1039PF) use @ Azis or @ Dr. Jan if you want to send your message privately.
 
 ---
+## Distance Day 17: Wednesday, April 22, 2020
+  - **Final Deadlines**:
+    - PR2: Peerwise Review for E02: Add your questions you wrote for [AE2 Peerwise Review Part II](https://docs.google.com/document/d/1aardVAPoOhbAtDpBwmFtkJpCN-oOd_9bLHKDwA0by8M/edit?usp=sharing) to [Peerwise course 20880](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20880)- note only those who have written their questions, get into this Peerwise course.) Due TODAY Wednesday, April 22, 2020.
+    - Complete a preliminary video script for [FP1: Preliminary Video Script](https://docs.google.com/document/d/19ZiDXfd-wfR1hjen5KvKI1FSCG7rv82cE34GY4rGbhs/edit?usp=sharing) - you will be able to modify this as you refine your project -think of it like a milestone. Due TODAY Wednesday, April 22, 2020.
+    - Complete Video, Publically post, and correct the transcript for FP2: Video Submission. Due by Monday, April 27, 2020.
+    - Complete FP3 Team Review - This will not open until Sunday, April 26 because it should not be completed until the video is completed. Due by Monday, April 27, 2020.
+    - Engagement Peerwise: Do all of the questions in the [E02 Peerwise Review ](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=20880)- note only those who have written their questions, get into this Peerwise course.) Due by Monday, April 27, 2020.
+
 ## Distance Day 16: Monday, April 20, 2020
   - **Upcoming Deadlines**:
     - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1CWXlo4t1kDDsyi6aWwRtt-oPwlZ-finzZI6tQACViL0/edit?usp=sharing) by 12:20 pm Eastern TODAY Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.**
