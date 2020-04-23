@@ -29,6 +29,7 @@ README.md
     - Measures
     - Motivation
     - Future Extensions
+    - *Other (Optional)*
   - **License (may need to be linked)**
   - Requirements (linked to requirements.md)
     - formal list of requirements
