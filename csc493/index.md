@@ -23,8 +23,8 @@
 
  - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 9, 2020
  - no new documentation. Make a major push on your project.
- - Complete Project - Originally due ~April 23, 2020~, now extended to Wednesday, April 29, 2020.
- - Create [Video(s)](fp-video-and-finalizing.md) - this replaces the poster session and software demo - Originally due ~April 23, 2020~, now extended to Wednesday, April 29, 2020
+ - Complete Project - Originally due April 23, 2020.
+ - Create [Video(s)](fp-video-and-finalizing.md) - this replaces the poster session and software demo - Due April 23, 2020.
 
 ## Week 2 Working Remotely: Thursday, March 26, 2020
 
