@@ -29,11 +29,11 @@ README.md
     - Measures
     - Motivation
     - Future Extensions
-    - License (may need to be linked)
     - *Other (Optional)*
+- License (may need to be linked)
 - Requirements (linked to requirements.md)
   - formal list of requirements
-- **One Page Test Plan (linked to testplan.md)**
+- One Page Test Plan (linked to testplan.md)
 - Design (linked to design.md)
 - **Installation and Use** (linked to install.md)
 
