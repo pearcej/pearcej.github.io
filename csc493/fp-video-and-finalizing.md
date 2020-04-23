@@ -45,7 +45,7 @@ Because of COVID-19, you will not need to do a poster, but this means the requir
 - This [set of video demos](http://cs.berea.edu/courses/csc493-older/schedule.html) is older now, but most of the videos still exist. Watch some of them to get ideas and think about what you think is effective and what is not. Just bear in mind, they were only doing the demo and not the poster session too.
 - Read [12 tips for killer software demos](https://www.cio.com/article/3074817/12-tips-for-killer-software-demos.html) and reflect on how to make a great video demo that really showcases the best parts of your prototype.
 
-## Video Requirements
+## Video Details
 - You must make 1 or 2 videos and post them publically on YouTube. One can be the software demo and the other can be the replacement poster session or you can do both in one video. Think about what makes sense to you.
 - It is fine for you to record your video(s) with a cell phone or with the free Zoom app. It is best if you stabilize the recording device by using a tripod or by putting your recording device on a table leaning on something. Do not have a friend hold it because it will be shaky.
 - All videos must be posted publicly to YouTube and the auto-generated transcripts must be corrected. The video will be copied and reposted by the department unless you have a compelling reason that it should not be publicly posted or reposted and you successfully formally protest to the department about public posting or reposting.
@@ -59,6 +59,8 @@ Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 
 - The vast majority of your video(s) should be your amazing video content.
 - All music in each video must be original or open source with credits given. I take this seriously, so beware of using proprietary music!
 - Please note that each video is your intellectual property, which means you can use it later and link to it from your LinkedIn page and/or website, and I hope that you are proud of it so you will do so. However, Berea’s CS department may also make a copy and post it publicly giving you credit.
+
+## Required Content
 - You must show all of the following regarding the software and hardware integration:
   - How to install the software.
   - How to use the software.
