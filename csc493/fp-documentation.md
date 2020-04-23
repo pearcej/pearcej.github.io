@@ -18,22 +18,22 @@ README.md
   - [About](r08-about.md)
 - Acknowledgments
 - [Concept (linked to concept.md)](r01-project-concept.md)
-    - Goals
-    - Context
-    - Novelty
-    - Functionality
-    - Audience
-    - Challenges
-    - Measures
-    - Motivation
-    - Future Extensions
-    - *Other (Optional)*
-  - [**License (may need to be linked)**](r11-licensing.md)
-  - [Requirements (linked to requirements.md)](r03-requirements.md)
-    - formal list of requirements
-  - [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
-  - [Design (linked to design.md)](r04-design.md)  
-  - [Installation and use guide (linked to install.md)](r12-install.md)
+  - Goals
+  - Context
+  - Novelty
+  - Functionality
+  - Audience
+  - Challenges
+  - Measures
+  - Motivation
+  - Future Extensions
+  - *Other (Optional)*
+- [**License (may need to be linked)**](r11-licensing.md)
+- [Requirements (linked to requirements.md)](r03-requirements.md)
+  - formal list of requirements
+- [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
+- [Design (linked to design.md)](r04-design.md)  
+- [Installation and use guide (linked to install.md)](r12-install.md)
 
 ---
 
