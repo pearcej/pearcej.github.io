@@ -8,7 +8,7 @@ README.md
 - Project name
 - [Product Logo (image)](r07-logo.md)
 - [Project proposal (including purpose)](r01-project-concept.md)
-- [**Video(s) (Will need to be linked)**](fp-video-and-finalizing.md)
+- [Video(s) (linked to YouTube)](fp-video-and-finalizing.md)
 - [Vision](r02-scope.md)
 - [Scope](r02-scope.md)
 - Prerequisites
