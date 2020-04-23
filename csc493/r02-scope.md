@@ -6,26 +6,24 @@ Your new work will involve adding two new sections of the README.md which are re
 
 README.md
 - Project name
-- Project proposal (including purpose)
-- **Vision**
-- **Scope**
+- [Project proposal (including purpose)](r01-project-concept.md)
+- **[Vision](r02-scope.md)**
+- **[Scope](r02-scope.md)**
 - Prerequisites
 - Built With
 - Author name
 - Acknowledgments
-- Concept (linked to concept.md)
-    - Goals
-    - Context
-    - Novelty
-    - Functionality
-    - Audience
-    - Challenges
-    - Measures
-    - Motivation
-    - Future Extensions
-    - *Other (Optional)*
-- Requirements (linked to requirements.md)
-  - formal list of requirements
+- [Concept (linked to concept.md)](r01-project-concept.md)
+  - Goals
+  - Context
+  - Novelty
+  - Functionality
+  - Audience
+  - Challenges
+  - Measures
+  - Motivation
+  - Future Extensions
+  - *Other (Optional)*
 
 # Purpose and Summary
 

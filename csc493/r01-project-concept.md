@@ -1,12 +1,25 @@
 ## CSC 493: R01: Project Concept Proposal
 
 As you know, the **Project Concept Proposal** is typically used to make a case for a project and it is frequently the first document to be created in the software development life cycle. You have begun your README.md for the initial part of your project concept proposal by drafting the following sections:
+
+README.md
 - Project name
-- Project proposal (including purpose)
+- [Project proposal (including purpose)](r01-project-concept.md)
 - Prerequisites
 - Built With
 - Author name
 - Acknowledgments
+- [Concept (linked to concept.md)](r01-project-concept.md)
+  - Goals
+  - Context
+  - Novelty
+  - Functionality
+  - Audience
+  - Challenges
+  - Measures
+  - Motivation
+  - Future Extensions
+  - *Other (Optional)*
 
 Do your best to improve these before next time, even though they are mostly just guesses at this point. See [Awesome READMEs](https://github.com/matiassingers/awesome-readme) for a list of great README files.
 

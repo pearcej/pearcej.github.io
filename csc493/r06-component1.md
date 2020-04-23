@@ -8,27 +8,28 @@ You have two tasks to complete before next time:
 
 README.md
 - Project name
-- Project proposal (including purpose)
-- Vision
-- Scope
+- [Product Logo (image)](r07-logo.md)
+- [Project proposal (including purpose)](r01-project-concept.md)
+- [Vision](r02-scope.md)
+- [Scope](r02-scope.md)
 - Prerequisites
 - Built With
 - Author name
 - Acknowledgments
-- Concept (linked to concept.md)
-    - Goals
-    - Context
-    - Novelty
-    - Functionality
-    - Audience
-    - Challenges
-    - Measures
-    - Motivation
-    - Future Extensions
-    - *Other (Optional)*
-- Requirements (linked to requirements.md)
+- [Concept (linked to concept.md)](r01-project-concept.md)
+  - Goals
+  - Context
+  - Novelty
+  - Functionality
+  - Audience
+  - Challenges
+  - Measures
+  - Motivation
+  - Future Extensions
+  - *Other (Optional)*
+- [Requirements (linked to requirements.md)](r03-requirements.md)
   - formal list of requirements
-- Design (linked to design.md)
+- [Design (linked to design.md)](r05-design2.md)
 
 This week we are finally require to implement some complete software portion of your project which can be small, but it must be complete.
 
