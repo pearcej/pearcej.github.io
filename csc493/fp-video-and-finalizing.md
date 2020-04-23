@@ -11,7 +11,7 @@ README.md
 - Project name
 - [Product Logo (image)](r07-logo.md)
 - [Project proposal (including purpose)](r01-project-concept.md)
-- **Video(s) (Will need to be linked)**
+- **[Video(s) (linked to YouTube)](fp-video-and-finalizing.md)**
 - [Vision](r02-scope.md)
 - [Scope](r02-scope.md)
 - Prerequisites
@@ -21,22 +21,22 @@ README.md
   - [About](r08-about.md)
 - Acknowledgments
 - [Concept (linked to concept.md)](r01-project-concept.md)
-    - Goals
-    - Context
-    - Novelty
-    - Functionality
-    - Audience
-    - Challenges
-    - Measures
-    - Motivation
-    - Future Extensions
-    - *Other (Optional)*
-  - [**License (may need to be linked)**](r11-licensing.md)
-  - [Requirements (linked to requirements.md)](r03-requirements.md)
-    - formal list of requirements
-  - [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
-  - [Design (linked to design.md)](r04-design.md)  
-  - [Installation and use guide (linked to install.md)](r12-install.md)
+  - Goals
+  - Context
+  - Novelty
+  - Functionality
+  - Audience
+  - Challenges
+  - Measures
+  - Motivation
+  - Future Extensions
+  - *Other (Optional)*
+- [**License (may need to be linked)**](r11-licensing.md)
+- [Requirements (linked to requirements.md)](r03-requirements.md)
+  - formal list of requirements
+- [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
+- [Design (linked to design.md)](r04-design.md)  
+- [Installation and use guide (linked to install.md)](r12-install.md)
 
 ## Your Video(s):
 We would normally have had both a poster session where you would demo your software AND a video demo, but given COVID-19, I have decided to collapse them into a single video demo.
