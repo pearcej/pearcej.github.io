@@ -66,7 +66,7 @@ Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 
   - How to use the software.
   - How the project meets the goals you set. (If you need to reduce the goals, you need to do so in the documentation!)
 - Regarding the poster replacement, you must address the following questions. Please do this in some kind of natural way as you would have done personally in a poster session.
-  - Discuss the motivation for your software and why it is important to you and to the larger society. (Here you should give a SHORT (1 paragraph) overview of where you went and what you did.
+  - Discuss the motivation for your software and why it is important to you and to the larger society. (Here you should give a SHORT (1 paragraph) overview of why you chose to work on what you did.
   - What is the single most important non-technical thing you learned during your work on this project? Please explain its importance.
   - What are the three most important technical things you learned during your internship? Please explain their importance using details as if you are talking to a strong student who has completed Data Structures.
   - What  things did you learn about yourself as you worked on this project?
