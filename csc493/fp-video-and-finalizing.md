@@ -49,9 +49,9 @@ Because of COVID-19, you will not need to do a poster, but this means the requir
 - You must make 1 or 2 videos and post them publically on YouTube. One can be the software demo and the other can be the replacement poster session or you can do both in one video. Think about what makes sense to you.
 - It is fine for you to record your video(s) with a cell phone or with the free Zoom app. It is best if you stabilize the recording device by using a tripod or by putting your recording device on a table leaning on something. Do not have a friend hold it because it will be shaky.
 - All videos must be posted publicly to YouTube and the auto-generated transcripts must be corrected. The video will be copied and reposted by the department unless you have a compelling reason that it should not be publicly posted or reposted and you successfully formally protest to the department about public posting or reposting.
-- I would normally require a draft script as I do in CSC 236, but time is short, so I am not. I still recommend making one. See [
+- I would normally *require* a draft script as I do in CSC 236, but time is short, so I am not. I still *recommend* making one in advance. See [
 How To Make A Video About How To Make A Video About How To Make A
-Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 )
+Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 ) to see what an internationally known video blogger has to say on this topic.
 - Credits must be given on each video in a professional way. These credits should include your name as well as acknowledgement of Berea College and any thanks you wish to give to anyone. Be sure to include all software and open source projects you leveraged.
 - Your total video time should run between 8.0-12.0 minutes. (So if you do 2 videos, they need to total to less than this in length.) Remember that longer does not equate to better! Editing is good!!
 - Each video must have a YouTube title which indicates the actual software project topic. Projects that have a video topic like "Final Project" or "1234.mpg" will be significantly downgraded. Having said this you can still have fun with the title, it just need to explain the software.
