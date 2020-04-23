@@ -30,10 +30,11 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-- Requirements (linked to requirements.md)
-  - formal list of requirements
-- **One Page Test Plan (linked to testplan.md)**
-- Design (linked to design.md)
+    - **License (may need to be linked)**
+  - Requirements (linked to requirements.md)
+    - formal list of requirements
+  - **One Page Test Plan (linked to testplan.md)**
+  - Design (linked to design.md)
 
 ##  One Page Test Plan
 
