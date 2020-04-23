@@ -6,7 +6,7 @@
 
 ---
 ## Final Deadlines Working Remotely
- - Complete your penultimate **Agile report**, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 23, 2020, the last day of class.
+ - Complete your final **Agile report**, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) the last one is due Wednesday, April 29, 2020, the date of our final exam.
  - **Complete Project**
    - Finalize your project and **push to Github**.
    - Finalize and **update your documentation** I noticed that some of you are missing a couple of documentation components.
