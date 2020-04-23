@@ -74,6 +74,8 @@ Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 
 
 - Finalize your project. Be sure all components have internal documentation though comment lines.
 - Complete final Scrum report.
+- post video(s) publically and submit links to Moodle.
+- Celebrate your great work under adverse conditions!
 
 ---
 ### Submission Deadline:
