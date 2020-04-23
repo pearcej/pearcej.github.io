@@ -34,7 +34,9 @@ README.md
     - One Page Test Plan (linked to testplan.md)
   - Design (linked to design.md)
   - Installation and use guide (linked to install.md)
+
 ---
+
 ### Final Submissions:
 - *By the Final Exam Date*
   - Submit final scrum report.
