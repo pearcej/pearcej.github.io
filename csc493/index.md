@@ -9,7 +9,7 @@
  - Complete your final **Agile report**, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) the last one is due Wednesday, April 29, 2020, the date of our final exam.
  - **Complete Project**
    - Finalize your project and **push to Github**.
-   - Finalize and **update your documentation** I noticed that some of you are missing a couple of documentation components.
+   - Finalize and **[update your documentation](fp-documentation.md)** I noticed that some of you are missing a couple of documentation components.
    - Due ~~April 23, 2020~~ **Extended to Wednesday, April 29, 2020**.
  - **Create and post [Video(s)](fp-video-and-finalizing.md)**
    - this/these replace the poster session and software demo - Due ~~April 23, 2020~~, **extended to Wednesday, April 29, 2020**.
