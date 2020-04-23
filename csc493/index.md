@@ -7,9 +7,9 @@
 ---
 ## Final Deadlines Working Remotely
  - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 23, 2020, the last day of class.
- - Be sure to work to finalize your project and push to Github.
- - Complete Project - Due ~~April 23, 2020~~ Extended to Wednesday, April 29, 2020.
- - Create and post [Video(s)](fp-video-and-finalizing.md) - this/these replace the poster session and software demo - Due ~~April 23, 2020~~, extended to Wednesday, April 29, 2020.
+ - Be sure to work to finalize your project and **push to Github**.
+ - **Complete Project** - Due ~~April 23, 2020~~ **Extended to Wednesday, April 29, 2020**.
+ - **Create and post [Video(s)](fp-video-and-finalizing.md)** - this/these replace the poster session and software demo - Due ~~April 23, 2020~~, **extended to Wednesday, April 29, 2020**.
 
 ## Week 4 Working Remotely: Thursday, April 9, 2020
 
