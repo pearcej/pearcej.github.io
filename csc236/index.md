@@ -15,7 +15,6 @@
     - Complete Video, Publically post, and correct the transcript for FP2: Video Submission. Due by Monday, April 27, 2020.
     - Complete FP3 Team Review - This will not open until you have submitted your video because it should not be completed until the video is completed. Due by Tuesday, April 28, 2020.
 
-
 ## Distance Day 16: Monday, April 20, 2020
   - **Upcoming Deadlines**:
     - Complete the first organizational teamwork for the final video project [FP0: Initial Planning](https://docs.google.com/document/d/1CWXlo4t1kDDsyi6aWwRtt-oPwlZ-finzZI6tQACViL0/edit?usp=sharing) by 12:20 pm Eastern TODAY Monday, April 20, 2020. **Please note that you must complete all of the other course work to be eligible to choose a topic, and you must have your topic pre-approved before you can submit this.**
