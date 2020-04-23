@@ -36,7 +36,7 @@ README.md
     - formal list of requirements
     - One Page Test Plan (linked to testplan.md)
 - Design (linked to design.md)
-- Installation guide (linked to install.md)
+- Installation and use guide (linked to install.md)
 
 ## Your Video(s):
 We would normally have had both a poster session where you would demo your software AND a video demo, but given COVID-19, I have decided to collapse them into a single video demo.
