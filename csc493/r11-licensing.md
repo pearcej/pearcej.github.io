@@ -29,12 +29,11 @@ README.md
     - Measures
     - Motivation
     - Future Extensions
-    - **License (may need to be linked)**
-    - *Other (Optional)*
-- Requirements (linked to requirements.md)
-  - formal list of requirements
-- **One Page Test Plan (linked to testplan.md)**
-- Design (linked to design.md)
+  - **License (may need to be linked)**
+  - Requirements (linked to requirements.md)
+    - formal list of requirements
+  - One Page Test Plan (linked to testplan.md)
+  - Design (linked to design.md)
 
 ## Read about licensing
 Go to [5 types of software licenses you need to understand](https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/) and [Proprietary Software License: Everything You Need to Know](https://www.upcounsel.com/proprietary-software-license). Select one of these and update your documentation appropriately.
