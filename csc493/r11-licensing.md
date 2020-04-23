@@ -9,17 +9,17 @@ You have three tasks to complete this week:
 
 README.md
 - Project name
-- Product Logo (image)
-- Project proposal (including purpose)
-- Vision
-- Scope
+- [Product Logo (image)](r07-logo.md)
+- [Project proposal (including purpose)](r01-project-concept.md)
+- [Vision](r02-scope.md)
+- [Scope](r02-scope.md)
 - Prerequisites
 - Built With
-- Author name
+- [Author name](r09-website.md)
 - ![Jan Avatar](jp-avatar-sm.png)
-  - About (may be linked)
+  - [About](r08-about.md)
 - Acknowledgments
-- Concept (linked to concept.md)
+- [Concept (linked to concept.md)](r01-project-concept.md)
     - Goals
     - Context
     - Novelty
@@ -30,11 +30,11 @@ README.md
     - Motivation
     - Future Extensions
     - *Other (Optional)*
-  - **License (may need to be linked)**
-  - Requirements (linked to requirements.md)
+  - [**License (may need to be linked)**](r11-licensing.md)
+  - [Requirements (linked to requirements.md)](r03-requirements.md)
     - formal list of requirements
-  - One Page Test Plan (linked to testplan.md)
-  - Design (linked to design.md)
+  - [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
+  - [Design (linked to design.md)](r04-design.md)
 
 ## Read about licensing
 Go to [5 types of software licenses you need to understand](https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/) and [Proprietary Software License: Everything You Need to Know](https://www.upcounsel.com/proprietary-software-license). Select one of these and update your documentation appropriately.

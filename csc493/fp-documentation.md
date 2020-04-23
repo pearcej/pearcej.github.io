@@ -6,18 +6,18 @@ Be sure that your documentation is up to date and has all of the components list
 
 README.md
 - Project name
-- Product Logo (image)
-- Project proposal (including purpose)
-- **Video(s) (Will need to be linked)**
-- Vision
-- Scope
+- [Product Logo (image)](r07-logo.md)
+- [Project proposal (including purpose)](r01-project-concept.md)
+- [**Video(s) (Will need to be linked)**](fp-video-and-finalizing.md)
+- [Vision](r02-scope.md)
+- [Scope](r02-scope.md)
 - Prerequisites
 - Built With
-- Author name
+- [Author name](r09-website.md)
 - ![Jan Avatar](jp-avatar-sm.png)
-  - About (may be linked)
+  - [About](r08-about.md)
 - Acknowledgments
-- Concept (linked to concept.md)
+- [Concept (linked to concept.md)](r01-project-concept.md)
     - Goals
     - Context
     - Novelty
@@ -27,13 +27,13 @@ README.md
     - Measures
     - Motivation
     - Future Extensions
-         *Other (Optional)*
-  - License (may need to be linked)
-  - Requirements (linked to requirements.md)
+    - *Other (Optional)*
+  - [**License (may need to be linked)**](r11-licensing.md)
+  - [Requirements (linked to requirements.md)](r03-requirements.md)
     - formal list of requirements
-    - One Page Test Plan (linked to testplan.md)
-  - Design (linked to design.md)
-  - Installation and use guide (linked to install.md)
+  - [One Page Test Plan (linked to testplan.md)](r10-testing1.md)
+  - [Design (linked to design.md)](r04-design.md)  
+  - [Installation and use guide (linked to install.md)](r12-install.md)
 
 ---
 
