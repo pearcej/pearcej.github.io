@@ -42,6 +42,6 @@ README.md
   - Submit final scrum report.
   - Update and finalize your documentation
   - Commit your finalized code to Github.
-  - Link to your publically posted video(s) using explanatory links
-  - Post video(s) publically and submit links to Moodle.
+  - Post [Video(s) (linked to YouTube)](fp-video-and-finalizing.md) publically and submit links to Moodle.
+  - Link your README to your [Video(s)](fp-video-and-finalizing.md)
   - Celebrate your great work under adverse conditions!
