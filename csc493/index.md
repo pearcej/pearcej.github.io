@@ -11,7 +11,8 @@
    - Finalize your project and **push to Github**.
    - Finalize and **update your documentation** I noticed that some of you are missing a couple of documentation components.
    - Due ~~April 23, 2020~~ **Extended to Wednesday, April 29, 2020**.
- - **Create and post [Video(s)](fp-video-and-finalizing.md)** - this/these replace the poster session and software demo - Due ~~April 23, 2020~~, **extended to Wednesday, April 29, 2020**.
+ - **Create and post [Video(s)](fp-video-and-finalizing.md)**
+   - this/these replace the poster session and software demo - Due ~~April 23, 2020~~, **extended to Wednesday, April 29, 2020**.
 
 ## Week 4 Working Remotely: Thursday, April 9, 2020
 
