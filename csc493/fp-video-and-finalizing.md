@@ -70,16 +70,11 @@ Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 
   - What  things did you learn about yourself as you worked on this project?
   - What is the primary thing that you feel most proud of that you accomplished during your work on this project?
 
-## Final Software development
-
-- Finalize your project. Be sure all components have internal documentation though comment lines.
-- Complete final Scrum report.
-- post video(s) publically and submit links to Moodle.
-- Celebrate your great work under adverse conditions!
-
 ---
-### Submission Deadline:
+### Final Submissions:
 - *By the Final Exam Date*
   - Submit final scrum report.
   - Commit your finalized code to Github.
   - Link to your publically posted video(s) using explanatory links
+  - Post video(s) publically and submit links to Moodle.
+  - Celebrate your great work under adverse conditions!
