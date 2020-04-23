@@ -43,7 +43,7 @@ We would normally have had both a poster session where you would demo your softw
 
 Because of COVID-19, you will not need to do a poster, but this means the requirements for the video demo had to change.
 - This [set of video demos](http://cs.berea.edu/courses/csc493-older/schedule.html) is older now, but most of the videos still exist. Watch some of them to get ideas and think about what you think is effective and what is not. Just bear in mind, they were only doing the demo and not the poster session too.
-- Read 12 tips for killer software demos(https://www.cio.com/article/3074817/12-tips-for-killer-software-demos.html) and reflect on how to make a great video demo that really showcases the best parts of your prototype.
+- Read [12 tips for killer software demos](https://www.cio.com/article/3074817/12-tips-for-killer-software-demos.html) and reflect on how to make a great video demo that really showcases the best parts of your prototype.
 
 ## Video Requirements
 - You must make 1 or 2 videos and post them publically on YouTube. One can be the software demo and the other can be the replacement poster session or you can do both in one video. Think about what makes sense to you.
