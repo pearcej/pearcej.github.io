@@ -1,7 +1,6 @@
 ## CSC 493: Senior Projects
 ### Berea College
 
-- [Zoom Channel - for virtual meetings](https://bit.ly/pearcejzoom)
 - [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM)
 
 ---
@@ -19,7 +18,7 @@
 
   - Complete written Agile reports - from now on due weekly on Thursdays, posted to Moodle and to [BC CS Slack Channel #csc493](https://app.slack.com/client/T3RM3MK1D/CUYLCTDBM) next one due April 23, 2020
   - Be sure to make progress on your project and push to Github.
-  - Write an [installation and use guide](r12.install.md)
+  - Write an [installation and use guide](r12-install.md)
   - Complete Project - Due April 23, 2020
   - Create [Video(s)](fp-video-and-finalizing.md) - this replaces the poster session and software demo - due April 23, 2020
 
