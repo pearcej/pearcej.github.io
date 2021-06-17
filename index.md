@@ -2,6 +2,9 @@
 #### Department Founder & Chair, Berea College
 
 ---
+#### Fall 2021 Courses
+- [csc236: Data Structures](./csc236/index.md)
+- [csc426: Open Source Software Engineering](./csc426/index.md)
 
 #### Spring 2020 Courses
 - [csc126: Intro to Robotics](./csc126/index.md)
