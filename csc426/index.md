@@ -9,7 +9,7 @@
   - In class:
     - Welcome
     - Discussion of course: content, texts, tools, syllabus, flow, etc
-    - Read and discuss[Advice to future CSC 426 students from 2019 students](https://docs.google.com/document/d/1Y_WOZfFfDB1pSxxN5EMrL0h9ZqVRVfOfjWOwIsLUNC0/edit?usp=sharing)
+    - Read and discuss [Advice to future CSC 426 students from 2019 students](https://docs.google.com/document/d/1Y_WOZfFfDB1pSxxN5EMrL0h9ZqVRVfOfjWOwIsLUNC0/edit?usp=sharing)
     - Brainstorming of skills and characteristics of good open source software developers
     - Set up some of the tools needed for the course
   - Before next class:
