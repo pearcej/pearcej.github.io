@@ -21,6 +21,7 @@
     - Read [GitHub vs Resume: Why Bother With a Resume in the Age of GitHub?](https://blog.kickresume.com/2017/09/11/github-vs-resume/)
     - [Set-up a blog for this course](b0-blog-runestone.md) and write your first post.
     - Submit link to blog in Moodle
+    - Post a big picture and a short bio to the [csberea.slack.com #csc426 slack channel](https://app.slack.com/client/T3RM3MK1D/C02AQ1WMM53)
     - Be sure post your first post publically and to ALSO copy post contents into Moodle
 
 ---
