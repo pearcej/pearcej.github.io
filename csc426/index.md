@@ -10,8 +10,8 @@
 
 ## Day 2: Tuesday, August 19, 2021
   - **In class**:
-    - Complete [T00: Exploring Runestone](https://docs.google.com/document/d/1_ogEpyQ8l4J_SGwTBgnC3Wh70g3TxV8f9Xpz2g8aRxI/edit?usp=sharing). Make a copy, complete and submit a link to your copy in Moodle.
-    - Also omplete  [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing). Make a copy, complete and submit a link to your copy in Moodle.
+    - Complete [T00: Exploring Runestone](https://docs.google.com/document/d/1_ogEpyQ8l4J_SGwTBgnC3Wh70g3TxV8f9Xpz2g8aRxI/edit?usp=sharing). Complete and submit a link to your copy in Moodle.
+    - Begin [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
   - **Before next class**:
     - Complete [A02: Searching Issues](https://docs.google.com/document/d/1gha9rwu5mhDYQ3IJ25r-vC2i32HMa1jcG-W041j4EEk/edit?usp=sharing) before the next class.
 
