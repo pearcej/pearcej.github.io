@@ -4,18 +4,18 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
-## Day 3: Thursday, August 21, 2021
+## Day 3: Thursday, August 26, 2021
  - **In class**:
    -  Remember that we are meeting in Zoom today so we can have a visit from Brad Miller, Founder, CEO, and Lead Developer, of Runestone books. (The Zoom link is in the [Moodle site](https://moodle.berea.edu/mod/url/view.php?id=479234))and posted in the course Slack channel.
 
-## Day 2: Tuesday, August 19, 2021
+## Day 2: Tuesday, August 24, 2021
   - **In class**:
     - Complete [T00: Exploring Runestone](https://docs.google.com/document/d/1_ogEpyQ8l4J_SGwTBgnC3Wh70g3TxV8f9Xpz2g8aRxI/edit?usp=sharing). Complete and submit a link to your copy in Moodle.
     - Begin [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
   - **Before next class**:
     - Complete [A02: Searching Issues](https://docs.google.com/document/d/1gha9rwu5mhDYQ3IJ25r-vC2i32HMa1jcG-W041j4EEk/edit?usp=sharing) before the next class.
 
-## Day 1: Thursday, August 24, 2021
+## Day 1: Thursday, August 19, 2021
   - **In class**:
     - Welcome
     - Discussion of course: content, texts, tools, syllabus, flow, etc
