@@ -6,7 +6,9 @@
 ---
 ## Day 3: Thursday, August 26, 2021
  - **In class**:
-   -  Remember that we are meeting in Zoom today so we can have a visit from Brad Miller, Founder, CEO, and Lead Developer, of Runestone books. (The Zoom link is in the [Moodle site](https://moodle.berea.edu/mod/url/view.php?id=479234))and posted in the course Slack channel.
+   - Remember that we are meeting in Zoom today so we can have a visit from Brad Miller, Founder, CEO, and Lead Developer, of Runestone Academy. (The Zoom link is in the [Moodle site](https://moodle.berea.edu/mod/url/view.php?id=479234)) and also posted in the course Slack channel.
+ - **Before next class**:
+   - Complete [A03: Learning Basic Web Development](https://docs.google.com/document/d/1rk7GA5UAaV8y5u_qDrmGiqmskODCIbudwYqo19Zau4o/edit?usp=sharing) before the next class.
 
 ## Day 2: Tuesday, August 24, 2021
   - **In class**:
