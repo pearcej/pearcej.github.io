@@ -4,6 +4,13 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 4: Tuesday, August 31, 2021
+ - **In class**:
+    - Complete and submit[T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
+    - Begin [T02: ](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
+ - **Before next class**:
+   - Complete [Blog post 2](b1-blog-runestone.md).
+
 ## Day 3: Thursday, August 26, 2021
  - **In class**:
    - Remember that we are meeting in Zoom today so we can have a visit from Brad Miller, Founder, CEO, and Lead Developer, of Runestone Academy. (The Zoom link is in the [Moodle site](https://moodle.berea.edu/mod/url/view.php?id=479234)) and also posted in the course Slack channel.
