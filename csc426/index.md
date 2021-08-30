@@ -6,10 +6,11 @@
 ---
 ## Day 4: Tuesday, August 31, 2021
  - **In class**:
+    - Presentations by Ala, Bryar, and Micho
     - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
     - Begin [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
  - **Before next class**:
-   - Complete and submit [Blog post 2](b1-blog-runestone.md).
+   - Complete and submit git [Blog post 2](b1-blog-runestone.md).
 
 ## Day 3: Thursday, August 26, 2021
  - **In class**:
