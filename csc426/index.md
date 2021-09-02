@@ -10,7 +10,8 @@
     - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
     - Begin [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
  - **Before next class**:
-   - Coming soon...
+   - Make a sincere attempt at [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
+   - Make a sincere attempt at completing [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing)
 
 ## Day 4: Tuesday, August 31, 2021
  - **In class**:
