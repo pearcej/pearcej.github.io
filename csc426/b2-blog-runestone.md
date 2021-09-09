@@ -13,7 +13,7 @@ In this blog post, address each of the following bullets (1 or more paragraphs e
   -  What is something that you learned or found interesting in these readings and what is something that you either found confusing or didn't understand or disagreed with?
 
 Next find 2-3 more articles that serve to further address what you found interesting or confusing in these articles. 
- - Write at least one more paragraph that discussed what you learned from these dditional sources. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each. 
+ - Write at least one more paragraph that discussed what you learned from these additional sources. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each. 
 
 
 ### Remember in order to receive credit for each blog entry, you must do *both* of the following:

@@ -25,7 +25,7 @@
 
 ## Day 4: Thursday, September 2, 2021
  - **In class**:
-    - Presentatons by Ala, Bryar, and Micho 
+    - Presentations by Ala, Bryar, and Micho 
     - Questions for Ala, Bryar, and Micho 
     - Homework announcement
  - **Before next class**:
@@ -68,7 +68,7 @@
     - [Set-up a blog for this course](b0-blog-runestone.md) and write your first post.
     - Submit link to blog in Moodle
     - Post a big picture and a short bio to the [csberea.slack.com #csc426 slack channel](https://app.slack.com/client/T3RM3MK1D/C02AQ1WMM53)
-    - Be sure post your first post publically and to ALSO copy post contents into Moodle
+    - Be sure post your first post publicly and to ALSO copy post contents into Moodle
 
 ---
 ###### Copyright © 2021 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License

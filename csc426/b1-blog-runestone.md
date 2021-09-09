@@ -1,4 +1,4 @@
-## Commiting to Open Source
+## Committing to Open Source
 
 Read [Read Committing Code: General Rules](https://gist.github.com/digitaljhelms/3761873)
 Read [Git, GitHub, & Workflow Fundamentals](https://dev.to/mollynem/git-github--workflow-fundamentals-5496)
@@ -12,7 +12,7 @@ In your second blog entry of the semester, address each of the following bullets
 - What excites you about contributing to Runestone (if anything)? Explain. 
 - What worries you about contributing to Runestone (if anything)? Explain
 - After reading, [Read Committing Code: General Rules](https://gist.github.com/digitaljhelms/3761873) and Read [Git, GitHub, & Workflow Fundamentals](https://dev.to/mollynem/git-github--workflow-fundamentals-5496), discuss commit messages and Git workflow and their primary purposes in the context of the open-source movement. Which guidelines make the most sense to you? Which make the least sense?
-- After reading [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing), discuss how these defnitions relate to Runestone.
+- After reading [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing), discuss how these definitions relate to Runestone.
 
 ### In order to receive credit for each blog entry, you must do *both* of the following:
 
