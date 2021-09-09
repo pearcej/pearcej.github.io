@@ -12,7 +12,7 @@
  - **Before next class**:
    - If you have not done so already, debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). 
    - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing), which  includes getting your pull-request pre-approved by myself or one of our TAs.
-    - Complete and submit [Blog post 3](b3-blog-runestone.md).
+    - Complete and submit [Blog post 3](b2-blog-runestone.md).
   
 
 ## Day 5: Tuesday, September 7, 2021
