@@ -8,9 +8,12 @@
  - **In class**:
    - Demos of [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing). Keep making improvements!
    - Discussion of useful extensions in VSCode
-   - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
+   - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing), which  includes getting your pull-request pre-approved by myself or one of our TAs.
  - **Before next class**:
-   - Coming soon
+   - If you have not done so already, debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). 
+   - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing), which  includes getting your pull-request pre-approved by myself or one of our TAs.
+    - Complete and submit [Blog post 3](b3-blog-runestone.md).
+  
 
 ## Day 5: Tuesday, September 7, 2021
  - **In class**:
@@ -18,7 +21,7 @@
    - Begin [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
  - **Before next class**:
    - Complete something for [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing). Be sure to submit to Moodle
-    - Debug and somplete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). Be sure to submit to Moodle.
+    - Debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). Be sure to submit to Moodle.
 
 ## Day 4: Thursday, September 2, 2021
  - **In class**:
