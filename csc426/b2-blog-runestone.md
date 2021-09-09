@@ -1,4 +1,4 @@
-## Blog Prompt 2
+## Blog Prompt 3
 
 Read the following:
   - [What is Linux](https://opensource.com/resources/linux)
