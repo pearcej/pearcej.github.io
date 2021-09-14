@@ -4,16 +4,24 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 7: Tuesday, September 14, 2021
+ - **In class**:
+   - Introduction to Scrum
+   - Join the [Runestone Slack channel](https://runestoneteam.slack.com)
+   - Work on [More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
+ - **Before next class**:
+    - Complete and submit [Blog post 4](b3-blog-runestone.md).
+
 ## Day 6: Thursday, September 9, 2021
  - **In class**:
    - Demos of [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing). Keep making improvements!
    - Discussion of useful extensions in VSCode
    - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing), which  includes getting your pull-request pre-approved by myself or one of our TAs.
  - **Before next class**:
-   - If you have not done so already, debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). 
+   - If you have not done so already, debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing).
    - Complete and submit [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing), which  includes getting your pull-request pre-approved by myself or one of our TAs.
     - Complete and submit [Blog post 3](b2-blog-runestone.md).
-  
+
 
 ## Day 5: Tuesday, September 7, 2021
  - **In class**:
@@ -25,8 +33,8 @@
 
 ## Day 4: Thursday, September 2, 2021
  - **In class**:
-    - Presentations by Ala, Bryar, and Micho 
-    - Questions for Ala, Bryar, and Micho 
+    - Presentations by Ala, Bryar, and Micho
+    - Questions for Ala, Bryar, and Micho
     - Homework announcement
  - **Before next class**:
    - Make a sincere attempt at completing [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). Be sure to submit to Moodle.
