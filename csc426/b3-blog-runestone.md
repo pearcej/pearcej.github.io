@@ -8,6 +8,7 @@ Read the following:
 
 In this blog post, address each of the following bullets (1 or more paragraphs each):
 In your blog entry, address each of the following bullets (1 or more paragraph each):
+
   1. After reading the values and principles, what was your impression of them? Do you think they would contribute to productivity in smaller or bigger companies? Why?
 
   2. In terms of the principles, how logical is it to apply them to a real-life, full-functioning company? What issues do you see arising?
@@ -19,7 +20,8 @@ In your blog entry, address each of the following bullets (1 or more paragraph e
   5. How would using this manifesto improve your work? Do you think it wouldn’t help? If not, please elaborate.
 
 Next find one or more articles that serve to further address what you found interesting or confusing in these articles.
- - Write at least one more paragraph that discussed what you learned from this additional source. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each.
+
+  6.  Write at least one more paragraph that discussed what you learned from this additional source. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each.
 
 ### Remember in order to receive credit for each blog entry, you must do *both* of the following:
 
