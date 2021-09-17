@@ -4,11 +4,20 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 8: Thursday, September 16, 2021
+ - **In class**:
+   - Discussion of reading and blog post
+   - [Facilitating Scrum](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing) - For your reference and time keeping.
+   - Work on [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
+ - **Before next class**:
+    - Complete and submit [Blog post 5](b4-blog-runestone.md).
+    - Come to class able to build the books you need to build.
+
 ## Day 7: Tuesday, September 14, 2021
  - **In class**:
    - Introduction to Scrum
    - Join the [Runestone Slack channel](https://runestoneteam.slack.com)
-   - Work on [More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
+   - Work on [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
  - **Before next class**:
     - Complete and submit [Blog post 4](b3-blog-runestone.md).
 
