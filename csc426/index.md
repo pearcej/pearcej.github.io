@@ -10,7 +10,7 @@
    - Fast-tracked scrum reports
    - Work on [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
  - **Before next class**:
-    - Coming soon....
+    - Complete [A05: ReStructured Text](https://docs.google.com/document/d/1UOyoX2sBVadey0Co7LeQ0NaHuTlgGthF93RR-mnmKjo/edit?usp=sharing)
  
  ## Day 8: Thursday, September 16, 2021
  - **In class**:
