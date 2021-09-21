@@ -4,7 +4,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
-## Day 8: Thursday, September 16, 2021
+## Day 9: Tuesday, September 21, 2021
+ - **In class**:
+   - Discussion of readings and blog post
+   - Fast-tracked scrum reports
+   - Work on [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
+ - **Before next class**:
+    - Coming soon....
+ 
+ ## Day 8: Thursday, September 16, 2021
  - **In class**:
    - Discussion of reading and blog post
    - [Facilitating Scrum](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing) - For your reference and time keeping.
