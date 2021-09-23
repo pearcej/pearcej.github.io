@@ -4,7 +4,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
-## Day 9: Tuesday, September 21, 2021
+## Day 11: Thursday, September 23, 2021
+ - **In class**:
+   - Discussion of readings, ReStructured text
+   - Discussion of [A05: ReStructured Text](https://docs.google.com/document/d/1UOyoX2sBVadey0Co7LeQ0NaHuTlgGthF93RR-mnmKjo/edit?usp=sharing)
+   - Complete [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
+ - **Before next class**:
+    - Coming soon
+
+ ## Day 10: Tuesday, September 21, 2021
  - **In class**:
    - Discussion of readings and blog post
    - Fast-tracked scrum reports
@@ -12,7 +20,7 @@
  - **Before next class**:
     - Complete [A05: ReStructured Text](https://docs.google.com/document/d/1UOyoX2sBVadey0Co7LeQ0NaHuTlgGthF93RR-mnmKjo/edit?usp=sharing)
  
- ## Day 8: Thursday, September 16, 2021
+ ## Day 9: Thursday, September 16, 2021
  - **In class**:
    - Discussion of reading and blog post
    - [Facilitating Scrum](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing) - For your reference and time keeping.
@@ -21,7 +29,7 @@
     - Complete and submit [Blog post 5](b4-blog-runestone.md).
     - Come to class able to build the books you need to build.
 
-## Day 7: Tuesday, September 14, 2021
+## Day 8: Tuesday, September 14, 2021
  - **In class**:
    - Introduction to Scrum
    - Join the [Runestone Slack channel](https://runestoneteam.slack.com)
@@ -29,7 +37,7 @@
  - **Before next class**:
     - Complete and submit [Blog post 4](b3-blog-runestone.md).
 
-## Day 6: Thursday, September 9, 2021
+## Day 7: Thursday, September 9, 2021
  - **In class**:
    - Demos of [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing). Keep making improvements!
    - Discussion of useful extensions in VSCode
@@ -40,7 +48,7 @@
     - Complete and submit [Blog post 3](b2-blog-runestone.md).
 
 
-## Day 5: Tuesday, September 7, 2021
+## Day 6: Tuesday, September 7, 2021
  - **In class**:
     - Discussion and debugging of [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing)
    - Begin [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing)
@@ -48,7 +56,7 @@
    - Complete something for [T02: Git and Website](https://docs.google.com/document/d/1Xg3hjSlw9XJIapK8HTdJLJRgEcBa2nM6JsqdhIogI5U/edit?usp=sharing). Be sure to submit to Moodle
     - Debug and complete your set-up. Then complete and submit [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). Be sure to submit to Moodle.
 
-## Day 4: Thursday, September 2, 2021
+## Day 5: Thursday, September 2, 2021
  - **In class**:
     - Presentations by Ala, Bryar, and Micho
     - Questions for Ala, Bryar, and Micho
@@ -56,14 +64,14 @@
  - **Before next class**:
    - Make a sincere attempt at completing [A04: CSC 426 Digital Ocean Set-up](https://docs.google.com/document/d/1gZrOndNf_WP8CVmThPssePumMTeQpHNv20ZYOYBntC8/edit?usp=sharing). Be sure to submit to Moodle.
 
-## Day 3: Tuesday, August 31, 2021
+## Day 4: Tuesday, August 31, 2021
  - **In class**:
     - Discussion/Presentation on Git Workflow in a large project
     - Continue [T01: Engaging with Runestone](https://docs.google.com/document/d/1BUVDwjYnbYlpV6rVykNbPZq-mcIeY925Ees5I2lkERI/edit?usp=sharing).
  - **Before next class**:
    - Complete and submit [Blog post 2](b1-blog-runestone.md).
 
-## Day 2: Thursday, August 26, 2021
+## Day 3: Thursday, August 26, 2021
  - **In class**:
    - Remember that we are meeting in Zoom today so we can have a visit from Brad Miller, Founder, CEO, and Lead Developer, of Runestone Academy. (The Zoom link is in the [Moodle site](https://moodle.berea.edu/mod/url/view.php?id=479234)) and also posted in the course Slack channel.
  - **Before next class**:
