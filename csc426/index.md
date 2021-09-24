@@ -10,7 +10,7 @@
    - Discussion of [A05: ReStructured Text](https://docs.google.com/document/d/1UOyoX2sBVadey0Co7LeQ0NaHuTlgGthF93RR-mnmKjo/edit?usp=sharing)
    - Complete [T03: More Issues & Connection Building](https://docs.google.com/document/d/1w1mTpPNFVGQ5JlUeJdzThZWADbA8rwPzEH6nt5nS7sw/edit?usp=sharing).
  - **Before next class**:
-    - Coming soon
+    - Complete [A06: Contributing to Runestone](https://docs.google.com/document/d/1Vf0x9Id4ljyF4dR9YFvnfym9VJop4PhjgwGDVdeI3l4/edit?usp=sharing) which is due before the next class.
 
  ## Day 10: Tuesday, September 21, 2021
  - **In class**:
