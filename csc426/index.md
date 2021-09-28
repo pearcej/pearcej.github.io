@@ -4,6 +4,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 12: Tuessday, September 28, 2021
+ - **In class**:
+   - Usability testing of a new Peer Instruction feature that is under development led by Dr. Barbara Erickson and Dr. Brad Miller
+   - Discuss what you learned about the usability of Runestone's Instructor's interface 
+   - Continue contributions to Runestone
+ - **Before next class**:
+    - Complete [A07: Exploring or Diving into JavaScript](https://docs.google.com/document/d/1Vf0x9Id4ljyF4dR9YFvnfym9VJop4PhjgwGDVdeI3l4/edit?usp=sharing) which is due before the next class.
+
+
 ## Day 11: Thursday, September 23, 2021
  - **In class**:
    - Discussion of readings, ReStructured text
