@@ -4,7 +4,13 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
-## Day 12: Tuessday, September 28, 2021
+## Day 13: Thursday, September 30, 2021
+ - **In class**:
+   - Meet with Dr. Brad Miller to hear about desired fetured and potential projects
+ - **Before next class**:
+    - Coming soon...
+
+## Day 12: Tuesday, September 28, 2021
  - **In class**:
    - Usability testing of a new Peer Instruction feature that is under development led by Dr. Barbara Erickson and Dr. Brad Miller
    - Discuss what you learned about the usability of Runestone's Instructor's interface 
