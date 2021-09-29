@@ -6,7 +6,7 @@
 ---
 ## Day 13: Thursday, September 30, 2021
  - **In class**:
-   - Meet with Dr. Brad Miller to hear about desired fetured and potential projects
+   - Meet with Dr. Brad Miller to hear about desired features and potential projects.
  - **Before next class**:
     - Coming soon...
 
