@@ -16,7 +16,7 @@
    - Discuss what you learned about the usability of Runestone's Instructor's interface 
    - Continue contributions to Runestone
  - **Before next class**:
-    - Complete [A07: Exploring or Diving into JavaScript](https://docs.google.com/document/d/1Vf0x9Id4ljyF4dR9YFvnfym9VJop4PhjgwGDVdeI3l4/edit?usp=sharing) which is due before the next class.
+    - Complete [A07: Exploring or Diving into JavaScript](https://docs.google.com/document/d/1ax5AEHQB_oxshhqHwVwS7jsnfVt3PErfLYHZvof_74g/edit?usp=sharing) which is due before the next class.
 
 
 ## Day 11: Thursday, September 23, 2021
