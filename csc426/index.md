@@ -4,11 +4,14 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## No class: Tuesday, October 5 - Enjoy your Reading Day!
+
 ## Day 13: Thursday, September 30, 2021
  - **In class**:
    - Meet with Dr. Brad Miller to hear about desired features and potential projects.
+   - Choose an issue from Runestone Server or Runestone Components
  - **Before next class**:
-    - Coming soon...
+    - Complete [A08: MVC and Runestone](https://docs.google.com/document/d/1U5U5jcTitm_QhKB95WzbrPONIXhC04aCdmOMEI8Jhy4/edit?usp=sharing) due Thursday, October 7, 2021
 
 ## Day 12: Tuesday, September 28, 2021
  - **In class**:
