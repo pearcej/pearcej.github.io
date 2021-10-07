@@ -4,6 +4,14 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 14: Thursday, October 7, 2021
+ - **In class**:
+   - Debrief on experience with the Runestone open source community
+   - Scrum reports in teams
+   - Issue work in teams
+ - **Before next class**:
+    - Complete [A09: Working witt Databases]()
+
 ## No class: Tuesday, October 5 - Enjoy your Reading Day!
 
 ## Day 13: Thursday, September 30, 2021
