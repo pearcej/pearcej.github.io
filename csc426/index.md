@@ -10,7 +10,7 @@
    - Scrum reports in teams
    - Issue work in teams
  - **Before next class**:
-    - Complete [A09: Working witt Databases]()
+    - Complete [A09: Working with Databases](https://docs.google.com/document/d/1uhKqf-3g4sk5Ca0yNxf9Y1C1fDCQexYNzxCbwLFk5r8/edit?usp=sharing)
 
 ## No class: Tuesday, October 5 - Enjoy your Reading Day!
 
