@@ -4,6 +4,14 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 15: Tuesday, October 12, 2021
+ - **In class**:
+   - Scrum reports in teams
+   - Issue work in teams
+   - Building a Midterm exam review sheet
+ - **Before next class**:
+    -Coming soon...
+    
 ## Day 14: Thursday, October 7, 2021
  - **In class**:
    - Debrief on experience with the Runestone open source community
