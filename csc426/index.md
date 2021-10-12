@@ -10,7 +10,7 @@
    - Issue work in teams
    - Building a Midterm exam review sheet
  - **Before next class**:
-    -Coming soon...
+   -Coming soon...
     
 ## Day 14: Thursday, October 7, 2021
  - **In class**:
