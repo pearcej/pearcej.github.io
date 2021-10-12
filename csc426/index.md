@@ -10,7 +10,8 @@
    - Issue work in teams
    - Building a Midterm exam review sheet
  - **Before next class**:
-   -Coming soon...
+   - Complete the Goodle Doc part of [TRM: Peerwise Review for MidtermAssignment](https://docs.google.com/document/d/1IE_3hm9a41kcbjBKt3zileZ-OpSDeulUPBT5kd3vd-M/edit?usp=sharing) which is due before our next class and WILL NOT Be accepted late.
+   - Note that we will review these questions next time before adding to Peerwise. Poor questions will not earn credit, so be sure to take this seriously.
     
 ## Day 14: Thursday, October 7, 2021
  - **In class**:
