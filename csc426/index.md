@@ -9,6 +9,7 @@
    - Scrum reports in teams
    - Issue work in teams
    - Building a Midterm exam review sheet
+   - **Announcement:** The Midterm will take place in class on Thursday, October 21.
  - **Before next class**:
    - Complete the Goodle Doc part of [TRM: Peerwise Review for MidtermAssignment](https://docs.google.com/document/d/1IE_3hm9a41kcbjBKt3zileZ-OpSDeulUPBT5kd3vd-M/edit?usp=sharing) which is due before our next class and WILL NOT Be accepted late.
    - Note that we will review these questions next time before adding to Peerwise. Poor questions will not earn credit, so be sure to take this seriously.
