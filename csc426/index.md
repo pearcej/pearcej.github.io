@@ -11,10 +11,12 @@
    - Issue work in teams
    - **Announcement:** The Midterm will take place in class on Thursday, October 21, one week from today.
  - **Before next class**:
-   - Coming sooon...
+   - Answer and rate **all** of the questions in [Peerwise course 24005](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24005) before class on Tuesday.
+   - Come to class with questions.
+   - If your droplet is broken, come to class having rebuilt it following the directions here: [Docker Deployment](https://runestoneserver.readthedocs.io/en/stable/docker/README.html). 
 
 ## Day 15: Tuesday, October 12, 2021
- - **In class**:
+ - **In clas[Peerwise course 24005](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24005)s**:
    - Scrum reports in teams
    - Issue work in teams
    - Building a Midterm exam review sheet
