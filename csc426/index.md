@@ -4,6 +4,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 16: Thursday, October 14, 2021
+ - **In class**:
+   - Review, revise, and post questions from [TRM: Peerwise Review for MidtermAssignment](https://docs.google.com/document/d/1IE_3hm9a41kcbjBKt3zileZ-OpSDeulUPBT5kd3vd-M/edit?usp=sharing) to [Peerwise course 24005](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24005). This is due by the end of class today.
+   - Scrum reports in teams
+   - Issue work in teams
+   - **Announcement:** The Midterm will take place in class on Thursday, October 21, one week from today.
+ - **Before next class**:
+   - Coming sooon...
+
 ## Day 15: Tuesday, October 12, 2021
  - **In class**:
    - Scrum reports in teams
