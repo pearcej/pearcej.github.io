@@ -4,6 +4,21 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 18: Thursday, October 21, 2021
+ - **In class**:
+   - Midterm exam
+ - **Before next class**:
+   - Make sure your local droplet build is both current with the upstream branches. Then make sure it is working and you are able to edit and push your changes. This MUST be done BEFORE the next part, and the time spent on updating and fixing droplet does not count in the next part. 
+   - Next, spend spend 4 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in [SR1: Scrum Report 1](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part. **Note that due to the nature of this Scrum Report, it will NOT be accepted late.**
+   - *Failure to have an up-to-date working droplet environment in our next class will negatively impact your participation grade.*
+
+## Day 17: Tuesday, October 19, 2021
+ - **In class**:
+   - Peerwise Jeopardy Game
+   - **Announcement:** The Midterm will take place in our next class.
+ - **Before next class**:
+   - Study for Midterm using [Peerwise course 24005](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24005) and other class materials.
+
 ## Day 16: Thursday, October 14, 2021
  - **In class**:
    - Review, revise, resubmit, and post questions from [TRM: Peerwise Review for Midterm](https://docs.google.com/document/d/1IE_3hm9a41kcbjBKt3zileZ-OpSDeulUPBT5kd3vd-M/edit?usp=sharing) to [Peerwise course 24005](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24005). This is due by the end of class today.
