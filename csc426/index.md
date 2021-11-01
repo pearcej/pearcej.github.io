@@ -4,6 +4,36 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 19: Thursday, October 28, 2021
+ - **In class**:
+   - try to fix build
+ - **Before next class**:
+   - Your homework is (again) to get a working build, but we have a couple of paths that will work if you follow one of the following sets of instructions.
+   - If you still have your older droplet made from YOUR repos that work or used to work, return to it, and run the following commands:
+
+      docker-compose stop
+
+      docker-compose rm
+
+      cd into RunestoneServer and issue the following command:
+
+      git checkout -b pre-bookserver-<your-issue#> 8a198173ffe43da5b60914135598eaeed7699dc0
+
+      This will check your branch on a branch of Runestone before all of the major structural changes. 
+
+      Next pick-up the old install direction beginning with docker build -t runestone/server . 
+
+      which are located at [Digital Ocean Environment Set-up](]https://docs.google.com/document/d/1ny3caEiPnYwsFn803241RO_ZkbvvFA7X268A0mUq5Q4/edit?usp=sharing)
+
+      pick this up below at 4d in [Digital Ocean Environment Set-up](]https://docs.google.com/document/d/1ny3caEiPnYwsFn803241RO_ZkbvvFA7X268A0mUq5Q4/edit?usp=sharing)
+   - If you deleted your older droplet, then make a new one following the directives located at [Digital Ocean Environment Set-up](]https://docs.google.com/document/d/1ny3caEiPnYwsFn803241RO_ZkbvvFA7X268A0mUq5Q4/edit?usp=sharing)usp=sharing
+  
+## Day 19: Tuesday, October 26, 2021
+ - **In class**:
+   - disussion of midterm and work on projects
+ - **Before next class**:
+   - Try to fix build
+
 ## Day 18: Thursday, October 21, 2021
  - **In class**:
    - Midterm exam
