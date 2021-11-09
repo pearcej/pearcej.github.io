@@ -4,7 +4,29 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
-## Day 19: Thursday, October 28, 2021
+## Day 23: Tuesday, November 9, 2021
+ - **In class**:
+   - Discuss scrum reports
+   - work on project
+ - **Before next class**:
+   - Your homework is to spend spend 2 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in. If you missed class, you must also make up this missed work time. Be sure to note that you did this. [Complete SR3: Scrum Report 3](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part.  Be sure to convert to edit access. Note that due to the nature of this report, it will NOT be accepted late.
+
+## Day 22: Thursday, November 4, 2021
+ - **In class**:
+   - Discuss scrum reports
+   - work on project
+ - **Before next class**:
+   - Your homework is to spend spend 4 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in. If you missed class, you must also make up this missed work time. Be sure to note that you did this. [Complete SR2: Scrum Report 2](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part.  Be sure to convert to edit access. Note that due to the nature of this report, it will NOT be accepted late.
+
+
+## Day 21: Tuesday, November 2, 2021
+ - **In class**:
+   - Discuss scrum reports
+   - work on project
+ - **Before next class**:
+   - Your homework is to spend spend 2 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in. If you missed class, you must also make up this missed work time. Be sure to note that you did this. [Complete SR1: Scrum Report 1](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part.  Be sure to convert to edit access. Note that due to the nature of this report, it will NOT be accepted late.
+   
+ ## Day 20: Thursday, October 28, 2021
  - **In class**:
    - try to fix build
  - **Before next class**:
