@@ -4,6 +4,13 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 24: Thursday, November 11, 2021
+ - **In class**:
+   - Discuss scrum reports
+   - work on project
+ - **Before next class**:
+   - Your homework is to spend spend 4 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in. If you missed class, or were late back to class after the break, you must also make up this missed work time. Be sure to note that you did this. [Complete SR4: Scrum Report 4](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part.  Be sure to convert to edit access. Note that due to the nature of this report, it will NOT be accepted late.
+
 ## Day 23: Tuesday, November 9, 2021
  - **In class**:
    - Discuss scrum reports
