@@ -4,6 +4,15 @@
   - [Course Syllabus](https://docs.google.com/document/d/1h3_tJQsIA-POB-ronkaHWczbyGybvheo3-KnNljuDpU/edit?usp=sharing)
 
 ---
+## Day 28: Tuesday, November 30, 2021
+ - **In class**:
+   - work on project
+ - **Before next class**:
+   - Spend spend 2 or more hours working on your Runestone issue, making changes and seeing the results, keeping track of your time in. If you missed class, or were late back to class after the break, you must also make up this missed work time. Be sure to note that you did this. [Complete SR8: Scrum Report 8](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). Be sure that you read the linked Google Doc before beginning this part.  Be sure to convert to edit access. Note that due to the nature of this report, it will NOT be accepted late.
+ 
+ ## No class: Thursday, November 25, 2021
+ - **Happy Thanksgiving!**:
+
 ## Day 27: Tuesday, November 23, 2021
  - **In class**:
    - work on project
