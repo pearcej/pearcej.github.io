@@ -1,12 +1,13 @@
 ## Final Team Presentation
 
-The final team presentation will be a 14-17 minute presentation to the class using slides. Each one of you must contribute to the creation of as well as the delivery of this presentation.
+The final team presentation will be a 10 minute presentation to the class using slides. Each one of you must contribute to the creation of as well as the delivery of this presentation.
 
 Your presentation should include the following:
 
 1. A summary, in plain English, of the issue(s) that your team claimed, including:
   - Describe in detail the steps you undertook to understand the issue.
   - Did you research a solution in Stack Overflow, read the documentation, ask for clarification in slack, etc.?
+  - Did you ask questions in the Runestone #opensource_contributions slack channel? 
 2. Your team's approach to tackling the issue, including:
   - How did you divide and assign tasks?
   - How often did you meet or keep in touch outside of class?
@@ -24,4 +25,4 @@ Your presentation should include the following:
 
 **In order to get full credit, you must submit the final version of your slides to Moodle, as a link or with your team name in the filename.**
 
-### This portfolio is due by 8 am on the due date
+### The slides are due to be uploaded to Moodle by 11:45 am on Wednesday, December 8, 2021
