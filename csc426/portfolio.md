@@ -10,13 +10,13 @@ Submit a professionally-written single-spaced portfolio document to Moodle which
 
 4. Links to the two blog entries that you are most proud of and would feel comfortable sharing with a potential employer. Include a paragraph explaining why you chose these two entries. (link + 1 paragraph)
 
-5. A reflection on your overall experience in the class and working on Runestone. You are free to highlight what is most important to you, although be sure to answer the following at minimum (1 page):
+5. A refection on the level of professionalism and community-mindededness that you brought to interactions with the greater Runestone community. Did you help others beyond your particular teeam?  If so, give examples. Did you effectively utilize the Runestone #opencourse_Contributionis Slack channel that was provided for you? If so, how effectively? Did you thank thouse that offered you assistance? Give examples. Did you utilize the comments feature in your pull-requests effectively? Explain. Also reflect on how you might have been more community-minded and/or more effective in your communications.
+
+6. A reflection on your overall experience in the class and working on Runestone. You are free to highlight what is most important to you, although be sure to answer the following at minimum (1 page):
 
   - What is the most valuable or interesting thing you learned this term from this project?
   - What changes would you like to see in the class structure the next time it is offered?
   - What advice would you give to a future Open Source Software Engineering student?
-
-6. A refection on the level of professionalism and community-mindededness that you brought to interactions with the greater Runestone community. Did you help others beyond your particular teeam?  If so, give examples. Did you effectively utilize the Runestone #opencourse_Contributionis Slack channel that was provided for you? If so, how effectively? Did you thank thouse that offered you assistance? Give examples. Did you utilize the comments feature in your pull-requests effectively? Explain. Also reflect on how you might have been more community-minded and/or more effective in your communications.
 
 Because I do not measure your success in the number of pull-requessts, your portfolio helps me to understand in a broader sense what you have accomplished this term. You should consider it a professional document; it should be well-written, well-edited, and entirely your own writing. (Remember that along with your team's presentation, it is worth 25% of your course grade!)
 
