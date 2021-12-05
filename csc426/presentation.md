@@ -23,7 +23,7 @@ Your presentation should include the following:
   - What would you do differently next time?
   - What would have equipped you better for success?
 
-Note that the slides should NOT try to cover all of the above in text. Think about how you can get the information accross in a visually interesting or creative way!
+Note that the slides should NOT try to cover all of the above in full sentences on the slides. Think about using bullets and how you can get the information accross in a visually interesting or creative way!
 
 **In order to get full credit, you must submit the final version of your slides to Moodle, as a link or with your team name in the filename.**
 
