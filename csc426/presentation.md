@@ -25,6 +25,6 @@ Your presentation should include the following:
 
 Note that the slides should NOT try to cover all of the above in full sentences on the slides. Think about using bullets and how you can get the information accross in a visually interesting or creative way!
 
-**In order to get full credit, you must submit the final version of your slides to Moodle, as a link or with your team name in the filename.**
+**In order to get full credit, you must submit download and submit the final version of your slides to Moodle.**
 
 ### The slides are due to be uploaded to Moodle by 11:45 am on Wednesday, December 8, 2021
