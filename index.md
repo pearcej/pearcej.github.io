@@ -6,9 +6,9 @@
 - [csc236: Data Structures](https://berea-college-csc236.github.io) (Two sections)
 
 #### Fall 2021 Courses
-- [csc226: Software Design and Implementation](https://berea-college-csc-226.github.io/index_fall2021/)
-- [csc236: Data Structures](https://berea-college-csc236.github.io/index-F21/)
-- [csc426: Open Source Software Engineering](./csc426/index.md/)
+- [csc226: Software Design and Implementation](https://berea-college-csc-226.github.io/index_fall2021.html)
+- [csc236: Data Structures](https://berea-college-csc236.github.io/index-F21.html)
+- [csc426: Open Source Software Engineering](./csc426/index.html)
 
 #### [Archived Courses](./archived.md)
 
