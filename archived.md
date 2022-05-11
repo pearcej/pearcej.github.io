@@ -16,7 +16,7 @@ I am slowly porting my course pages to github. Please email me at jan_pearce a(@
 
 #### Spring 2020 Courses
 - [csc126: Intro to Robotics](https://pearcej.github.io/csc126)
-- [csc236: Data Structures](https://pearcej.github.io/csc236)
+- [csc236: Data Structures](https://pearcej.github.io/csc236/index-s20)
 - [csc386-jp: Android Mobile Development](https://docs.google.com/document/d/1TqQHoUWpEse9-r0yLZduYb9qhugXCFABR4xYMcFUUoM/edit?usp=sharing)
   - CodePath 0.5 credit course (not instructor-led)
 - [csc493: Senior Projects](https://pearcej.github.io/csc493)
