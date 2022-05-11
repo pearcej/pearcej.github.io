@@ -6,13 +6,21 @@ I am slowly porting my course pages to github. Please email me at jan_pearce a(@
 
 ### Archived Courses
 
+#### Spring 2022 Courses
+- [csc236: Data Structures](https://berea-college-csc236.github.io/index-S22) (two sections)
+
+#### Fall 2021 Courses
+- [csc226: Intro to Robotics](https://berea-college-csc-226.github.io/index_fall2021)
+- [csc236: Data Structures](https://berea-college-csc236.github.io/index-F21)
+- [csc426: Open Source Software Engineering](./csc426/index.md)
+
 #### Spring 2020 Courses
-- [csc126: Intro to Robotics](./csc126/index.md)
-- [csc236: Data Structures](./csc236/index.md)
+- [csc126: Intro to Robotics](./csc126/index)
+- [csc236: Data Structures](./csc236/index)
 - [csc386-jp: Android Mobile Development](https://docs.google.com/document/d/1TqQHoUWpEse9-r0yLZduYb9qhugXCFABR4xYMcFUUoM/edit?usp=sharing)
   - CodePath 0.5 credit course (not instructor-led)
-- [csc493: Senior Projects](./csc493/index.md)
+- [csc493: Senior Projects](./csc493/index)
 
 #### Fall 2019 Courses
-- [csc236: Data Structures](./csc236/index-f19.md)
-- [csc426: Open Source Software Engineering](./csc426/index.md)
+- [csc236: Data Structures](./csc236/index-f19)
+- [csc426: Open Source Software Engineering](./csc426/index-f19)
