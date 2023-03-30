@@ -1,8 +1,13 @@
 ## Computer & Information Science
 
-#### Department Founder & Chair, Berea College
+#### Professor and Department Founder, Berea College
 
-I am slowly porting my course pages to github. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
+On sabbatical 2022 - 2023
+
+2022 Fulbright Scholar, Ashesi University, Ghana
+
+#### Note: 
+I am slowly porting my course pages to Github. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
 
 ### Archived Courses
 
