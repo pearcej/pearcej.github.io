@@ -1,15 +1,17 @@
 ## Computer & Information Science
-
 #### Professor and Department Founder, Berea College
+
+----
 
 On sabbatical 2022 - 2023
 
 2022 Fulbright Scholar, Ashesi University, Ghana
 
-#### Note: 
-I am slowly porting my course pages to Github. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
+#### [Archived Courses](./archived.md)
 
-### Archived Courses
+----
+
+I have changed where I host my sites. Please email me at jan_pearce a(@)t berea.edu if you are looking for something specific that is not here.
 
 #### Spring 2022 Courses
 - [csc236: Data Structures](https://berea-college-csc236.github.io/index-S22) (two sections)
