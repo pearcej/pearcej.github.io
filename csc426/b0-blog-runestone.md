@@ -27,9 +27,6 @@ You can be less formal in your blog posts than if you were writing a paper or re
 However, your grade will take into account the level of critical reflection as well as the level of professionalism. 
 In other words, errors in punctuation, formatting, spelling, and a professional tone still matter!
 
-The [Runestone Roadmap 2021](https://runestoneinteractive.org/2021/04/28/roadmap_2021.html) post gives you a
-good sense of where Runestone is headed. 
-
 ## Blog Prompt 1
 
 In your first blog entry of the semester, address each of the following bullets (1 or more paragraph each):
