@@ -16,6 +16,7 @@
 **Before next class**:
 
 - Complete the [R2: Read Chapters 2 and 3 (OSS Community and Communication and OSS Development Environment)](https://runestone.academy/assignment/student/doAssignment?assignment_id=150302) reading assignment
+- Spend 30 minutes or so reading whatever interest you at the [Runestone Academy Blog](https://blog.runestone.academy/)
 
 ## Day 1: Thursday, August 24, 2023
 
