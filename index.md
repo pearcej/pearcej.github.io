@@ -1,13 +1,17 @@
-## Computer & Information Science
-#### Professor and Department Founder, Berea College
-#### 2022 Fulbright Scholar, Ashesi University, Ghana
+# Computer & Information Science
+
+## Professor and Department Founder, Berea College
+
+## 2022 Fulbright Scholar, Ashesi University, Ghana
+
 ----
+
 # Fall 2023 
 
-[CSC 236 Data Structures](https://berea-college-csc236.github.io/)
-[CSC 426 Open Source Software Engineering](./csc426/index.md)
+- [CSC 236 Data Structures](https://berea-college-csc236.github.io/)
+- [CSC 426 Open Source Software Engineering](./csc426/index.md)
 
-#### [Archived Courses](./archived.md)
+## [Archived Courses](./archived.md)
 
 ----
 
