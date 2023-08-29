@@ -4,8 +4,8 @@
 ----
 # Fall 2023 
 
-CSC 236 Data Structures
-CSC 426 Open Source Software Engineering
+[CSC 236 Data Structures](https://berea-college-csc236.github.io/)
+[CSC 426 Open Source Software Engineering](./csc426/index.md)
 
 #### [Archived Courses](./archived.md)
 
