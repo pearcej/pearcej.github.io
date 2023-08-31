@@ -6,6 +6,18 @@
 
 ---
 
+## Day 3: Thursday, August 31, 2023
+
+**In class**:
+
+- Discuss reading assignment and Runestone
+- [CSC 426 Day 3 Slides](https://docs.google.com/presentation/d/1Afuvlnw3Sqcs2OBxNYcd6nWouGoA2XZMeHyqSOd_AAs/edit?usp=sharing)
+
+**Before next class**:
+
+- Complete ypur website and submit T02
+
+
 ## Day 2: Tuesday, August 29, 2023
 
 **In class**:
