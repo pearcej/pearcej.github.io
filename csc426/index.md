@@ -15,6 +15,7 @@
 
 **Before next class**:
 
+- Read [Chapter 4: Version Control with Git](https://moodle.berea.edu/mod/lti/view.php?id=638827)
 - [Complete your website and submit T01: Git and Personal Github Pages website](https://docs.google.com/document/d/1hzN3_0RmjV4azRVsLsWE1PGlZwGBfnPUuquXlMVmP3g/edit?usp=sharing)
 
 ## Day 2: Tuesday, August 29, 2023
