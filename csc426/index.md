@@ -6,6 +6,17 @@
 
 ---
 
+## Day 4: Tuesday, September 5, 2023
+
+**In class**:
+
+- Discuss chapter reading assignment and WSL
+- Debug the use of VS Code and WSL
+
+**Before next class**:
+
+- Post to your blog based on these [prompts](b1-blog-runestone.md).
+
 ## Day 3: Thursday, August 31, 2023
 
 **In class**:
@@ -15,8 +26,8 @@
 
 **Before next class**:
 
-- Read [Chapter 4: Version Control with Git](https://moodle.berea.edu/mod/lti/view.php?id=638827)
-- [Complete your website and submit T01: Git and Personal Github Pages website](https://docs.google.com/document/d/1hzN3_0RmjV4azRVsLsWE1PGlZwGBfnPUuquXlMVmP3g/edit?usp=sharing)
+- Read [Chapter 4: Version Control with Git](https://moodle.berea.edu/mod/lti/view.php?id=638827) Be sure to do all activities for participation credit.
+- [Complete your website and submit T01: Git and Personal Github Pages website](https://docs.google.com/document/d/1hzN3_0RmjV4azRVsLsWE1PGlZwGBfnPUuquXlMVmP3g/edit?usp=sharing). Be sure that by next time, you have at least a minimal at least locally, but should use HTML and CSS. Also be sure your Github pages site is set up even if you are having difficulty pushing to it. We will debug your use of WSL in the next class.
 
 ## Day 2: Tuesday, August 29, 2023
 
