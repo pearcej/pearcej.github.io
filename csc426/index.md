@@ -15,6 +15,7 @@
 
 **Before next class**:
 
+- Post your Github pages website if you have not already done so.
 - Post to your blog based on these [prompts](b1-blog-runestone.md).
 
 ## Day 3: Thursday, August 31, 2023
