@@ -6,6 +6,19 @@
 
 ---
 
+## Day 5: Thursday, September 7, 2023
+
+**In class**:
+
+- Discuss readings
+- Using best practices, contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
+- Meet with [Dr. Brad Miller](https://www.linkedin.com/in/bnmnetp/)
+
+**Before next class**:
+
+- TBA
+
+
 ## Day 4: Tuesday, September 5, 2023
 
 **In class**:
@@ -13,6 +26,7 @@
 - Discuss chapter reading assignment and WSL
 - Debug the use of VS Code with WSL
 - Show and tell with Github pages websites
+- ~~Meet with [Dr. Brad Miller](https://www.linkedin.com/in/bnmnetp/)~~
 
 **Before next class**:
 
