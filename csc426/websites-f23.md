@@ -15,7 +15,7 @@
 - [MM](link)
 - [IN](link)
 - [DN](link)
-- [JP](link)
+- [Jan Pearce](https://pearcej.github.io/)
 - [TP](link)
 - [MS](link)
 - [ET](link)
