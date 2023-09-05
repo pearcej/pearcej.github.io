@@ -10,9 +10,9 @@ Before blogging, please read the following three short documents:
 
 In your next blog entry, address each of the following bullets (1 or more paragraph each):
 
-- After hearing from Dr. Brad Miller, what are your first impressions about Runestone as an open-source project? Please explain.
-- What excites you about contributing to Runestone (if anything)? Explain. 
-- What worries you about contributing to Runestone (if anything)? Explain
+- ~~After hearing from Dr. Brad Miller, what are your first impressions about Runestone as an open-source project? Please explain.~~
+- ~~What excites you about contributing to Runestone (if anything)? Explain.~~
+- ~~What worries you about contributing to Runestone (if anything)? Explain~~
 - After reading, [Read Committing Code: General Rules](https://gist.github.com/digitaljhelms/3761873) and [Git, GitHub, & Workflow Fundamentals](https://dev.to/mollynem/git-github--workflow-fundamentals-5496), discuss commit messages and Git workflow and their primary purposes in the context of the open-source movement. Which guidelines make the most sense to you? Which make the least sense?
 - After reading [FOSS Definitions](https://docs.google.com/document/d/1yNo951BpIq1Kmyk8BTLN95qXJknrqkXaESGrYebyx-w/edit?usp=sharing), discuss how these definitions relate to Runestone.
 
