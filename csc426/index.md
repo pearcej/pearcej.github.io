@@ -11,7 +11,8 @@
 **In class**:
 
 - Discuss chapter reading assignment and WSL
-- Debug the use of VS Code and WSL
+- Debug the use of VS Code with WSL
+- Show and tell with Github pages websites
 
 **Before next class**:
 
