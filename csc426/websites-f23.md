@@ -3,7 +3,7 @@
 - [CA](link)
 - [AA](link)
 - [GC](link)
-- [PC](link)
+- [Paulina Conder](https://conderp.github.io/)
 - [ND](link)
 - [SF](link)
 - [IG](link)
