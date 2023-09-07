@@ -11,7 +11,7 @@
 - [AH](link)
 - [UH](link)
 - [AK](link)
-- [SM](link)
+- [Stevenson Michel](https://stevensonmichel.github.io/)
 - [MM](link)
 - [IN](link)
 - [DN](link)
