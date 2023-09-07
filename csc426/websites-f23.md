@@ -14,7 +14,7 @@
 - [SM](link)
 - [MM](link)
 - [IN](link)
-- [DN](link)
+- [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
 - [TP](link)
 - [MS](link)
