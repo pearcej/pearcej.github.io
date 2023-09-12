@@ -19,5 +19,5 @@
 - [Thao Pham](https://thaopham03.github.io/thaopham.github.io/)
 - [MS](link)
 - [ET](link)
-- [BT](link)
+- [Bishal Timalsina](https://timalsinab.github.io/)
 - [SV](link)
