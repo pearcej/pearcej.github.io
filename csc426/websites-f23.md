@@ -1,6 +1,6 @@
 # Links to Fall 2023 Websites
 
-- [CA](https://andersoncedu.github.io/)
+- [CA](link)
 - [AA](link)
 - [Garrett Clark](https://www.garrett-clark.com/)
 - [Paulina Conder](https://conderp.github.io/)
@@ -16,8 +16,8 @@
 - [Isaac Narteh]( https://nartehi.github.io/-nartehi.github.io/)
 - [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
-- [Thao Pham](https://thaopham03.github.io/thaopham.github.io/)
+- [TP](link)
 - [MS](link)
-- [ET](link)
-- [Bishal Timalsina](https://timalsinab.github.io/)
+- [Eduardo Tapia](https://tapiae1.github.io)
+- [BT](link)
 - [SV](link)
