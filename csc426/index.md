@@ -31,7 +31,6 @@
 
 - Complete the explorations and [blog entry about Runestone that is described here](b2-blog-runestone-communication.md).
 
-
 ## Day 4: Tuesday, September 5, 2023
 
 **In class**:
