@@ -5,7 +5,7 @@
 - [GC](link)
 - [PC](link)
 - [ND](link)
-- [SF](link)
+- [Silas Fair](https://fairsilas.github.io/)
 - [IG](link)
 - [EG](link)
 - [AH](link)
