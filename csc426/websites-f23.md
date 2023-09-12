@@ -7,7 +7,7 @@
 - [Nega Demeke](https://demekenega.github.io/)
 - [SF](link)
 - [IG](link)
-- [EG](link)
+- [Eren Gul](https://eygul.github.io/)
 - [AH](link)
 - [UH](link)
 - [Anish Kharel](https://anishkharel.github.io/)
