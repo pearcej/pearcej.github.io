@@ -10,7 +10,7 @@
 - [EG](link)
 - [AH](link)
 - [UH](link)
-- [AK](https://anishkharel.github.io/)
+- [Anish Kharel](https://anishkharel.github.io/)
 - [SM](link)
 - [MM](link)
 - [IN](link)
