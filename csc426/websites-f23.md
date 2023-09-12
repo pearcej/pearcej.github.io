@@ -14,7 +14,7 @@
 - [SM](link)
 - [michelmonc](https://github.com/michelmonc/michelmonc.github.io)
 - [IN](link)
-- [DN](link)
+- [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
 - [Thao Pham](https://thaopham03.github.io/thaopham.github.io/)
 - [MS](link)
