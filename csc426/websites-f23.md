@@ -9,7 +9,7 @@
 - [IG](link)
 - [Eren Gul](https://eygul.github.io/)
 - [AH](link)
-- [UH](link)
+- [Ulises Hernandez](https://github.com/UlisesH09/hernandezu.github.io)
 - [Anish Kharel](https://anishkharel.github.io/)
 - [Stevenson Michel](https://stevensonmichel.github.io/)
 - [michelmonc](https://github.com/michelmonc/michelmonc.github.io)
