@@ -19,5 +19,5 @@
 - [TP](link)
 - [Madina Solijonova](https://solijonovam.github.io/)
 - [Eduardo Tapia](https://tapiae1.github.io)
-- [BT](link)
+- [ Bishal Timalsina](https://timalsinab.github.io/)
 - [Sam Villahermosa](https://samvae.github.io/)
