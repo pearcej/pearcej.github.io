@@ -19,5 +19,5 @@
 - [TP](link)
 - [MS](link)
 - [ET](link)
-- [Bishal Timalsina](https://timalsinab.github.io/)
+- [ Bishal Timalsina](https://timalsinab.github.io/)
 - [SV](link)
