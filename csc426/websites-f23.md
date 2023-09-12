@@ -17,7 +17,7 @@
 - [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
 - [TP](link)
-- [MS](link)
+- [Madina Solijonova](https://solijonovam.github.io/)
 - [Eduardo Tapia](https://tapiae1.github.io)
 - [BT](link)
 - [Sam Villahermosa](https://samvae.github.io/)
