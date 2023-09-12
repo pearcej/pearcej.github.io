@@ -3,7 +3,7 @@
 - [CA](https://andersoncedu.github.io/)
 - [Amir Aref](https://iamirrf.github.io/)
 - [Garrett Clark](https://www.garrett-clark.com/)
-- [PC](link)
+- [Paulina Conder](https://conderp.github.io/)
 - [Nega Demeke](https://demekenega.github.io/)
 - [SF](link)
 - [IG](link)
