@@ -4,7 +4,7 @@
 - [AA](link)
 - [Garrett Clark](https://www.garrett-clark.com/)
 - [PC](link)
-- [ND](https://pearcej.github.io/)
+- [Nega Demeke](https://demekenega.github.io/)
 - [SF](link)
 - [IG](link)
 - [EG](link)
