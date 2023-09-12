@@ -4,7 +4,7 @@
 - [AA](link)
 - [GC](link)
 - [PC](link)
-- [Nega Demeke](https://demekenega.github.io/)
+- [Nega B. Demeke](https://demekenega.github.io/)
 - [SF](link)
 - [IG](link)
 - [EG](link)
