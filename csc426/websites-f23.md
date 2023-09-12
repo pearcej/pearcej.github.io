@@ -9,7 +9,7 @@
 - [Isaac Gray](https://isaacsgray.github.io/grayi.github.io/)
 - [Eren Gul](https://eygul.github.io/)
 - [AH](link)
-- [Ulises Hernandez](https://lisesH09.github.io)
+- [Ulises Hernandez](https://ulisesH09.github.io)
 - [Anish Kharel](https://anishkharel.github.io/)
 - [Stevenson Michel](https://stevensonmichel.github.io/)
 - [michelmonc](https://michelmonc.github.io/)
