@@ -1,6 +1,6 @@
 # Links to Fall 2023 Websites
 
-- [CA](https://andersoncedu.github.io/)
+- [Christopher Anderson](https://andersoncedu.github.io/)
 - [Amir Aref](https://iamirrf.github.io/)
 - [Garrett Clark](https://www.garrett-clark.com/)
 - [Paulina Conder](https://conderp.github.io/)
