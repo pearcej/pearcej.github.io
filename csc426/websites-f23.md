@@ -16,7 +16,7 @@
 - [Isaac Narteh]( https://nartehi.github.io/-nartehi.github.io/)
 - [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
-- [TP](link)
+- [Thao Pham](https://thaopham03.github.io/thaopham.github.io/)
 - [Madina Solijonova](https://solijonovam.github.io/)
 - [Eduardo Tapia](https://tapiae1.github.io)
 - [ Bishal Timalsina](https://timalsinab.github.io/)
