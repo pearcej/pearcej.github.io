@@ -1,6 +1,6 @@
 # Links to Fall 2023 Websites
 
-- [CA](https://andersoncedu.github.io/)
+- [Christopher Anderson](https://andersoncedu.github.io/)
 - [AA](link)
 - [Garrett Clark](https://www.garrett-clark.com/)
 - [PC](link)
