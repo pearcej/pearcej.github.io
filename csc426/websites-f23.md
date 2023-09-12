@@ -2,7 +2,7 @@
 
 - [CA](link)
 - [AA](link)
-- [GC](link)
+- [Garrett Clark](https://www.garrett-clark.com/)
 - [PC](link)
 - [Nega Demeke](https://demekenega.github.io/)
 - [SF](link)
