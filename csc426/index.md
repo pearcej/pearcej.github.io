@@ -6,17 +6,30 @@
 
 ---
 
+## Day 6: Tuesday, September 12, 2023
+
+**In class**:
+
+- Discuss Dr. Miller's visit, Runestone, and Runestone communication
+- **Top Priority** Complete the pull requests begun last time in [T02: Forking and Git Branches](https://docs.google.com/document/d/1H0hvucJYxOafntCageQ8V5SI2O--GcANHD9TEtSZyPw/edit?usp=sharing)
+- After completing your pull request, spend the remainder of the period giving feedback to the next 3 Github Pages websites on the [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) (ignoring mine), and also posting a *thoughtful* comment on one of each of their blog posts. This means that everyone in the class should receive feedback on their website from three people as well as thougthful comments on their blog from three people.
+
+**Before next class**:
+
+- Improve your Github Pages website based on feedback from classmates. (Can ypu also use AI to improve your website? Of course!)
+- Respond to the comments received in your blog posts
+
 ## Day 5: Thursday, September 7, 2023
 
 **In class**:
 
 - Discuss readings
-- Using best practices, contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
+- Using best practices as descrbed in [T02: Forking and Git Branches](https://docs.google.com/document/d/1H0hvucJYxOafntCageQ8V5SI2O--GcANHD9TEtSZyPw/edit?usp=sharing), contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
 - Meet with [Dr. Brad Miller](https://www.linkedin.com/in/bnmnetp/)
 
 **Before next class**:
 
-- TBA
+- Complete the explorations and [blog entry about Runestone that is described here](b2-blog-runestone-communication.md).
 
 
 ## Day 4: Tuesday, September 5, 2023
