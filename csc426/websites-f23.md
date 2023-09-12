@@ -13,7 +13,7 @@
 - [Anish Kharel](https://anishkharel.github.io/)
 - [Stevenson Michel](https://stevensonmichel.github.io/)
 - [michelmonc](https://github.com/michelmonc/michelmonc.github.io)
-- [IN](link)
+- [Isaac Narteh]( https://nartehi.github.io/-nartehi.github.io/)
 - [Daize Njounkeng](https://njounkengdaizem.github.io/)
 - [Jan Pearce](https://pearcej.github.io/)
 - [Thao Pham](https://thaopham03.github.io/thaopham.github.io/)
