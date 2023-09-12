@@ -11,7 +11,7 @@
 - [AH](link)
 - [UH](link)
 - [Anish Kharel](https://anishkharel.github.io/)
-- [SM](link)
+- [Stevenson Michel](https://stevensonmichel.github.io/)
 - [michelmonc](https://github.com/michelmonc/michelmonc.github.io)
 - [IN](link)
 - [Daize Njounkeng](https://njounkengdaizem.github.io/)
