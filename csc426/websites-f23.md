@@ -7,7 +7,7 @@
 - [ND](https://pearcej.github.io/)
 - [SF](link)
 - [IG](link)
-- [EG](link)
+- [Eren Gul](https://eygul.github.io/)
 - [AH](link)
 - [UH](link)
 - [AK](link)
