@@ -6,7 +6,7 @@
 - [Paulina Conder](https://conderp.github.io/)
 - [Silas Fair](https://fairsilas.github.io/)
 - [Nega Demeke](https://demekenega.github.io/)
-- [Isaac Gray](https://isaacsgray.github.io/grayi.github.io/)
+- [Isaac Gray](https://isaacsgray.github.io/)
 - [Eren Gul](https://eygul.github.io/)
 - [AH](link)
 - [UH](link)
