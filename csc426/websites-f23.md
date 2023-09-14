@@ -13,7 +13,7 @@
 - [AK](link)
 - [SM](link)
 - [MM](link)
-- [Isaac Narteh]( https://nartehi.github.io/-nartehi.github.io/)
+- [Isaac Narteh]( https://nartehi.github.io/nartehi.github.io/)
 - [DN](link)
 - [Jan Pearce](https://pearcej.github.io/)
 - [TP](link)
