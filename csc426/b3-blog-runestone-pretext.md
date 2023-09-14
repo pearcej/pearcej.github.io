@@ -14,7 +14,7 @@ Before blogging, please do all of the following:
 In this blog entry, write a full blog post on your thoughts about Pretext around the length of a typical blog post that one might find on [Medium](https://medium.com/).  Be sure to include the following:
 - What is the Pretext authoring language and the philosophy behind it?
 - What are the advantages/disadvantages of Pretext as an authoring language?
-- How does the PreTeXt community differ from other open source communities that you know? (Be sure to write for a broad audience, not just your classmates and instructor.)cd 
+- How does the PreTeXt community differ from other open source communities that you know? (Be sure to write for a broad audience, not just your classmates and instructor.)
 
 ### In order to receive credit for each blog entry, you must do *both* of the following:
 
