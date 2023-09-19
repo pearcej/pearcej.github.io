@@ -6,9 +6,20 @@
 
 ---
 
+## Day 8: Tuesday, September 19, 2023
+
+### Day 8: In class
+
+- Discuss PreTeXt and the PreTeXt community
+- Complete [T03 Contributing and Accessibility](https://docs.google.com/document/d/1QsmaISKkOPAYRqZz7uCL04zNHpGK6UYppYzOcZr32bQ/edit?usp=sharing)
+
+### Day : Before next class
+
+- Complete [T03 Contributing and Accessibility](https://docs.google.com/document/d/1QsmaISKkOPAYRqZz7uCL04zNHpGK6UYppYzOcZr32bQ/edit?usp=sharing) if you didn't finish it in class.
+
 ## Day 7: Thursday, September 14, 2023
 
-### In class
+### Day 7: In class
 
 - Discuss the feedback you got on your [Github Pages website](https://pearcej.github.io/csc426/websites-f23.html) and blog posts
 - Overview of [PreTeXt](https://pretextbook.org/)
@@ -16,7 +27,7 @@
 - Fork [the source code for this book](https://github.com/pearcej/opensource) then clone your fork to your WSL environment.
 - Follow the instructions in [Sections 5.3.3 and 5.2.4](https://pretextbook.org/doc/guide/html/processing-CLI.html) to build and view the book.
 
-### Before next class
+### Day 7: Before next class
 
 - Complete the explorations and [readings, explorations, and blog entry about Pretext that is described here](b3-blog-runestone-pretext.md).
 
