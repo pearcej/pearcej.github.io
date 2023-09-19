@@ -25,7 +25,7 @@
 - Overview of [PreTeXt](https://pretextbook.org/)
 - Install the PreTeXt CLI as described in [Section 5.2 PreTeXt CLI](https://pretextbook.org/doc/guide/html/processing-CLI.html)
 - Fork [the source code for this book](https://github.com/pearcej/opensource) then clone your fork to your WSL environment.
-- Follow the instructions in [Sections 5.3.3 and 5.2.4](https://pretextbook.org/doc/guide/html/processing-CLI.html) to build and view the book.
+- Follow the instructions in [Sections 5.2.3 and 5.2.4](https://pretextbook.org/doc/guide/html/processing-CLI.html) to build and view the book.
 
 ### Day 7: Before next class
 
