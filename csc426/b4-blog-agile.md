@@ -14,13 +14,13 @@ In this blog post, address each of the following bullets (1 or more paragraphs e
 
   3. In terms of the values, what other values can you think of that could contribute to the productivity goal of the Agile Manifesto?
 
-  4. Now that you have a firm understanding of Agile software engineering, how can you apply this to our class? What about your other classes, if possible?
+  4. Now that you have a better understanding of Agile software engineering, how can you apply this to our class? What about your other classes, if possible?
 
   5. How would using this manifesto improve your work? Do you think it wouldn’t help? If not, please elaborate.
 
-Next find one or more articles that serve to further address what you found interesting or confusing in these articles.
+  6. Next find one or more articles that serve to further address what you found interesting or confusing in these articles.
 
-  6.  Write at least one more paragraph that discussed what you learned from this additional source. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each.
+  7. Write at least one more paragraph that discussed what you learned from this additional source. Link these references in your blog AND add a references section at the bottom of your post with formal APA style citations for each.
 
 ### Remember in order to receive credit for each blog entry, you must do *both* of the following:
 
