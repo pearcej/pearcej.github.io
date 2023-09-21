@@ -12,11 +12,12 @@
 
 - Git workflow. Update branches.
 - Presentation by [Ala Qasem](https://www.linkedin.com/in/ala-qasem/)
-- Expansion to other issues in **opensource** or **cpp4python** repos 
+- Discuss a strategy to figure out how to create the index in a Pretext book
+- Expansion to other issues in **opensource**
 
 ### Day : Before next class
 
-- Read the next chapter in our textbook: [Chapter 6: Open Source Licensing]()
+- Do the readings and the [blog post on Agile](b4-blog-agile.md)
 
 ## Day 8: Tuesday, September 19, 2023
 
