@@ -6,6 +6,18 @@
 
 ---
 
+## Day 9: Thursday, September 21, 2023
+
+### Day 9: In class
+
+- Git workflow. Update branches.
+- Presentation by [Ala Qasem](https://www.linkedin.com/in/ala-qasem/)
+- Expansion to other issues in **opensource** or **cpp4python** repos 
+
+### Day : Before next class
+
+- Read the next chapter in our textbook: [Chapter 6: Open Source Licensing]()
+
 ## Day 8: Tuesday, September 19, 2023
 
 ### Day 8: In class
