@@ -11,7 +11,6 @@
 ### Day 10: In class
 
 - Discuss the readings and the [blog post on Agile](b4-blog-agile.md)
-- 
 - Discuss strategies for figuring out how to create the index in a Pretext book
 - Assigned expansion to other issues in specific sections of **opensource**, **cppds**, and **cpp4python**
 
