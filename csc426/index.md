@@ -6,6 +6,19 @@
 
 ---
 
+## Day 10: Tuesday, September 26, 2023
+
+### Day 10: In class
+
+- Discuss the readings and the [blog post on Agile](b4-blog-agile.md)
+- 
+- Discuss strategies for figuring out how to create the index in a Pretext book
+- Assigned expansion to other issues in specific sections of **opensource**, **cppds**, and **cpp4python**
+
+### Day 10: Before next class
+
+- - Read [Chapter 5: Open Source Licensing](https://moodle.berea.edu/mod/lti/view.php?id=641368) Be sure to do all activities for participation credit.
+
 ## Day 9: Thursday, September 21, 2023
 
 ### Day 9: In class
@@ -13,9 +26,9 @@
 - Git workflow. Update branches.
 - Presentation by [Ala Qasem](https://www.linkedin.com/in/ala-qasem/)
 - Discuss a strategy to figure out how to create the index in a Pretext book
-- Expansion to other issues in **opensource**
+- Assigned expansion to other issues in specific sections of **opensource**
 
-### Day : Before next class
+### Day 9: Before next class
 
 - Do the readings and the [blog post on Agile](b4-blog-agile.md)
 
@@ -62,7 +75,7 @@
 ### In class
 
 - Discuss readings
-- Using best practices as descrbed in [T02: Forking and Git Branches](https://docs.google.com/document/d/1H0hvucJYxOafntCageQ8V5SI2O--GcANHD9TEtSZyPw/edit?usp=sharing), contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
+- Using best practices as described in [T02: Forking and Git Branches](https://docs.google.com/document/d/1H0hvucJYxOafntCageQ8V5SI2O--GcANHD9TEtSZyPw/edit?usp=sharing), contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
 - Meet with [Dr. Brad Miller](https://www.linkedin.com/in/bnmnetp/)
 
 ### Before next class
