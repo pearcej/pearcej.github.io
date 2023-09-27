@@ -6,6 +6,18 @@
 
 ---
 
+## Day 11: Thursday, September 28, 2023
+
+### Day 11: In class
+
+- Discuss open source licensing
+- Discuss indexing in Pretext and Git workflow
+- Assigned expansion to other issues in specific sections of **opensource**, **cppds**, and **cpp4python**
+
+### Day 11: Before next class
+
+- TBA
+
 ## Day 10: Tuesday, September 26, 2023
 
 ### Day 10: In class
@@ -16,7 +28,7 @@
 
 ### Day 10: Before next class
 
-- - Read [Chapter 5: Open Source Licensing](https://moodle.berea.edu/mod/lti/view.php?id=641368) Be sure to do all activities for participation credit.
+- Read [Chapter 5: Open Source Licensing](https://moodle.berea.edu/mod/lti/view.php?id=641368) Be sure to do all activities for participation credit.
 
 ## Day 9: Thursday, September 21, 2023
 
