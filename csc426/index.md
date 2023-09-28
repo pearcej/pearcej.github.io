@@ -16,7 +16,7 @@
 
 ### Day 11: Before next class
 
-- Do the readings and the [blog post on Motivation](b5-blog-motivation.md)
+- Do the readings and the [blog post on motivation](b5-blog-motivation.md)
 
 ## Day 10: Tuesday, September 26, 2023
 

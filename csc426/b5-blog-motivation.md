@@ -3,7 +3,7 @@
 Read the following:
 - [Intrinsic Motivation in Open Source Software Development](https://www.econstor.eu/bitstream/10419/49926/1/668836490.pdf)
 
-- [Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects](https://ocw.mit.edu/courses/15-352-managing-innovation-emerging-trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdff)
+- [Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects](https://ocw.mit.edu/courses/15-352-managing-innovation-emerging-trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdf)
 
 In your blog entry, address each of the following bullets (1 or more paragraph each):
 - Discuss the motivations developers have for writing for OSS that are explored in the readings. Compare and contrast your own motivations and traits with those explored in the readings.
