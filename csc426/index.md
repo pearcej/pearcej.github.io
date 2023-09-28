@@ -10,13 +10,13 @@
 
 ### Day 11: In class
 
-- Discuss open source licensing
+- Discuss open-source licensing
 - Discuss indexing in Pretext and Git workflow
-- Assigned expansion to other issues in specific sections of **opensource**, **cppds**, and **cpp4python**
+- Assigned expansion to other issues in specific sections of **opensource** and **cppds**.
 
 ### Day 11: Before next class
 
-- TBA
+- Do the readings and the [blog post on Motivation](b5-blog-motivation.md)
 
 ## Day 10: Tuesday, September 26, 2023
 
@@ -24,7 +24,7 @@
 
 - Discuss the readings and the [blog post on Agile](b4-blog-agile.md)
 - Discuss strategies for figuring out how to create the index in a Pretext book
-- Assigned expansion to other issues in specific sections of **opensource**, **cppds**, and **cpp4python**
+- Assigned expansion to other issues in specific sections of **opensource** and **cppds**.
 
 ### Day 10: Before next class
 
