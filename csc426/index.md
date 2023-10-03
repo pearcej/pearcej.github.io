@@ -6,6 +6,19 @@
 
 ---
 
+## Day 12: Tuesday, October 3, 2023
+
+### Day 12: In class
+
+- Run `pip install pretext --upgrade`
+- Discuss indexing in Pretext and Git workflow
+- Revisit issues in **opensource** and **cppds**.
+- Complete indexing of the Pretext verion of **cppds** being sure to index one entire file per pull-request and follow best practices. 
+
+### Day 12: Before next class
+
+- Read [Chapters 6 & 7: Documentation & Contribution](https://moodle.berea.edu/mod/lti/view.php?id=642072) Be sure to do all activities for participation credit.
+
 ## Day 11: Thursday, September 28, 2023
 
 ### Day 11: In class
