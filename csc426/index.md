@@ -6,7 +6,7 @@
 
 ---
 
-## Day 13: Thursday, October 5 2023
+## Day 13: Thursday, October 5, 2023
 
 ### Day 13: In class
 
@@ -19,7 +19,7 @@
 
 ### Day 13: Before next class
 
-- Carefully document your process setting this up on your blog as you very slowly and carefully follow the instructions that begin at [https://github.com/RunestoneInteractive/rs](https://github.com/RunestoneInteractive/rs) to set-up the development environment. For this you have a week, and I want you to demonstrate your understanding of the Runestone community by getting started on this early and seeking help appropriately in the appropriate Runestone communication channels.
+- Carefully document your process on your blog as you very slowly and carefully follow the instructions to set up the development environment that begin at [https://github.com/RunestoneInteractive/rs](https://github.com/RunestoneInteractive/rs). For this you have a week, and I want you to demonstrate your understanding of the Runestone community by getting started on this early and seeking help appropriately in the appropriate Runestone communication channels.
 
 ## Day 12: Tuesday, October 3, 2023
 
