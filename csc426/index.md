@@ -6,6 +6,21 @@
 
 ---
 
+## Day 13: Thursday, October  2023
+
+### Day 13: In class
+
+- Discuss documentation and contribution
+- Discuss responding to comments
+- Discuss outstanding pull-requests
+- Discuss homework
+- Revisit issues in **opensource** and **cppds**.
+- Finish the complete indexing of the Pretext verion of **cppds** being sure to index one entire file per pull-request and follow best practices.
+
+### Day 13: Before next class
+
+- Carefully document your process setting this up on your blog as you very slowly and carefully follow the instructions that begin at [https://github.com/RunestoneInteractive/rs](https://github.com/RunestoneInteractive/rs) to set-up the development environment. For this you have a week, and I want you to demonstrate your understanding of the Runestone community by getting started on this early and seeking help appropriately in the appropriate Runestone communication channels.
+
 ## Day 12: Tuesday, October 3, 2023
 
 ### Day 12: In class
