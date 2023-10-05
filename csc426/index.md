@@ -6,7 +6,7 @@
 
 ---
 
-## Day 13: Thursday, October  2023
+## Day 13: Thursday, October 5 2023
 
 ### Day 13: In class
 
