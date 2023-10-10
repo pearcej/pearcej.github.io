@@ -2,9 +2,9 @@
 
 In this blog post, address each of the following bullets:
 
-1. Note that the work that underlays this blog post must not be undertaken too late. Explain why
+1. Note that the work that underlays this blog post must not be undertaken too late. Explain why.
   
-2. Carefully document your process on your blog as you very slowly and very deliberately follow the posted instructions to set up the development environment that begin at https://github.com/RunestoneInteractive/rs. For this you have one week, and I expect you to demonstrate your understanding of the Runestone community by getting started on this early and seeking help appropriately in the appropriate Runestone communication channels. (You are encouraged also to use Slack to help others, but note that solely last ditch requests for help will not be seen positively, and your grade will reflect that.)
+2. Carefully document your process on your blog as you very slowly and very deliberately follow the posted instructions to set up the development environment that begin at [https://github.com/RunestoneInteractive/rs](https://github.com/RunestoneInteractive/rs). For this you have one week, and I expect you to demonstrate your understanding of the Runestone community by getting started on this early and seeking help appropriately in the appropriate Runestone communication channels. (You are encouraged also to use Slack to help others, but note that solely last ditch requests for help will not be seen positively, and your grade will reflect that.)
 
 2. Identify all challenges you faced, exactly when you faced them, what you did to overcome each of them, and why your approach is one that demonstrates you professionalism. Explain.
 
