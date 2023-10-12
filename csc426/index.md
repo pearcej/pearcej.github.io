@@ -6,6 +6,18 @@
 
 ---
 
+## Day 14: Tuesday, October 12, 2023
+
+### Day 14: In class
+
+- Reporting out on the Runestone setup and work-shopping set-up issues
+- Strategizing about how to get unstuck
+- Possible work in **opensource** and **cppds**.
+
+### Day 14: Before next class
+
+- None - study for your other midterm exams!
+
 ## Day 13: Thursday, October 5, 2023
 
 ### Day 13: In class
@@ -15,7 +27,7 @@
 - Discuss outstanding pull-requests
 - Discuss homework
 - Revisit issues in **opensource** and **cppds**.
-- Finish the complete indexing of the Pretext verion of **cppds** being sure to index one entire file per pull-request and follow best practices.
+- Finish the complete indexing of the Pretext version of **cppds** being sure to index one entire file per pull-request and follow best practices.
 
 ### Day 13: Before next class
 
@@ -28,7 +40,7 @@
 - Run `pip install pretext --upgrade`
 - Discuss indexing in Pretext and Git workflow
 - Revisit issues in **opensource** and **cppds**.
-- Complete indexing of the Pretext verion of **cppds** being sure to index one entire file per pull-request and follow best practices. 
+- Complete indexing of the Pretext version of **cppds** being sure to index one entire file per pull-request and follow best practices. 
 
 ### Day 12: Before next class
 
