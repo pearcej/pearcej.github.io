@@ -10,8 +10,9 @@
 
 ### Day 16: In class
 
+- Update your Windows by clicking the update from the web link. Note that this is important! Some of you ignored this before and it caused problems.
 - Update your rs fork and update your local
-- If on Windows, go to [Get started with Docker remote containers on WSL 2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+- If on Windows and you haven't done this already, go to [Get started with Docker remote containers on WSL 2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
 - Report out on the Runestone setup and work-shopping set-up issues
 - Strategizing about how to get unstuck
 - If you get tired of all of the installation drugery, you can move on to learning about MVC and web2py:
