@@ -13,6 +13,7 @@
 - Update your Windows by clicking the update from the web link. Note that this is important! Some of you ignored this before and it caused problems.
 - Update your rs fork and update your local
 - If on Windows and you haven't done this already, go to [Get started with Docker remote containers on WSL 2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+  - The directions include installing Docker Desktop for Windows. Once you have done that, I recommend the tutorials inside of Docker Desktop.
 - Report out on the Runestone setup and work-shopping set-up issues
 - Strategizing about how to get unstuck
 - If you get tired of all of the installation drugery, you can move on to learning about MVC and web2py:
