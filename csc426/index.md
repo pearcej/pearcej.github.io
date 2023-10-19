@@ -6,7 +6,35 @@
 
 ---
 
-## Day 14: Tuesday, October 12, 2023
+## Day 16: Thursday, October 19, 2023
+
+### Day 16: In class
+
+- Update your rs fork and update your local
+- If on Windows, go to [Get started with Docker remote containers on WSL 2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+- Report out on the Runestone setup and work-shopping set-up issues
+- Strategizing about how to get unstuck
+- If you get tired of all of the installation drugery, you can move on to learning about MVC and web2py:
+  - Read [What Is a Web Application?](https://mikkegoes.com/what-is-a-web-application/)
+  - Read [What Is the Model-View-Controller (MVC) Design Pattern?](https://mikkegoes.com/model-view-controller-mvc/)
+  - Read [Web2py Tutorial](https://www.tutorialspoint.com/web2py/index.htm)
+
+### Day 16: Before next class
+
+- TBA
+
+## Day 15: Tuesday, October 17, 2023
+
+### Day 15: In class
+
+- Reporting out on the Runestone setup and work-shopping set-up issues
+- Strategizing about how to get unstuck
+
+### Day 15: Before next class
+
+- None - enjoy Mountain Day!
+
+## Day 14: Thursday, October 12, 2023
 
 ### Day 14: In class
 
