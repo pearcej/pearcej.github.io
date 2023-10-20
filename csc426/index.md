@@ -24,7 +24,7 @@
 
 ### Day 16: Before next class
 
-- TBA
+- Complete See [Blog post description](b7-blog-docker.md) for more detail.
 
 ## Day 15: Tuesday, October 17, 2023
 

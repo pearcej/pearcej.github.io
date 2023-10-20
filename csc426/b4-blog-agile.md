@@ -1,4 +1,4 @@
-# Blog Prompt 
+# Blog Prompt on Agile
 
 Read the following:
 - [12 Principles Behind the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
