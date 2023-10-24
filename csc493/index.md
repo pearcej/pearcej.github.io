@@ -15,7 +15,7 @@
 
 ### Day 8: Before next class
 
-- TBA
+- Complete [Blog Prompt on Docker](b7-blog-docker.html)
 
 ## Day 7: Thursday, September 14, 2023
 
