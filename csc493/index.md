@@ -6,7 +6,17 @@
 
 ---
 
-## Day 8: Tuesday, September 19, 2023
+## Day 9: Tuesday, September 24, 2023
+
+### Day 9: In class
+
+- More build debugging. Please help others if your environment is building. If you are not focused on classwork, you will be counted as absent.
+
+### Day 9: Before next class
+
+- Try to get your build fully working and a book to build and deploy. If you are having trouble, please ask for help on our Slack channel, not in the Runestone Discord channel.
+
+## Day 8: Thursday, September 19, 2023
 
 ### Day 8: In class
 
