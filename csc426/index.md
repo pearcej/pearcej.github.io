@@ -6,6 +6,45 @@
 
 ---
 
+## Day 18: Thursday, October 26, 2023
+
+### Day 18: In class
+
+- We are going to break up into interest teams in class today.
+
+  1. Runestone Set-up: Two of the teams will explore some alternative Runestone set-ups for Brad Miller.
+
+  - "I would like to hear what others think is the best way for a newcomer trying to set up the servers to build a book.  There are (at least) three different options that I can think of:
+
+  1. Install a production version of runestone from pypi
+  2. Initialize npm in bases/rsptx/interactives and use the dev version of runestone from the rs virtualenv.
+  3. Run docker compose run rsmanage rsmanage build bookname
+
+Notes
+
+- You should not pip install things into the rs virtualenv so this would require a second virtualenv to swtich back and forth.
+- This is what you need if you are actually going to do development on the components.   But it is the most effort to get set up.
+- The rsmanage docker container has a production version of runestone installed.  Of all of them it should just work as long as you have an external or dockerized database running.  Also, for ptx books this has the benefit of copying things into the right places, processing the manifest, and updating the library page."
+
+2. The rest of the teams will explore different aspects of how Runestone works. This could be explore one of the servers or it could be explore the instructor interface or the author interface.
+
+All teams will be expected to report back to the class.
+
+### Day 17: Before next class
+
+- TBA
+
+## Day 17: Tuesday, October 24, 2023
+
+### Day 17: In class
+
+- Discussion on Docker vs VMs
+- More debugging of the Runestone build
+
+### Day 17: Before next class
+
+- Homework: Try to get your build fully working and a book to build and deploy. If you are having trouble, please ask for help on our Slack channel, not in the Runestone Discord channel.
+
 ## Day 16: Thursday, October 19, 2023
 
 ### Day 16: In class
