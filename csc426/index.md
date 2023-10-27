@@ -10,29 +10,32 @@
 
 ### Day 18: In class
 
-- We are going to break up into interest teams in class today.
+- Still fixing problems with the dev environment set-up. This cannot continue. Students, you MUST seek help, so the class can move forward! Ypu are also EXPECTED to communicate!!
+- ~~We are going to break up into interest teams in class today.~~
+  ~~1. Runestone Set-up: Two of the teams will explore some alternative Runestone set-ups for Brad Miller.~~
+  ~~- "I would like to hear what others think is the best way for a newcomer trying to set up the servers to build a book.  There are (at least) three different options that I can think of:~~
+  ~~1. Install a production version of runestone from pypi~~
+  ~~2. Initialize npm in bases/rsptx/interactives and use the dev version of runestone from the rs virtualenv.~~
+  ~~3. Run docker compose run rsmanage rsmanage build bookname~~
+~~Notes:~~
+  ~~- You should not pip install things into the rs virtualenv so this would require a second virtualenv to swtich back and forth.~~
+  ~~- This is what you need if you are actually going to do development on the components.   But it is the most effort to get set up.~~
+  ~~- The rsmanage docker container has a production version of runestone installed.  Of all of them it should just work as long as you have an external or dockerized database running.  Also, for ptx books this has the benefit of copying things into the right places, processing the manifest, and updating the library page."~~
 
-  1. Runestone Set-up: Two of the teams will explore some alternative Runestone set-ups for Brad Miller.
+~~2. The rest of the teams will explore different aspects of how Runestone works. This could be explore one of the servers or it could be explore the instructor interface or the author interface.~~
 
-  - "I would like to hear what others think is the best way for a newcomer trying to set up the servers to build a book.  There are (at least) three different options that I can think of:
-
-  1. Install a production version of runestone from pypi
-  2. Initialize npm in bases/rsptx/interactives and use the dev version of runestone from the rs virtualenv.
-  3. Run docker compose run rsmanage rsmanage build bookname
-
-Notes
-
-- You should not pip install things into the rs virtualenv so this would require a second virtualenv to swtich back and forth.
-- This is what you need if you are actually going to do development on the components.   But it is the most effort to get set up.
-- The rsmanage docker container has a production version of runestone installed.  Of all of them it should just work as long as you have an external or dockerized database running.  Also, for ptx books this has the benefit of copying things into the right places, processing the manifest, and updating the library page."
-
-2. The rest of the teams will explore different aspects of how Runestone works. This could be explore one of the servers or it could be explore the instructor interface or the author interface.
-
-All teams will be expected to report back to the class.
+~~All teams will be expected to report back to the class~~
 
 ### Day 17: Before next class
 
-- TBA
+- Your **SOLE** homework is that you **MUST get a working development environment with a book that builds and deploys inside of it asap but at the latest BEFORE class on Tuesday, November 7.** You have ample resources. You have my office hours, which none of you have come to. You have Moise's lab hours. You have both class times next week (which you can attend virtually if you are at AfroTech.) You have our Slack channel, the Runestone Discord channel, and you have all of the following video drop in times:
+- Friday 3pm-5pm Eastern (TODAY and a week from today)
+- Tuesday 3pm-5pm Eastern
+- Wednesday 12noon-1:45pm Eastern
+- Thursday 2pm-4pm Eastern
+- all of the above meet at the Zoom link: https://prose.runestone.academy/dropin/
+If you REALLY cannot get your WSL set-up, you can set up a VM and run Ubuntu in it and set it up there.
+But one way or another, I expect you to have a development environment fully set-up and fully working by BEFORE class on November 7.
 
 ## Day 17: Tuesday, October 24, 2023
 
