@@ -11,10 +11,11 @@
 ### Day 20: In class
 
 - Read and discuss [How to Navigate a Large Codebase Effectively](https://learncodingusa.com/how-to-navigate-a-large-codebase-effectively/)
+- We will explore different aspects of how Runestone works. This could be explore one of the servers or it could be explore the instructor interface or the author interface.
 
 ### Day 20: Before next class
 
-- Complete See [Blog post description](b8-blog-mvc.md) for more detail.
+- Complete readings and blog post. See [Blog post description](b8-blog-mvc.md) for more detail.
 
 ## Optional class: Thursday, November 2, 2023
 
