@@ -6,6 +6,50 @@
 
 ---
 
+## Day 20: Tuesday, November 7, 2023
+
+### Day 20: In class
+
+- Read and discuss [How to Navigate a Large Codebase Effectively](https://learncodingusa.com/how-to-navigate-a-large-codebase-effectively/)
+
+### Day 20: Before next class
+
+- Complete See [Blog post description](b8-blog-mvc.md) for more detail.
+
+## Optional class: Thursday, November 2, 2023
+
+### Optional class: In class
+
+- Class is optional unless your environment is not yet working, then you are expected to attend.
+
+### Optional class: Before next class
+
+- Your **SOLE** required homework is that you **MUST get a working development environment with a book that builds and deploys inside of it asap but at the latest BEFORE class on Tuesday, November 7.** You have ample resources. You have my office hours, which none of you have come to. You have Moise's lab hours. You have both class times next week (which you can attend virtually if you are at AfroTech.) You have our Slack channel, the Runestone Discord channel, and you have all of the following video drop in times:
+- Tuesday 3pm-5pm Eastern
+- Wednesday 12noon-1:45pm Eastern
+- Thursday 2pm-4pm Eastern
+- Friday 3pm-5pm Eastern
+- all of the above meet at the Zoom link: https://prose.runestone.academy/dropin/
+If you REALLY cannot get your WSL set-up, you can set up a VM and run Ubuntu in it and set it up there.
+But one way or another, I expect you to have a development environment fully set-up and fully working by BEFORE class on November 7.
+
+## Day 19: Tuesday, October 31, 2023
+
+### Day 19: In class
+
+- Still fixing problems with the dev environment set-up.
+
+### Day 19: Before next class
+
+- Your **SOLE** homework is that you **MUST get a working development environment with a book that builds and deploys inside of it asap but at the latest BEFORE class on Tuesday, November 7.** You have ample resources. You have my office hours, which none of you have come to. You have Moise's lab hours. You have both class times next week (which you can attend virtually if you are at AfroTech.) You have our Slack channel, the Runestone Discord channel, and you have all of the following video drop in times:
+- Friday 3pm-5pm Eastern
+- Tuesday 3pm-5pm Eastern
+- Wednesday 12noon-1:45pm Eastern
+- Thursday 2pm-4pm Eastern
+- all of the above meet at the Zoom link: https://prose.runestone.academy/dropin/
+If you REALLY cannot get your WSL set-up, you can set up a VM and run Ubuntu in it and set it up there.
+But one way or another, I expect you to have a development environment fully set-up and fully working by BEFORE class on November 7.
+
 ## Day 18: Thursday, October 26, 2023
 
 ### Day 18: In class
@@ -26,10 +70,10 @@
 
 ~~All teams will be expected to report back to the class~~
 
-### Day 17: Before next class
+### Day 18: Before next class
 
 - Your **SOLE** homework is that you **MUST get a working development environment with a book that builds and deploys inside of it asap but at the latest BEFORE class on Tuesday, November 7.** You have ample resources. You have my office hours, which none of you have come to. You have Moise's lab hours. You have both class times next week (which you can attend virtually if you are at AfroTech.) You have our Slack channel, the Runestone Discord channel, and you have all of the following video drop in times:
-- Friday 3pm-5pm Eastern (TODAY and a week from today)
+- Friday 3pm-5pm Eastern
 - Tuesday 3pm-5pm Eastern
 - Wednesday 12noon-1:45pm Eastern
 - Thursday 2pm-4pm Eastern
