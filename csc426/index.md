@@ -11,12 +11,12 @@
 ### Day 21: In class
 
 - Discussions on readings and [Blog post ](b8-blog-mvc.md).
-- Short presentations on your chosen issue and your understanding of a portion of the runestone codebase. 
-- discussions of scrum methodology and how it may help us make progress.
+- Short presentations on your chosen issue and your understanding of a portion of the Runestone codebase.
+- work on our issues
 
 ### Day 20: Before next class
 
-- TBA
+- Go to [Runestone structure blog post](b9-blog-rs-monorepo.md) and follow the instructions there.
 
 ## Day 20: Tuesday, November 7, 2023
 
