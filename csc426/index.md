@@ -6,6 +6,18 @@
 
 ---
 
+## Day 21: Thursday, November 9, 2023
+
+### Day 21: In class
+
+-Discussions on readings and b[Blog post ](b8-blog-mvc.md).
+- Short presentations on your chosen issue and your understanding of a portion of the runestone codebase. 
+-discussions of scrum methodology and how it may help us make progress.
+
+### Day 20: Before next class
+
+- TBA
+
 ## Day 20: Tuesday, November 7, 2023
 
 ### Day 20: In class
