@@ -6,6 +6,18 @@
 
 ---
 
+## Day 22: Tuesday, November 14, 2023
+
+### Day 22: In class
+
+- Discussions on readings and [Runestone structure blog post](b9-blog-rs-monorepo.md).
+- Short presentations on your chosen issue and your understanding of a portion of the Runestone codebase.
+- work on our issues
+
+### Day 22: Before next class
+
+- Spend two hours outside of class working on your issue. Be prepared to report on your progress next time.
+
 ## Day 21: Thursday, November 9, 2023
 
 ### Day 21: In class
@@ -14,7 +26,7 @@
 - Short presentations on your chosen issue and your understanding of a portion of the Runestone codebase.
 - work on our issues
 
-### Day 20: Before next class
+### Day 21: Before next class
 
 - Go to [Runestone structure blog post](b9-blog-rs-monorepo.md) and follow the instructions there.
 
