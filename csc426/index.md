@@ -6,6 +6,18 @@
 
 ---
 
+## Day 23: Thursday, November 16, 2023
+
+### Day 23: In class
+
+- Discussions and work on issues
+- Begin [PR Peerwise Review for Exam](https://docs.google.com/document/d/1Dg3O1U4Ev4nwVuLoP15CkgXmV1irEt6FIwEvpUo86sE/edit?usp=sharing)
+
+### Day 23: Before next class
+
+- Complete and submit the individual portion of [PR Peerwise Review for Exam](https://docs.google.com/document/d/1Dg3O1U4Ev4nwVuLoP15CkgXmV1irEt6FIwEvpUo86sE/edit?usp=sharing). Note that due to the nature of this assignment, it will not be accepted late.
+- continue working on your issue
+
 ## Day 22: Tuesday, November 14, 2023
 
 ### Day 22: In class
