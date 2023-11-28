@@ -6,6 +6,19 @@
 
 ---
 
+## Day 25: Tuesday, November 28, 2023
+
+### Day 25: In class
+
+- Exam
+- work on issues
+
+### Day 25: Before next class
+
+- spend at least two hours outside of class making progress on your issue
+
+## Thursday, November 23, 2023: No class - Thanksgiving Break
+
 ## Day 24: Tuesday, November 21, 2023
 
 ### Day 24: In class
