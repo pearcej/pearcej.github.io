@@ -25,12 +25,12 @@
 
 - Questions on upcoming exam
 - Revise and submit [PR Peerwise Review for Exam](https://docs.google.com/document/d/1Dg3O1U4Ev4nwVuLoP15CkgXmV1irEt6FIwEvpUo86sE/edit?usp=sharing)
-- study for exam which will be on Tuesday, November 28
+- continue working on your issue
 
 ### Day 24: Before next class
 
 - During class: Complete and submit the revised portion of [PR Peerwise Review for Exam](https://docs.google.com/document/d/1Dg3O1U4Ev4nwVuLoP15CkgXmV1irEt6FIwEvpUo86sE/edit?usp=sharing). Note that due to the nature of this assignment, it will not be accepted late.
-- continue working on your issue
+- study for exam which will be on Tuesday, November 28
 
 ## Day 23: Thursday, November 16, 2023
 
