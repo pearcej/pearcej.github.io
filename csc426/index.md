@@ -10,8 +10,8 @@
 
 ### Day 25: In class
 
-- Exam
-- work on issues
+- Take Exam - this will likely take only half of the class period
+- work on issues for the remainder of the class period
 
 ### Day 25: Before next class
 
@@ -25,7 +25,7 @@
 
 - Questions on upcoming exam
 - Revise and submit [PR Peerwise Review for Exam](https://docs.google.com/document/d/1Dg3O1U4Ev4nwVuLoP15CkgXmV1irEt6FIwEvpUo86sE/edit?usp=sharing)
-- work on issues
+- study for exam which will be on Tuesday, November 28
 
 ### Day 24: Before next class
 
