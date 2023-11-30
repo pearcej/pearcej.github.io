@@ -6,6 +6,19 @@
 
 ---
 
+## Day 26: Thursday, November 30, 2023
+
+### Day 26: In class
+
+- Discuss exam
+- Discuss [Final Portfolio](https://pearcej.github.io/csc426/portfolio.html)
+- Discuss [Final Team Presentation](https://pearcej.github.io/csc426/presentation.html). Should we do these via Teams or in-person? No hybrid options will be offered.
+- Work on issues
+
+### Day 26: Before next class
+
+- spend at least four hours outside of class making progress on your issue, keeping a record of your time in [SR1: Project Time-Keeping and Scrum Report 1](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). In the same document write a scrum report and upload to Moodle before class. **WARNING: Scrum reports will not be accepted late.**
+
 ## Day 25: Tuesday, November 28, 2023
 
 ### Day 25: In class
