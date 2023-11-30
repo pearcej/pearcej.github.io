@@ -2,7 +2,7 @@
 
 Submit a professionally-written single-spaced portfolio document to Moodle which includes the following sections:
 
-1. A high-level overwiew of the issue(s) you solved from the opensource and cppds textbooks. What kinds of issues did you take on and what was the result? Choose a couple that you are particularly proud of and please give specifics with book names, issue numbers as well as a description of what you did and what you are proud of tthat is easy to understand.
+1. A high-level overwiew of the issue(s) you solved from the opensource and cppds textbooks. What kinds of issues did you take on and what was the result? Choose a couple that you are particularly proud of and please give specifics with book names, issue numbers as well as a description of what you did and what you are proud of that is easy to understand.
 
 2. An detailed overview of all of the issues that you and/or your team worked on in the later part of the course, including the issue number, and easy to understand description of the issues, a summary of the progress your team made including pull request numbers (if any; if none, then summarize each of your attempts), and if you did not complete the issue(s) detail what you did to make it/them easy for someone else in the open source community to utilize your progress to complete and close. Assume that your reader has general familiarity with Runestone, but nothing more. Be sure to include images or screenshots. (3+ paragraphs)
 

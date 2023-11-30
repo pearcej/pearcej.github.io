@@ -27,4 +27,4 @@ Note that the slides should NOT try to cover all of the above in full sentences 
 
 **In order to get full credit, you must submit download and submit the final version of your slides to Moodle before the final exam period which is 11:45 am Tuesday, December 12, 2023.**
 
-### The slides are due to be uploaded to Moodle by 11:45 am on Wednesday, December 8, 2021
+### The slides are due to be uploaded to Moodle by 11:45 am on Tuesday, December 12, 2023, which is immediately proceeding the final exam period.
