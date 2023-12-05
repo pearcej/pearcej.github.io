@@ -6,6 +6,17 @@
 
 ---
 
+## Day 27: Tuesday, December 5, 2023
+
+### Day 27: In class
+
+- Brief reports on issue progress
+- Remember that the [Final Team Presentation](https://pearcej.github.io/csc426/presentation.html) will be in-person.
+
+### Day 27: Before next class
+
+- spend at least two hours outside of class making progress on your issue, keeping a record of your time in [SR2: Project Time-Keeping and Scrum Report 2](https://docs.google.com/document/d/1L8E74FH802iRdE77sY_EXwxTHw5LK7RXFB9LyrR-lwo/edit?usp=sharing). In the same document write a scrum report and upload to Moodle before class. **WARNING: Scrum reports will not be accepted late.**
+
 ## Day 26: Thursday, November 30, 2023
 
 ### Day 26: In class
@@ -73,7 +84,7 @@
 
 ### Day 21: In class
 
-- Discussions on readings and [Blog post ](b8-blog-mvc.md).
+- Discussions on readings and [Blog post](b8-blog-mvc.md).
 - Short presentations on your chosen issue and your understanding of a portion of the Runestone codebase.
 - work on our issues
 
@@ -316,7 +327,7 @@ But one way or another, I expect you to have a development environment fully set
 
 ## Day 5: Thursday, September 7, 2023
 
-### In class
+### Day 5: In class
 
 - Discuss readings
 - Using best practices as described in [T02: Forking and Git Branches](https://docs.google.com/document/d/1H0hvucJYxOafntCageQ8V5SI2O--GcANHD9TEtSZyPw/edit?usp=sharing), contribute your link to our [2023 course listing of websites](https://pearcej.github.io/csc426/websites-f23.html) in order to make it look like [the 2019 course listing of websites](https://pearcej.github.io/csc426/websites-f19.html)
