@@ -9,6 +9,7 @@
 ## Final Presentations and Team Evaluation
 - Our final evam period is Tuesday, 11:45 am. Please be sure to submit your slides in advance.
 - Go to [Team Evaluation](https://docs.google.com/document/d/1-rTaoaHfqZp_Bca5FX6KVmga0ckosTPiv9IRtUleuF0/edit?usp=sharing) to submit team evaluations this is due anytime on Friday.
+- If you have not made any pull request for an issue that you want credit for in your project, you MUST do so so I can see your code!  Be sure to do that any time Friday.
 - Enjoy your break!
 
 
