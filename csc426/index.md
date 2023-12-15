@@ -6,6 +6,12 @@
 
 ---
 
+## Final Presentations and Team Evaluation
+- Our final evam period is Tuesday, 11:45 am. Please be sure to submit your slides in advance.
+- Go to [Team Evaluation](https://docs.google.com/document/d/1-rTaoaHfqZp_Bca5FX6KVmga0ckosTPiv9IRtUleuF0/edit?usp=sharing) to submit team evaluations this is due anytime on Friday.
+- Enjoy your break!
+
+
 ## Day 27: Tuesday, December 5, 2023
 
 ### Day 27: In class
